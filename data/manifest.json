@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "WaitLearn — AI Toolkit Basics",
+  "version": "0.5.0",
+  "description": "Lær Python, JSON, API'er og AI-værktøjer mens du venter på AI'en.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["https://raw.githubusercontent.com/*/*/*"]
+}
