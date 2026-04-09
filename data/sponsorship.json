@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Hvad er et sponsorat?",
+    "body": "Et <b>sponsorat</b> er en kommerciel aftale hvor en virksomhed (sponsor) betaler for rettigheder til at associere sig med en sportsklub, begivenhed eller atlet. Til gengæld får sponsoren eksponering, adgang til fans og mulighed for at styrke sit brand.<br><br>Det er ikke velgørenhed — det er en <b>marketing-investering</b> der skal give målbart afkast.",
+    "question": "Hvad er den primære forskel på et sponsorat og velgørenhed?",
+    "options": ["Størrelsen på beløbet", "Et sponsorat er en kommerciel investering med forventede fordele", "Velgørenhed er ulovligt i sport", "Sponsorater kræver TV-dækning"],
+    "correct": 1,
+    "explanation": "Sponsorater er kommercielle aftaler med målbare mål. Velgørenhed forventer intet til gengæld."
+  },
+  {
+    "title": "Sponsorat vs. reklame",
+    "body": "Traditionel <b>reklame</b> er envejskommunikation: du køber plads og sender dit budskab. Et <b>sponsorat</b> er en association — du låner rights holderens image, følelsesmæssige forbindelse og fanbase.<br><br>Reklame siger: <em>\"Køb vores produkt.\"</em> Sponsorater siger: <em>\"Vi deler dine værdier.\"</em><br><br>Sponsorater fungerer bedst som et <b>platformat</b> der giver noget at aktivere reklame, PR og events på.",
+    "question": "Hvad er den vigtigste forskel på sponsorater og traditionel reklame?",
+    "options": ["Sponsorater er altid dyrere", "Sponsorater er baseret på association og følelsesmæssig forbindelse, ikke kun eksponering", "Reklame kræver TV, sponsorater kræver sociale medier", "Der er ingen reel forskel"],
+    "correct": 1,
+    "explanation": "Sponsorater aktiverer en følelsesmæssig forbindelse via rights holderens brand. Det er fundamentalt anderledes end at købe annonceplads."
+  },
+  {
+    "title": "Rights holder og sponsor",
+    "body": "I et sponsorat er der altid to parter:<br><br><b>Rights holder</b> = den der ejer rettighederne. Det kan være en klub, liga, begivenhed eller atlet. De sælger eksponering, adgang og rettigheder.<br><br><b>Sponsor</b> = virksomheden der køber rettighederne. De betaler med penge eller naturalydelser (produkter/services).<br><br>En <b>naturalydelse</b> (value-in-kind) er fx at en bilproducent stiller biler til rådighed i stedet for kontanter.",
+    "question": "Hvad betyder 'value-in-kind' i en sponsoraftale?",
+    "options": ["At sponsoren betaler med produkter eller services i stedet for kontanter", "At rights holderen betaler sponsoren", "At aftalen er baseret på goodwill", "At der ikke er nogen kontrakt"],
+    "correct": 0,
+    "explanation": "Value-in-kind er naturalydelser — sponsoren leverer produkter eller services i stedet for (eller ud over) cash."
+  },
+  {
+    "title": "Brand awareness — synlighed der virker",
+    "body": "<b>Brand awareness</b> er i hvor høj grad forbrugere kender og genkender dit brand. Sponsorater i sport er en af de mest effektive måder at opbygge awareness på — især fordi sportsfans ser de samme logoer gentagne gange over en hel sæson.<br><br>Der er to typer awareness:<br>• <b>Aided awareness</b>: Man genkender brandet når man præsenteres for det<br>• <b>Unaided/top-of-mind awareness</b>: Man nævner brandet spontant uden hints",
+    "question": "Hvad er 'unaided awareness'?",
+    "options": ["At et logo er synligt uden hjælpemidler", "At forbrugere nævner et brand spontant uden at blive præsenteret for det", "At brandet ikke behøver reklame", "At awareness-målingen sker automatisk"],
+    "correct": 1,
+    "explanation": "Unaided/top-of-mind awareness er det stærkeste mål — forbrugeren husker dit brand uden hints. Det er målet for langsigtede sponsorater."
+  },
+  {
+    "title": "Image transfer — lån rights holderens brand",
+    "body": "<b>Image transfer</b> (eller <b>brand congruence</b>) er det fænomen at sponsors brand automatisk absorberer nogle af de værdier og associationer som fans har til rights holderen.<br><br>Hvis du sponserer et hold der symboliserer <em>vindermindset, fællesskab og passion</em>, kan disse værdier overføres til dit brand — men kun hvis der er et naturligt fit.<br><br>Et dårligt fit (fx en fastfood-kæde der sponserer en sundhedsmesse) kan skade begge parter.",
+    "question": "Hvad forstås ved 'image transfer' i sponsormarkedsføring?",
+    "options": ["At sponsors logo flyttes til rights holderens website", "At værdier og associationer fra rights holderen overføres til sponsorens brand", "At man bytter logo-designs med hinanden", "At sponsoren overtager rights holderens identitet"],
+    "correct": 1,
+    "explanation": "Image transfer sker automatisk via association — fans forbinder sponsorens brand med holdets værdier. Et godt fit forstærker dette."
+  },
+  {
+    "title": "Sponsor fit — det handler om relevans",
+    "body": "<b>Sponsor fit</b> (også kaldet <b>brand congruence</b> eller <b>sponsorship fit</b>) beskriver i hvor høj grad der er en naturlig og logisk sammenhæng mellem sponsor og rights holder.<br><br>Forskning viser at et <b>højt fit</b> giver:<br>• Bedre brand recall hos fans<br>• Mere positiv attitude til sponsoren<br>• Højere købsintention<br><br>Eksempel: En energidrik der sponserer en e-sport-turnering har højt fit. En begravelsesforretning der sponserer et børnehold har lavt fit.",
+    "question": "Hvad sker der typisk ved lavt sponsor fit?",
+    "options": ["Fans ignorerer sponsoren, men der er ingen skade", "Sponsoraten virker bedre fordi den skiller sig ud", "Fans reagerer negativt, og brand recall falder", "Prisen på rettighederne falder automatisk"],
+    "correct": 2,
+    "explanation": "Lavt fit forvirrer fans og kan skabe negativ association. Høj kongruens er afgørende for at sponsoratet virker."
+  },
+  {
+    "title": "Sponsorat-hierarkiet",
+    "body": "De fleste rights holdere sælger sponsorater i et hierarki med forskellige niveauer og rettigheder:<br><br><b>Title sponsor</b>: Øverste niveau. Brandet indgår i selve navnet (fx 'Alka Superliga'). Dyreste og mest eksklusivt.<br><b>Main sponsor / Principal sponsor</b>: Næststørst eksponering — typisk størst logo på trøjen.<br><b>Official partner</b>: Kategorieksklusive rettigheder inden for et segment.<br><b>Official supplier</b>: Leverandør af produkter/services — ofte lavere fee men naturlig produktintegration.",
+    "question": "Hvad kendetegner en 'title sponsor'?",
+    "options": ["De har færrest rettigheder men betaler mest", "Deres brand indgår i selve navngivningen af begivenheden eller ligaen", "De leverer kun produkter, ikke penge", "De ejer 51% af rettighederne"],
+    "correct": 1,
+    "explanation": "En title sponsor får naming rights — brandet er en del af selve begivenhedens navn. Det er den dyreste og mest eksklusive placering."
+  },
+  {
+    "title": "Naming rights — hvad er de værd?",
+    "body": "<b>Naming rights</b> er retten til at give sit navn til en arena, stadion, liga eller turnering. Det er det mest eksponerede sponsorat af alle.<br><br>Eksempler: Allianz Arena (Bayern München), Emirates Stadium (Arsenal).<br><br>Værdi drives af:<br>• Antal medieomtaler med navnet<br>• Daglig lokal eksponering fra skilte og omtale<br>• Associationens prestige og emotionelle ladning<br><br>Naming rights er typisk <b>langsigtede aftaler</b> (5–20 år) og de dyreste i porteføljen.",
+    "question": "Hvad er primært årsagen til at naming rights er så værdifulde?",
+    "options": ["De er billige at producere", "Brandet nævnes organisk i al kommunikation om arenaen/begivenheden", "De gælder kun på sociale medier", "De erstatter alle andre sponsorater"],
+    "correct": 1,
+    "explanation": "Naming rights genererer organisk eksponering hver gang nogen omtaler stedet — i medier, samtaler, GPS og kort. Det er kontinuerlig gratis omtale."
+  },
+  {
+    "title": "Jersey sponsorship — trøjeeksponering",
+    "body": "<b>Jersey sponsorship</b> (trøjesponsorat) er det mest synlige sponsorat i mange sportsgrene. Logoet bæres af atleter under kampe, og fantrøjer bæres af millioner af fans i hverdagen.<br><br>Eksponeringen måles i <b>impressions</b> — antal gange logoet ses i TV-udsendelser, online klip, fotografier og i det offentlige rum.<br><br>Forskning viser at fans har en signifikant mere positiv holdning til trøjesponsorer end til traditionelle reklamesponsorer — fordi de associerer det med holdet.",
+    "question": "Hvad gør jersey sponsorship særligt værdifuldt ud over TV-eksponering?",
+    "options": ["Det er det billigste sponsorat", "Fans bærer logoet i hverdagen som en del af deres identitet", "Det giver adgang til spillernes privatdata", "Det erstatter behovet for sociale medier"],
+    "correct": 1,
+    "explanation": "Fantrøjer er vandrende reklamesøjler. En populær klub kan have millioner af fans der bærer sponsorens logo år efter år — langt ud over kampdagen."
+  },
+  {
+    "title": "Target audience alignment",
+    "body": "Det vigtigste spørgsmål i et sponsorat er: <b>Rammer vi den rigtige målgruppe?</b><br><br><b>Target audience alignment</b> handler om at sikre at rights holderens fanbase matcher sponsorens ønskede kundeprofil.<br><br>Nøgledata at undersøge:<br>• Demografik (alder, køn, geografi)<br>• Indkomst og uddannelse<br>• Interesser og forbrugsmønstre<br>• Brand-præferencer<br><br>Et godt fit i målgruppe er mindst ligeså vigtigt som brand fit.",
+    "question": "Hvorfor er target audience alignment afgørende i et sponsorat?",
+    "options": ["Fordi rights holdere kræver det i kontrakten", "Fordi du skal ramme folk der faktisk kan blive kunder — ellers er eksponeringen spildt", "Fordi det reducerer trøjeproduktionsomkostningerne", "Fordi EU kræver dokumentation for målgruppen"],
+    "correct": 1,
+    "explanation": "Eksponering til den forkerte målgruppe giver nul ROI. Du skal sikre at fanbasen matcher din ønskede kundeprofil."
+  },
+  {
+    "title": "Reach og impressions",
+    "body": "<b>Reach</b> = det unikke antal personer der eksponeres for sponsorens brand i en given periode.<br><br><b>Impressions</b> = det totale antal eksponeringer inkl. gentagelser. Én person der ser logoet 10 gange = 1 i reach, 10 impressions.<br><br>Begge tal bruges i sponsorrapporter, men ingen af dem fortæller om eksponeringen faktisk <em>huskedes</em> eller <em>påvirkede</em> nogen. De er <b>output-metrics</b>, ikke <b>outcome-metrics</b>.",
+    "question": "Hvad er forskellen på reach og impressions?",
+    "options": ["Reach tæller alle eksponeringer, impressions kun unikke", "Reach tæller unikke personer, impressions tæller totale eksponeringer inkl. gentagelser", "De er det samme bare på forskellige platforme", "Impressions måles kun online, reach kun offline"],
+    "correct": 1,
+    "explanation": "Reach = unikke personer. Impressions = alle eksponeringer inkl. gentagelser. Begge er output-metrics — de siger ikke noget om effekten."
+  },
+  {
+    "title": "Medieværdi — Media Equivalency Value",
+    "body": "<b>Media Equivalency Value (MEV)</b> er den mest udbredte metode til at opgøre værdien af sponsoreksponering. Princippet er enkelt:<br><br><em>Hvad ville det koste at købe den samme eksponering som reklameplads?</em><br><br>Fx: Logo i TV i 30 sekunder under en Champions League-kamp → find listepris for en 30-sekunders TV-spot i samme sendeflade → det er MEV.<br><br>Kritik: MEV overvurderer typisk værdien, fordi reklamepris ≠ sponsorværdi. Folk reagerer forskelligt på de to.",
+    "question": "Hvad er grundprincippet i Media Equivalency Value (MEV)?",
+    "options": ["At måle hvor mange der husker sponsorens brand", "At beregne hvad det ville koste at købe tilsvarende eksponering som betalt reklame", "At sammenligne to sponsorers medieværdi", "At opgøre sponsors produktsalg under kampen"],
+    "correct": 1,
+    "explanation": "MEV oversætter eksponering til en annonce-ækvivalent pris. Det er udbredt men omstridt — reklamepris afspejler ikke nødvendigvis sponsoreffekt."
+  },
+  {
+    "title": "Earned Media Value — EMV",
+    "body": "<b>Earned Media Value (EMV)</b> måler den organiske omtale som et sponsorat genererer — altså mediedækning der IKKE er betalt direkte.<br><br>Eksempler på earned media:<br>• Journalist nævner sponsor i matchreferat<br>• Fan deler foto med sponsors logo på sociale medier<br>• Podcast nævner sponsorens navn<br><br>EMV beregnes ved at opgøre hvad tilsvarende omtale ville koste som betalt annoncering. Det er en vigtig metric fordi earned media typisk opfattes som mere troværdigt end betalt.",
+    "question": "Hvorfor er earned media typisk mere troværdig end betalt reklame?",
+    "options": ["Fordi det er gratis", "Fordi det er redaktionelt eller brugergenereret indhold uden betalt bias", "Fordi det kræver færre ressourcer at producere", "Fordi det altid har højere reach"],
+    "correct": 1,
+    "explanation": "Earned media opfattes som mere autentisk fordi det ikke er købt. En journalist eller fan der nævner dit brand er mere troværdig end en betalt annonce."
+  },
+  {
+    "title": "Activation — fra rettigheder til oplevelser",
+    "body": "<b>Sponsorship activation</b> er alt det en sponsor gør for at udnytte og levendegøre sine rettigheder — ud over den basale eksponering.<br><br>Uden activation er et sponsorat bare et logo. Med activation bliver det en oplevelse der skaber ægte forbindelse til fans.<br><br>Eksempler: competitions, meet & greet, branded lounges, digitale kampagner, produktintegrationer, eksklusive events for kunder.<br><br>Tommelfingerregel: Brug mindst <b>1:1 til 3:1</b> i activation-budget for hvert krone i rights fee.",
+    "question": "Hvad menes der med sponsorship activation?",
+    "options": ["At aktivere sponsorkontrakten juridisk", "At underskrive aftalen med rights holderen", "Alt det en sponsor gør for at levendegøre og udnytte sine rettigheder ud over basiseksponering", "At sætte logos op på stadion"],
+    "correct": 2,
+    "explanation": "Activation er det der skaber reel værdi. Et logo alene skaber ingen forbindelse — activation omsætter rettigheder til oplevelser og engagement."
+  },
+  {
+    "title": "On-site activation",
+    "body": "<b>On-site activation</b> er aktiviteter der foregår fysisk på stadion eller ved begivenheden og engagerer fans direkte.<br><br>Eksempler:<br>• <b>Branded zone</b>: Sponsors eget område med aktiviteter og produktdemonstrationer<br>• <b>Competitions</b>: Halvlegskonkurrencer med sponsorens branding<br>• <b>Sampling</b>: Gratis produktprøver uddelt af sponsors ambassadører<br>• <b>Photo opportunities</b>: Installationer fans vil fotografere og dele<br><br>On-site activation når de mest engagerede fans — dem der rent faktisk møder op.",
+    "question": "Hvilken gruppe fans nås primært via on-site activation?",
+    "options": ["Casual fans der ser TV derhjemme", "Internationale fans", "De mest engagerede fans der fysisk er til stede", "Fans på sociale medier"],
+    "correct": 2,
+    "explanation": "On-site activation rammer de fans der har valgt aktivt at møde op — typisk den mest engagerede og loyale del af fanbasen."
+  },
+  {
+    "title": "Digital og social media activation",
+    "body": "<b>Digital activation</b> udvider sponsoratets rækkevidde langt ud over dem der er fysisk til stede.<br><br>Formater:<br>• <b>Branded content</b>: Videoer, artikler og posts co-branded med rights holdere<br>• <b>Hashtag campaigns</b>: Fans inviteres til at dele indhold med sponsorens hashtag<br>• <b>Influencer activation</b>: Spillere eller atleter promoverer sponsor på egne kanaler<br>• <b>Second screen experiences</b>: App-baseret engagement under kampen<br>• <b>UGC (User Generated Content)</b>: Fans skaber indhold der organisk spreder sponsorens brand",
+    "question": "Hvad er UGC i kontekst af sponsoractivation?",
+    "options": ["Universal Gaming Content — spiludviklernes platform", "Indhold skabt af fans selv der organisk spreder sponsorens brand", "En type eksklusive video-rettigheder", "Unified Global Campaign — en international kampagnemodel"],
+    "correct": 1,
+    "explanation": "User Generated Content er guld for sponsorer — fans skaber og deler indhold med sponsors branding, hvilket giver autentisk reach uden ekstra mediebudget."
+  },
+  {
+    "title": "Hospitality — B2B gennem sport",
+    "body": "<b>Sponsorship hospitality</b> er en af de mest undervurderede fordele ved et sponsorat. Det handler om at bruge sport som platform for <b>B2B-relationer</b>.<br><br>Eksempler:<br>• VIP-billetter og lounge-adgang til nøglekunder og partnere<br>• Eksklusive meet & greet med atleter<br>• Netværksevents i sponsor-loungen halvanden time inden kamp<br><br>Mange sponsorer vil sige at én enkelt B2B-deal der lukkes på baggrund af et sportsarrangement kan alene retfærdiggøre hele sponsoratsomkostningen.",
+    "question": "Hvad er primærformålet med hospitality i et sponsorat?",
+    "options": ["At skaffe gratis billetter til sponsors egne medarbejdere", "At styrke B2B-relationer ved at invitere kunder og partnere til eksklusive sportsoplevelser", "At undgå TV-eksponering", "At reducere sponsorfeeen"],
+    "correct": 1,
+    "explanation": "Hospitality er en kraftfuld B2B-mekanisme. Sport skaber uformelle, emotionelle rammer der giver anledning til at styrke forretningsrelationer og lukke deals."
+  },
+  {
+    "title": "ROI — Return on Investment",
+    "body": "<b>ROI (Return on Investment)</b> er det grundlæggende mål for sponsoratets finansielle afkast:<br><br><code>ROI = (Afkast - Investering) / Investering × 100%</code><br><br>I sponsorater kan 'afkast' opgøres som:<br>• Øget salg direkte relateret til sponsoratet<br>• Medieværdi (MEV/EMV)<br>• Værdien af B2B-deals lukket via hospitality<br>• Besparelse på alternativ eksponering<br><br>Udfordringen: mange sponsorateffekter er langsigtede og svære at isolere fra andre marketing-aktiviteter.",
+    "question": "Hvad er den primære udfordring ved at beregne ROI på et sponsorat?",
+    "options": ["Formlen er for kompleks", "Sponsoreffekter er langsigtede og svære at isolere fra andre marketingaktiviteter", "Rights holderne nægter at dele data", "ROI er ikke relevant for sponsorater"],
+    "correct": 1,
+    "explanation": "Kausalitet er problemet: Skyldtes salgstigningen sponsoratet eller en samtidig TV-kampagne? Det er svært at isolere sponsoratets specifikke bidrag."
+  },
+  {
+    "title": "ROO — Return on Objectives",
+    "body": "<b>ROO (Return on Objectives)</b> er et alternativt evalueringsframework der måler om sponsoratet opfylder de definerede mål — ikke kun finansielt afkast.<br><br>Eksempler på objectives:<br>• Øge brand awareness med 10 procentpoint i målgruppen<br>• Forbedre brandimage på dimensionerne 'innovativ' og 'dynamisk'<br>• Generere 500 leads via hospitality<br>• Opnå 2 mio. sociale medier-eksponeringer<br><br>ROO er mere nuanceret end ROI og passer bedre til sponsoratets brede formål.",
+    "question": "Hvornår er ROO mere velegnet end ROI som evalueringsmetode?",
+    "options": ["Aldrig — ROI er altid det rigtige mål", "Når sponsoratets mål er brede og ikke kun finansielle (fx awareness, image, leads)", "Kun ved sponsorater under 100.000 kr.", "Kun ved internationale sponsorater"],
+    "correct": 1,
+    "explanation": "ROO måler succes mod de konkrete mål der er sat. Det er idéelt når formålet er brand-byggeri, image-forbedring eller leadgenerering — ikke kun direkte salg."
+  },
+  {
+    "title": "SMART objectives i sponsorater",
+    "body": "Alle sponsorater bør have klare mål defineret FØR aftalen underskrives. Brug <b>SMART-modellen</b>:<br><br>• <b>S</b>pecific — konkret og klart defineret<br>• <b>M</b>easurable — kan måles kvantitativt<br>• <b>A</b>chievable — realistisk givet budget og rettigheder<br>• <b>R</b>elevant — knyttet til den overordnede marketingstrategi<br>• <b>T</b>ime-bound — har en klar deadline<br><br>Eksempel på SMART objective: <em>\"Øge unaided brand awareness fra 12% til 18% i segmentet 25–40 årige mænd inden for 12 måneder.\"</em>",
+    "question": "Hvorfor er det vigtigt at definere SMART objectives FØR et sponsorat indgås?",
+    "options": ["Fordi rights holderne kræver det", "Fordi du ellers ikke kan måle om sponsoratet var en succes", "Fordi det er et EU-krav", "Fordi SMART objectives automatisk øger eksponeringen"],
+    "correct": 1,
+    "explanation": "Uden klare mål kan du ikke evaluere. SMART objectives sættes FØR aftalen så du har et baseline og et succeskriterium at måle mod."
+  },
+  {
+    "title": "Brand tracking — mål effekten",
+    "body": "<b>Brand tracking</b> er systematisk måling af et brands position i forbrugernes bevidsthed over tid. I sponsorsammenhæng bruges det til at dokumentere om sponsoratet faktisk flytter brandet.<br><br>Metode:<br>1. <b>Pre-survey</b>: Mål awareness, image og associationer inden sponsoratet starter<br>2. <b>Post-survey</b>: Mål igen efter kampagnens afslutning<br>3. <b>Delta</b>: Forskellen er sponsoratets målbare effekt<br><br>Brug en <b>kontrolgruppe</b> (ikke-fans) for at isolere sponsorateffekten fra generel marketing.",
+    "question": "Hvad er formålet med en kontrolgruppe i brand tracking?",
+    "options": ["At sikre at surveyen er statistisk valid", "At isolere sponsoratets specifikke effekt fra andre marketingaktiviteter", "At reducere antallet af respondenter", "At samenligne med konkurrenternes brands"],
+    "correct": 1,
+    "explanation": "En kontrolgruppe (fx ikke-fans der ikke eksponeres for sponsoratet) hjælper med at isolere hvad der skyldes sponsoratet vs. general brand-marketing."
+  },
+  {
+    "title": "Brand recall vs. brand recognition",
+    "body": "To centrale metrics i sponsorevaluering:<br><br><b>Brand recall</b>: Forbrugeren kan spontant huske sponsors navn når de tænker på en sportsbegivenhed eller klub — <em>uden</em> at blive præsenteret for logoet. Stærkt mål for dyb hukommelse.<br><br><b>Brand recognition</b>: Forbrugeren genkender sponsors logo eller navn <em>når</em> de ser det. Nemmere at opnå, men svagere mål.<br><br>Tommelfingerregel: Høj recall = stærk association. Høj recognition men lav recall = svag hukommelse.",
+    "question": "Hvilken metric indikerer en stærkere association mellem sponsor og rights holder?",
+    "options": ["Brand recognition", "Brand recall", "Impressions", "Share of voice"],
+    "correct": 1,
+    "explanation": "Brand recall kræver at sponsorens navn lever i forbrugerens hukommelse spontant — det er et meget stærkere tegn på effektiv sponsoring end blot genkendelse."
+  },
+  {
+    "title": "Share of Voice — konkurrenceperspektivet",
+    "body": "<b>Share of Voice (SOV)</b> måler din andel af den samlede kommunikationsaktivitet inden for en kategori eller sammenhæng.<br><br>I sponsormarkedsføring bruges SOV til at vurdere:<br>• Hvor meget af mediepladsen du optager ift. konkurrenter<br>• Om du er det mest synlige brand i sponsorpanelet<br>• Din andel af sociale mediers omtale i sportssammenhæng<br><br>Forskning viser at brands der har en høj SOV over tid typisk øger deres markedsandel (<b>Excess SOV = markedsandels-vækst</b>).",
+    "question": "Hvad måler Share of Voice i sponsormarkedsføring?",
+    "options": ["Hvor mange sponsorer der råber op på et stadion", "Din andel af den samlede kommunikationseksponering ift. konkurrenter", "Mængden af lyd i TV-reklamer", "Antallet af sponsorer på en trøje"],
+    "correct": 1,
+    "explanation": "SOV viser din relative synlighed ift. konkurrenter. Et højt SOV over tid korrelerer statistisk med øget markedsandel."
+  },
+  {
+    "title": "Sponsorship leverage — forstærk din investering",
+    "body": "<b>Sponsorship leverage</b> refererer til det aktiveringsbudget en sponsor investerer oven på sin rights fee for at maksimere sponsoratets effekt.<br><br>Branchen anbefaler typisk en leverage ratio på <b>1:1 til 3:1</b> — altså at bruge 1–3 kroner på activation for hver krone brugt på rettigheder.<br><br>Eksempel: Rights fee = 500.000 kr. → Activation budget = 500.000–1.500.000 kr.<br><br>Et sponsorat uden activation er som at købe en bil og aldrig sætte nøglen i — du har rettighederne, men skaber ingen bevægelse.",
+    "question": "Hvad anbefales typisk som leverage ratio i sponsorater?",
+    "options": ["1:10 — brug 10 kr. på activation per krone i rights fee", "1:1 til 3:1 — brug 1–3 kr. på activation per krone i rights fee", "0:1 — activation er valgfrit og unødvendigt", "5:1 — rights fee er kun 20% af det samlede budget"],
+    "correct": 1,
+    "explanation": "En leverage ratio på 1:1 til 3:1 er industristandardanbefalingen. Uden tilstrækkelig activation underudnyttes sponsoratets potentiale markant."
+  },
+  {
+    "title": "Category exclusivity — eneretten der beskytter",
+    "body": "<b>Category exclusivity</b> er en klausul der sikrer at rights holderen ikke sælger rettigheder til en direkte konkurrent af sponsoren inden for samme produktkategori.<br><br>Eksempel: Heineken er 'Official Beer Partner' af Champions League → ingen andre ølmærker kan sponsere den samme begivenhed.<br><br>Category exclusivity er særdeles værdifuld fordi den:<br>• Beskytter investeringen mod konkurrence<br>• Forstærker brand association i kategorien<br>• Skaber en defensiv marketingfordel",
+    "question": "Hvad beskytter category exclusivity primært sponsoren imod?",
+    "options": ["At rights holderen bruger for mange penge", "At en konkurrent køber samme rettigheder og underminerer associationen", "At TV-stationerne sender for mange reklamer", "At fans holder op med at købe billetter"],
+    "correct": 1,
+    "explanation": "Category exclusivity sikrer at ingen direkte konkurrent kan købe rettigheder i samme kategori — din investering er beskyttet mod konkurrerende brand-association."
+  },
+  {
+    "title": "Ambush marketing — den uinviterede sponsor",
+    "body": "<b>Ambush marketing</b> er en strategi hvor en virksomhed forsøger at associere sig med en begivenhed <em>uden</em> at betale for officielle rettigheder — og dermed 'stjæle' opmærksomhed fra den officielle sponsor.<br><br>Typer:<br>• <b>Direct ambush</b>: Reklamere med tydelig reference til begivenheden uden at nævne den direkte<br>• <b>Coattail ambush</b>: Sponsere individuelle atleter eller hold ved en begivenhed man ikke officielt sponserer<br>• <b>Guerrilla ambush</b>: Fysiske aktivationer i nærheden af venues<br><br>Rights holdere bekæmper ambush med kontraktuelle restriktioner og 'clean zones' omkring venues.",
+    "question": "Hvad er essensen af ambush marketing?",
+    "options": ["At overrumple konkurrenter ved at øge eget sponsorbudget", "At associere sig med en begivenhed uden at betale for officielle rettigheder", "At erstatte en eksisterende sponsor midt i sæsonen", "At lave dårlig PR om en konkurrents sponsorat"],
+    "correct": 1,
+    "explanation": "Ambush marketing er at 'snige sig ind' på en begivenheds associations-værdi uden at betale rights fee. Det er kontroversielt og bekæmpes aktivt af rights holdere."
+  },
+  {
+    "title": "Sponsor clutter — for mange sponsorer",
+    "body": "<b>Sponsor clutter</b> opstår når en rights holder sælger for mange sponsorater, så det individuelle sponsors eksponering og brand recall fortyndes markant.<br><br>Effekter:<br>• Fans kan ikke huske hvilke brands der er sponsorer<br>• Den emotionelle association svækkes for alle sponsors<br>• Prestige-niveauet for sponsoratet falder<br><br>Løsning fra rights holderens side: Færre, men mere eksklusive sponsorater til højere pris. Løsning fra sponsors side: Kræv eksklusive placeringer (jersey front, naming rights) der ikke drukner i mængden.",
+    "question": "Hvad er den primære skade af sponsor clutter for en enkelt sponsor?",
+    "options": ["Sponsorfeen stiger", "Brand recall og association fortyndes fordi fans ikke kan skelne de mange sponsorer", "Fans begynder at boykotte sponsorer", "Rights holderen mister sin licens"],
+    "correct": 1,
+    "explanation": "Clutter diluterer effekten for alle. Jo flere logoer fans skal huske, jo færre husker de — inklusive dit. Eksklusivitet er værd at betale for."
+  },
+  {
+    "title": "Fanbase segmentering",
+    "body": "Ikke alle fans er ens — og de har vidt forskellig kommerciel værdi for en sponsor. Rights holdere og sponsorer segmenterer typisk fans i:<br><br>• <b>Die-hard fans</b>: Høj loyalitet, køber meget merchandise, billetter til alle kampe. Høj commercial value.<br>• <b>Regular fans</b>: Følger aktivt, ser de fleste kampe. Modtageligt for sponsorbudskaber.<br>• <b>Casual fans</b>: Følger sporadisk — svære at aktivere men store i antal.<br>• <b>Neutral audience</b>: Ser kampe lejlighedsvis uden holdloyalitet.<br><br>Segmentering bruges til at skræddersy activation og måle ROI på de mest værdifulde segmenter.",
+    "question": "Hvilket fansegment har typisk den højeste kommercielle værdi for en sponsor?",
+    "options": ["Casual fans — de er flest i antal", "Neutral audience — de er ikke forudindtagede", "Die-hard fans — de er mest loyale og engagerede", "Internationale fans — de har størst global reach"],
+    "correct": 2,
+    "explanation": "Die-hard fans er mest tilbøjelige til at købe sponsors produkter som udtryk for loyalitet over for holdet. De er færre, men har markant højere commercial value per person."
+  },
+  {
+    "title": "Sponsoratets levetid og fornyelse",
+    "body": "Et sponsorat er en <b>langsigtet investering</b>. Forskning viser konsekvent at det tager tid at opbygge de brand-associationer der giver reel effekt — typisk mindst <b>2–3 år</b>.<br><br>Branchen taler om en <b>renewal rate</b> — andelen af sponsorer der fornyer kontrakten. En høj renewal rate er et tegn på at rights holderen leverer reel værdi.<br><br>Ved fornyelse bør du:<br>• Evaluere ROO og ROI systematisk<br>• Genforhandle rettigheder baseret på hvad der virkede<br>• Overveje om fit stadig er relevant givet eventuelle ændringer i brand-strategi",
+    "question": "Hvorfor anbefales det at holde et sponsorat i mindst 2–3 år?",
+    "options": ["Fordi kortere aftaler er dyrere per år", "Fordi brand-associationer og hukommelseseffekter tager tid at opbygge", "Fordi rights holdere ikke accepterer kortere aftaler", "Fordi EU-regler kræver det"],
+    "correct": 1,
+    "explanation": "Brand-associationer opbygges gradvist. Sponsorer der skifter for ofte giver aldrig forbrugerne tid til at internalisere sammenhængen — effekten nulstilles hver gang."
+  },
+  {
+    "title": "ESG og purpose-driven sponsorship",
+    "body": "<b>ESG (Environmental, Social, Governance)</b> er en voksende drivkraft i sponsormarkedsføring. Forbrugere og B2B-kunder kigger i stigende grad på om brands har et genuint formål ud over profit.<br><br><b>Purpose-driven sponsorships</b> er sponsorater der bygger på fælles værdier — fx miljø, inklusion, mental sundhed eller lokal forankring.<br><br>Eksempler: Sponsorater der finansierer bæredygtigt stadion-byggeri, ligestillingsinitiativer i sport, eller integrationsprojekter for unge.<br><br>Risiko: <b>Purpose washing</b> — at signalere værdier man ikke reelt efterlever.",
+    "question": "Hvad er 'purpose washing' i sponsorsammenhæng?",
+    "options": ["At rengøre sponsorens logo på stadion", "At signalere ESG-værdier i sponsorater man ikke reelt efterlever i sin forretning", "At skifte sponsors formål midt i kontraktperioden", "At vaske sponsorkontrakten for juridiske fejl"],
+    "correct": 1,
+    "explanation": "Purpose washing er det negative modstykke til purpose-driven sponsorship — at bruge sport som image-wash for værdier virksomheden ikke reelt praktiserer. Forbrugere gennemskuer det."
+  },
+  {
+    "title": "Data-driven sponsorship",
+    "body": "Moderne sponsorater er i stigende grad <b>data-drevne</b>. Rights holdere der kan levere detaljerede data om deres fans er langt mere attraktive for sponsorer.<br><br>Værdifulde datatyper:<br>• <b>First-party data</b>: Direkte fandata fra app, billetsalg, loyalty-program<br>• <b>Demografisk data</b>: Alder, køn, geografi, indkomst<br>• <b>Behavioral data</b>: Hvad fans køber, kliker på og engagerer sig med<br><br>Sponsorer bruger disse data til at:<br>• Personalisere activation<br>• Måle effekt mere præcist<br>• Dokumentere ROI til bestyrelse og ledelse",
+    "question": "Hvad er 'first-party data' i sportsmarkedsføring?",
+    "options": ["Data om den første kamp i sæsonen", "Data indsamlet direkte af rights holderen fra egne fans via app, billetter og loyalty-program", "Data købt fra tredjepartsanalysefirmaer", "Data fra den første sponsor i hierarkiet"],
+    "correct": 1,
+    "explanation": "First-party data er guld — det er data direkte fra relationen mellem rights holder og fan, indsamlet med samtykke. Det er den mest præcise og lovlige kilde til fanindsigt."
+  },
+  {
+    "title": "Engagement metrics — digital måling",
+    "body": "I den digitale del af sponsorater bruges <b>engagement metrics</b> til at måle om indhold rent faktisk engagerer — ikke bare eksponerer.<br><br>Nøgletal:<br>• <b>Engagement rate</b>: (Likes + kommentarer + shares) / reach × 100%<br>• <b>Click-through rate (CTR)</b>: Andel der klikker på et sponsoreret link<br>• <b>View-through rate</b>: Andel der ser en video til ende<br>• <b>Sentiment</b>: Positiv/negativ tone i kommentarer og omtale<br><br>Husk: Høj reach med lav engagement er et advarselstegn — indholdet når folk men rykker dem ikke.",
+    "question": "Hvad indikerer en lav engagement rate trods høj reach?",
+    "options": ["At kampagnen er en stor succes", "At indholdet eksponerer men ikke engagerer — det skaber ingen reel forbindelse", "At algoritmen favoriserer sponsorens konkurrenter", "At rights holderen har brudt kontrakten"],
+    "correct": 1,
+    "explanation": "Reach uden engagement er som at råbe i skoven — ingen hører efter. Lav engagement rate er et signal om at indholdet ikke resonerer med målgruppen."
+  },
+  {
+    "title": "Valuation — hvad er rettighederne værd?",
+    "body": "Når et sponsorat prissættes bruges typisk en kombination af metoder:<br><br>1. <b>Cost-based</b>: Hvad koster det at levere rettighederne (produktion, ressourcer)?<br>2. <b>Market-based</b>: Hvad betaler konkurrerende sponsorer for lignende rettigheder?<br>3. <b>Value-based</b>: Hvad er rettighederne faktisk værd for sponsoren (MEV + activation-potentiale + strategisk fit)?<br><br>Den bedste valuation kombinerer alle tre. Rights holdere overvurderer typisk ved cost-based. Sponsors undervurderer typisk. Sandheden ligger i value-based med markedsdata som benchmark.",
+    "question": "Hvilken valuationsmetode giver den mest retvisende pris på et sponsorat?",
+    "options": ["Cost-based — hvad koster rettighederne at producere", "Market-based alene — hvad betaler markedet", "Value-based kombineret med markedsdata som benchmark", "Den højeste pris rights holderen kan opnå"],
+    "correct": 2,
+    "explanation": "Value-based valuation med markedsdata som benchmark giver det mest retvisende billede — det måler hvad rettighederne faktisk er værd for sponsoren, kalibreret mod markedet."
+  },
+  {
+    "title": "Kontraktens nøgleelementer",
+    "body": "En sponsorkontrakt bør som minimum indeholde:<br><br>• <b>Rights & benefits</b>: Præcis beskrivelse af hvad sponsor modtager (logoplacering, billetter, digitale rettigheder, etc.)<br>• <b>Exclusivity</b>: Kategorieksklusive klausuler og clean zone-bestemmelser<br>• <b>Term</b>: Kontraktperiode og optioner på forlængelse<br>• <b>Fee & payment schedule</b>: Betalingsstruktur og leverance-milepæle<br>• <b>Termination clauses</b>: Vilkår for ophør ved scandal, force majeure eller kontraktbrud<br>• <b>Morality clause</b>: Ret til at opsige ved atlet- eller organisations-skandale",
+    "question": "Hvad er en 'morality clause' i en sponsorkontrakt?",
+    "options": ["En klausul om etisk adfærd hos sponsors egne medarbejdere", "En ret for sponsoren til at opsige kontrakten hvis rights holderen eller atleten er involveret i en skandale", "En etisk standard for annoncering på stadion", "En bestemmelse om at undgå politisk indhold"],
+    "correct": 1,
+    "explanation": "En morality clause giver sponsoren en exit-mulighed hvis rights holder eller atlet involveres i skandale. Den beskytter sponsors brand mod negative image-transfers."
+  },
+  {
+    "title": "Du har styr på sponsor marketing 🎉",
+    "body": "Du kender nu de vigtigste koncepter inden for <b>sponsormarkedsføring</b>:<br><br>✓ Sponsoratets opbygning og fordele<br>✓ Typer: naming rights, jersey, official supplier<br>✓ Brand awareness, image transfer og sponsor fit<br>✓ Activation: on-site, digital, hospitality<br>✓ Måling: MEV, EMV, ROI, ROO, brand tracking<br>✓ Category exclusivity og ambush marketing<br>✓ Data-driven og purpose-driven trends<br><br>Sponsorater er ikke bare logoer — de er strategiske platforme der forbinder brands med fans på et emotionelt plan. Brug den viden godt.",
+    "question": "Hvad er det vigtigste at huske om sponsorater som marketingværktøj?",
+    "options": ["At de er billigere end traditionel reklame", "At de primært handler om TV-eksponering", "At de er strategiske platforme der skaber emotionel forbindelse — og kræver aktiv activation for at levere reel effekt", "At de kun virker for B2C-virksomheder"],
+    "correct": 2,
+    "explanation": "Sponsorater er mere end logoer. De er platforme der skaber emotionel forbindelse til fans — men kun med den rette activation, fit og langsigtede strategi."
+  }
+]
