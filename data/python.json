@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Python i terminalen",
+    "body": "Nu hvor du kender terminalen, kan du køre Python direkte derfra. Skriv <code>python3 --version</code> for at se din version. For at starte en interaktiv session skriver du bare <code>python3</code>. Afslut med <code>exit()</code> eller Ctrl+D.<br><br>Python-filer slutter på <code>.py</code>.",
+    "code": "$ python3 --version\nPython 3.12.3\n$ python3\n>>> print('Hej AI-verden!')\nHej AI-verden!\n>>> exit()",
+    "question": "Hvilken kommando starter en interaktiv Python-session?",
+    "options": ["python run", "py", "python3", "start python"],
+    "correct": 2,
+    "explanation": "python3 starter Python REPL (Read-Eval-Print-Loop). På nogle systemer hedder det bare 'python'."
+  },
+  {
+    "title": "Dit første script",
+    "body": "Opret en fil med <code>touch hello.py</code>, åbn den i din editor og skriv koden herunder. Gem og kør med <code>python3 hello.py</code>.",
+    "code": "print('Hej fra mit første Python-script!')\nname = 'Anna'\nprint(f'Hej {name}, velkommen til AI-verdenen')",
+    "question": "Hvad gør <code>f</code> foran en streng (f-strings)?",
+    "options": ["Det gør strengen fed", "Det tillader variabel-interpolation", "Det laver en fil", "Det er en fejl"],
+    "correct": 1,
+    "explanation": "f-strings lader dig putte variabler direkte ind i strenge med {variabel} – super praktisk og læsevenligt."
+  },
+  {
+    "title": "Du har klaret Python-modulet 🎉",
+    "body": "Du kan nu skrive scripts, arbejde med variabler, lister, dicts, løkker, funktioner og håndtere filer og fejl. Det er præcis det fundament du skal bruge til at kalde LLM-API’er fra Python.<br><br>Næste skridt: JSON-modulet – der lærer du at læse og skrive det format alle API’er taler.",
+    "question": "Hvilken kommando kører et Python-script fra terminalen?",
+    "options": ["node script.py", "python3 script.py", "run script.py", "sh script.py"],
+    "correct": 1,
+    "explanation": "python3 script.py er den klassiske måde. Du er nu klar til JSON og API’er!"
+  }
+]
