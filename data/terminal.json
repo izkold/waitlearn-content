@@ -1,5 +1,131 @@
 [
-  { "title": "Hvad er en terminal?", "body": "En <b>terminal</b> (også kaldet <code>shell</code>, <code>command line</code> eller <code>CLI</code>) er et tekstbaseret vindue hvor du skriver kommandoer til computeren i stedet for at klikke. På Mac hedder den Terminal eller iTerm. På Windows hedder den PowerShell eller Command Prompt. På Linux hedder den typisk bash eller zsh.<br><br>Næsten alt AI-arbejde foregår via terminalen — det er hurtigere og mere præcist end at klikke rundt i UI'er.", "question": "Hvad er et andet ord for en terminal?", "options": ["Browser", "Shell", "Editor", "Kernel"], "correct": 1, "explanation": "Shell er det program der fortolker dine kommandoer. bash og zsh er eksempler på shells." },
-  { "title": "Prompten", "body": "Når du åbner en terminal ser du noget i stil med:", "code": "jesper@macbook ~/projekter $", "bodyAfter": "Det kaldes <b>prompten</b>. Den fortæller dig hvem du er (<code>jesper</code>), hvilken maskine (<code>macbook</code>), og hvor du befinder dig i filsystemet (<code>~/projekter</code>). <code>~</code> betyder dit home-directory. <code>$</code> markerer slutningen — bagefter skriver du din kommando.", "question": "Hvad betyder <code>~</code> i en terminal?", "options": ["Den nuværende mappe", "Dit home-directory", "Root-mappen", "En genvej til skrivebordet"], "correct": 1, "explanation": "~ er en genvej til dit home-directory, fx /Users/jesper på Mac." },
-  { "title": "Du har klaret Terminal-modulet 🎉", "body": "Du kender nu de vigtigste kommandoer: <code>pwd</code>, <code>ls</code>, <code>cd</code>, <code>mkdir</code>, <code>touch</code>, <code>cat</code>, <code>rm</code>, plus tab completion, pipes og flags. Det er fundamentet for alt andet.<br><br>Næste skridt: prøv <b>Python fra nul</b>-modulet — det bygger direkte ovenpå dette ved at lære dig at køre Python-scripts fra terminalen.", "question": "Hvilken kommando viser dig hvor du er i filsystemet?", "options": ["ls", "cd", "pwd", "where"], "correct": 2, "explanation": "pwd = print working directory. Du har nu værktøjerne — fortsæt med Python-modulet!" }
+  {
+    "title": "Hvad er en terminal?",
+    "body": "En <b>terminal</b> (også kaldet <code>shell</code>, <code>command line</code> eller <code>CLI</code>) er et tekstbaseret vindue hvor du skriver kommandoer til computeren i stedet for at klikke. På Mac hedder den Terminal eller iTerm. På Windows hedder den PowerShell eller Command Prompt. På Linux hedder den typisk bash eller zsh.<br><br>Næsten alt AI-arbejde foregår via terminalen — det er hurtigere og mere præcist end at klikke rundt i UI'er.",
+    "question": "Hvad er et andet ord for en terminal?",
+    "options": ["Browser", "Shell", "Editor", "Kernel"],
+    "correct": 1,
+    "explanation": "Shell er det program der fortolker dine kommandoer. bash og zsh er eksempler på shells."
+  },
+  {
+    "title": "Prompten",
+    "body": "Når du åbner en terminal ser du noget i stil med:",
+    "code": "jesper@macbook ~/projekter $",
+    "bodyAfter": "Det kaldes <b>prompten</b>. Den fortæller dig hvem du er (<code>jesper</code>), hvilken maskine (<code>macbook</code>), og hvor du befinder dig i filsystemet (<code>~/projekter</code>). <code>~</code> betyder dit home-directory. <code>$</code> markerer slutningen — bagefter skriver du din kommando.",
+    "question": "Hvad betyder <code>~</code> i en terminal?",
+    "options": ["Den nuværende mappe", "Dit home-directory", "Root-mappen", "En genvej til skrivebordet"],
+    "correct": 1,
+    "explanation": "~ er en genvej til dit home-directory, fx /Users/jesper på Mac."
+  },
+  {
+    "title": "pwd — hvor er jeg?",
+    "body": "<code>pwd</code> står for <b>print working directory</b>. Den viser hvilken mappe du står i lige nu. Det er den mest grundlæggende kommando — brug den hver gang du er i tvivl.",
+    "code": "$ pwd\n/Users/jesper/projekter",
+    "question": "Hvad gør kommandoen <code>pwd</code>?",
+    "options": ["Sletter den nuværende mappe", "Viser stien til den nuværende mappe", "Beskytter mappen med password", "Opretter en ny mappe"],
+    "correct": 1,
+    "explanation": "pwd = print working directory. Den printer din nuværende sti."
+  },
+  {
+    "title": "ls — list mappen",
+    "body": "<code>ls</code> viser indholdet af den nuværende mappe. Tilføj <code>-l</code> for detaljer (størrelse, dato) og <code>-a</code> for at se skjulte filer (dem der starter med <code>.</code>).",
+    "code": "$ ls\nREADME.md  src  package.json\n\n$ ls -la\n.git  .env  README.md  src",
+    "question": "Hvilken kommando viser også skjulte filer?",
+    "options": ["ls", "ls -h", "ls -a", "ls --hidden"],
+    "correct": 2,
+    "explanation": "-a står for 'all'. Skjulte filer starter med . og er typisk konfigurationsfiler."
+  },
+  {
+    "title": "cd — skift mappe",
+    "body": "<code>cd</code> betyder <b>change directory</b>. Du giver den et navn eller en sti.<br><br><code>cd projekter</code> går ind i mappen <code>projekter</code>.<br><code>cd ..</code> går ét niveau op.<br><code>cd ~</code> går til home.<br><code>cd /</code> går til roden af filsystemet.",
+    "code": "$ pwd\n/Users/jesper\n$ cd projekter\n$ pwd\n/Users/jesper/projekter\n$ cd ..\n$ pwd\n/Users/jesper",
+    "question": "Hvad gør <code>cd ..</code>?",
+    "options": ["Går til home-mappen", "Går til en mappe der hedder '..'", "Går ét niveau op i mappehierarkiet", "Skjuler mappen"],
+    "correct": 2,
+    "explanation": ".. betyder altid 'mappen ovenover' i terminalen."
+  },
+  {
+    "title": "Absolutte vs relative paths",
+    "body": "En <b>absolut path</b> starter fra roden og virker uanset hvor du er: <code>/Users/jesper/projekter/app.py</code>.<br><br>En <b>relativ path</b> er i forhold til hvor du står lige nu: hvis du er i <code>/Users/jesper</code>, så peger <code>projekter/app.py</code> på samme fil.<br><br>Tommelfinger: absolutte paths er sikre men lange. Relative paths er hurtige men afhænger af din position.",
+    "question": "Hvilken af disse er en absolut path på Mac/Linux?",
+    "options": ["src/app.py", "../data.json", "/Users/jesper/app.py", "./script.sh"],
+    "correct": 2,
+    "explanation": "Absolutte paths starter altid med / på Mac/Linux (eller fx C:\\ på Windows)."
+  },
+  {
+    "title": "mkdir — opret mappe",
+    "body": "<code>mkdir</code> = <b>make directory</b>. Opretter en ny mappe.<br><br>Brug <code>-p</code> for at oprette flere niveauer på én gang uden fejl: <code>mkdir -p projekt/src/utils</code> opretter alle tre på én gang.",
+    "code": "$ mkdir mit-projekt\n$ cd mit-projekt\n$ mkdir -p src/components",
+    "question": "Hvad gør <code>mkdir -p a/b/c</code>?",
+    "options": ["Opretter kun mappen 'c'", "Opretter a, b og c som separate mapper", "Opretter a, og inde i den b, og inde i den c", "Giver en fejl"],
+    "correct": 2,
+    "explanation": "-p opretter alle nødvendige forældremapper. Uden -p skal de findes i forvejen."
+  },
+  {
+    "title": "touch — opret en tom fil",
+    "body": "<code>touch</code> opretter en tom fil hvis den ikke findes. Hvis den findes, opdaterer den filens timestamp. Bruges ofte til hurtigt at lave en ny fil før man åbner den i en editor.",
+    "code": "$ touch app.py\n$ ls\napp.py",
+    "question": "Hvad sker der hvis du kører <code>touch app.py</code> og filen allerede findes?",
+    "options": ["Filen slettes", "Indholdet overskrives", "Timestampen opdateres, indholdet er uændret", "Du får en fejl"],
+    "correct": 2,
+    "explanation": "touch er ufarlig — den ødelægger aldrig eksisterende indhold."
+  },
+  {
+    "title": "cat — vis filens indhold",
+    "body": "<code>cat</code> printer hele filens indhold direkte i terminalen. Godt til små filer. For store filer, brug <code>less</code> i stedet (tryk <code>q</code> for at afslutte).",
+    "code": "$ cat README.md\n# Mit Projekt\nDette er en test.",
+    "question": "Hvilken kommando er bedre til store filer?",
+    "options": ["cat", "less", "show", "open"],
+    "correct": 1,
+    "explanation": "less lader dig scrolle og søge i filen uden at fylde hele terminalen."
+  },
+  {
+    "title": "rm — slet filer",
+    "body": "<code>rm</code> = <b>remove</b>. Sletter filer permanent — der er <b>ingen</b> papirkurv i terminalen.<br><br><code>rm fil.txt</code> sletter en fil.<br><code>rm -r mappe</code> sletter en mappe og alt indeni (recursive).<br><br>⚠️ Vær EKSTREMT forsigtig. <code>rm -rf /</code> kan ødelægge hele systemet.",
+    "question": "Hvorfor er <code>rm</code> farligere end at slette i Finder/Explorer?",
+    "options": ["Den er langsommere", "Slettede filer går ikke til papirkurven", "Den kræver password", "Den virker kun på system-filer"],
+    "correct": 1,
+    "explanation": "rm sletter direkte fra filsystemet. Tjek altid hvad du sletter, særligt med -r."
+  },
+  {
+    "title": "Tab completion",
+    "body": "Et af terminalens bedste tricks: tryk <code>Tab</code> mens du skriver et fil- eller mappenavn, og terminalen autoudfylder. Hvis flere matches findes, tryk Tab to gange for at se dem alle.<br><br>Det sparer tid og forhindrer slåfejl. Brug det altid.",
+    "question": "Hvad sker der hvis du trykker Tab efter <code>cd pro</code> og der findes en mappe 'projekter'?",
+    "options": ["Intet", "Terminalen udfylder automatisk til 'cd projekter'", "Du får en fejl", "Terminalen sletter det du har skrevet"],
+    "correct": 1,
+    "explanation": "Tab completion er din bedste ven i terminalen. Brug den for ALT."
+  },
+  {
+    "title": "Pil op — kommando-historik",
+    "body": "Tryk på pil op for at få den forrige kommando frem. Bliv ved med at trykke for at gå længere tilbage. <code>history</code> viser dine seneste kommandoer som en liste.<br><br>Du behøver aldrig skrive den samme kommando to gange.",
+    "question": "Hvilken tast genkalder din forrige kommando?",
+    "options": ["Tab", "Enter", "Pil op", "Ctrl+R"],
+    "correct": 2,
+    "explanation": "Bonus: Ctrl+R lader dig søge i historikken — endnu hurtigere."
+  },
+  {
+    "title": "Flags og argumenter",
+    "body": "De fleste kommandoer tager <b>flags</b> (options der ændrer adfærd) og <b>argumenter</b> (det de skal arbejde på).<br><br>I <code>ls -la /Users/jesper</code>:<br>• <code>ls</code> er kommandoen<br>• <code>-la</code> er flags (kombineret af -l og -a)<br>• <code>/Users/jesper</code> er argumentet<br><br>Tjek altid <code>kommando --help</code> eller <code>man kommando</code> for at se alle flags.",
+    "question": "Hvad er <code>-la</code> i <code>ls -la</code>?",
+    "options": ["Et argument", "En kombination af to flags", "En sti", "En fejl"],
+    "correct": 1,
+    "explanation": "-la er kort for -l -a. Mange enkelt-bogstav-flags kan kombineres."
+  },
+  {
+    "title": "Pipes — kæd kommandoer sammen",
+    "body": "<code>|</code> (pipe) sender output fra én kommando som input til den næste. Det er en superkraft.<br><br><code>ls | grep py</code> viser kun filer der indeholder 'py' i navnet. <code>cat fil.txt | wc -l</code> tæller antal linjer i filen.",
+    "code": "$ ls | grep py\napp.py\ntest.py\n\n$ cat data.json | wc -l\n42",
+    "question": "Hvad gør <code>|</code> i terminalen?",
+    "options": ["Adskiller to uafhængige kommandoer", "Sender output fra venstre kommando til højre kommando", "Kører kommandoer parallelt", "Skjuler output"],
+    "correct": 1,
+    "explanation": "Pipes lader dig bygge små komplekse pipelines af enkle værktøjer."
+  },
+  {
+    "title": "Du har klaret Terminal-modulet 🎉",
+    "body": "Du kender nu de vigtigste kommandoer: <code>pwd</code>, <code>ls</code>, <code>cd</code>, <code>mkdir</code>, <code>touch</code>, <code>cat</code>, <code>rm</code>, plus tab completion, pipes og flags. Det er fundamentet for alt andet.<br><br>Næste skridt: prøv <b>Python fra nul</b>-modulet — det bygger direkte ovenpå dette ved at lære dig at køre Python-scripts fra terminalen.",
+    "question": "Hvilken kommando viser dig hvor du er i filsystemet?",
+    "options": ["ls", "cd", "pwd", "where"],
+    "correct": 2,
+    "explanation": "pwd = print working directory. Du har nu værktøjerne — fortsæt med Python-modulet!"
+  }
 ]
