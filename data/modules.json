@@ -6,5 +6,6 @@
   { "id": "env", "title": "Environment & Pakker", "desc": ".env-filer, virtualenv, pip install." },
   { "id": "git", "title": "Git basics", "desc": "Init, commit, push, branches." },
   { "id": "llm", "title": "LLM API'er", "desc": "System prompts, tokens, temperature, tool use." },
-  { "id": "markdown", "title": "Markdown & YAML", "desc": "Formaterne der bruges overalt i AI-værktøjer." }
+  { "id": "markdown", "title": "Markdown & YAML", "desc": "Formaterne der bruges overalt i AI-værktøjer." },
+  { "id": "sponsorship", "title": "Sponsor Marketing", "desc": "Sponsorattyper, brand fit, activation, ROI og måling." }
 ]
