@@ -1,1 +1,10 @@
-
+[
+  { "id": "terminal", "title": "Terminal & Kommandolinje", "desc": "Naviger filsystemet, kør kommandoer, forstå paths." },
+  { "id": "python", "title": "Python fra nul", "desc": "Variabler, lister, dicts, løkker, funktioner." },
+  { "id": "json", "title": "JSON", "desc": "Datas universalsprog. Læs, skriv, og forstå struktur." },
+  { "id": "http", "title": "HTTP & API'er", "desc": "Requests, status codes, og hvordan man kalder et API." },
+  { "id": "env", "title": "Environment & Pakker", "desc": ".env-filer, virtualenv, pip install." },
+  { "id": "git", "title": "Git basics", "desc": "Init, commit, push, branches." },
+  { "id": "llm", "title": "LLM API'er", "desc": "System prompts, tokens, temperature, tool use." },
+  { "id": "markdown", "title": "Markdown & YAML", "desc": "Formaterne der bruges overalt i AI-værktøjer." }
+]
