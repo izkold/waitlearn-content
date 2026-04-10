@@ -4,12 +4,12 @@
     "body": "Et <b>cykelsponsorat</b> er en kommerciel aftale hvor en virksomhed finansierer et hold, et løb eller en rytter mod eksponering og brandværdi.<br><br>Cykling adskiller sig fra andre sportsgrene: sponsorer er ikke et supplement til billetsalg og TV-rettigheder — de <b>er</b> fundamentet. Uden sponsorerne eksisterer holdene ikke.",
     "question": "Hvad gør cykling kommercielt unik sammenlignet med fx fodbold?",
     "options": [
-      "Cykling har langt højere TV-seertal end fodbold",
       "Sponsorer er selve finansieringsgrundlaget for holdene, ikke et supplement",
+      "Cykling har langt højere TV-seertal end fodbold",
       "Cykelsponsorer får altid eksklusive kategorier",
       "Cykelsport har ingen navneretsaftaler"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Cykelsportens hold overlever udelukkende på sponsorpenge. Der er ingen stor billettindtægt eller TV-rettighedspulje som i fodbold — sponsorerne betaler lønnerne."
   },
   {
@@ -18,11 +18,11 @@
     "question": "Hvem stod bag de første professionelle cykelløb?",
     "options": [
       "Nationale sportsforbund og regeringer",
-      "Aviser og cykelfabrikanter der ville sælge produkter",
       "Internationale olympiske komitéer",
-      "Professionelle ryttere der organiserede sig selv"
+      "Professionelle ryttere der organiserede sig selv",
+      "Aviser og cykelfabrikanter der ville sælge produkter"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Tour de France blev grundlagt af avisen L'Auto i 1903 for at øge oplagstal. Kommercielle interesser har altid drevet cykelsportens udvikling."
   },
   {
@@ -44,11 +44,11 @@
     "question": "Hvad er den mest synlige fordel ved at være titelsponsor for et cykelhold?",
     "options": [
       "Man får eksklusiv adgang til løbsarrangørernes billetsalg",
-      "Holdets navn indeholder sponsorens brand ved enhver omtale",
       "Man slipper for at betale for social media-aktivering",
+      "Holdets navn indeholder sponsorens brand ved enhver omtale",
       "Man kan vælge hvilke løb holdet deltager i"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Når journalister, kommentatorer og fans omtaler holdet, nævner de automatisk sponsorens brand. Det er passiv eksponering der ikke kræver yderligere aktivering."
   },
   {
@@ -69,12 +69,12 @@
     "body": "Ud over titelsponsor har de fleste hold <b>3-6 co-sponsorer</b> der bidrager med penge mod synlighed på trøjer, biler og kommunikation.<br><br><b>Materialepartnere</b> leverer cykler, tøj, hjælme eller ernæringsprodukter — typisk mod eksponering frem for kontant betaling. Brands som Specialized, Shimano og Rapha bruger denne model aktivt.",
     "question": "Hvad er en materialepartner i cykling typisk?",
     "options": [
-      "En sponsor der betaler mere end titelsponsor",
       "Et brand der leverer udstyr eller tøj mod eksponering frem for cash",
+      "En sponsor der betaler mere end titelsponsor",
       "En sponsor der kun aktiverer online",
       "En lokal sponsor uden for WorldTour"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Materialepartnere bytter produktværdi mod synlighed. Det er attraktivt for begge parter: holdet får gratis udstyr, og brandet får eksponering i TV-transmissioner."
   },
   {
@@ -83,11 +83,11 @@
     "question": "Hvad er naming rights i forbindelse med et cykelløb?",
     "options": [
       "Retten til at navngive løbets vindende rytter",
-      "Retten til at have sponsorens navn i løbets officielle titel",
       "Eksklusiv ret til at sende løbet på streaming",
-      "Retten til at godkende løbsruten"
+      "Retten til at godkende løbsruten",
+      "Retten til at have sponsorens navn i løbets officielle titel"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Naming rights er det stærkeste synlighedselement i et løbssponsorat. Hvert gang løbet omtales i medier, nævnes sponsorens navn — passiv eksponering i hele løbsperioden."
   },
   {
@@ -96,11 +96,11 @@
     "question": "Hvad gør cykling særlig attraktiv for TV-eksponering?",
     "options": [
       "Cykling har det højeste seertal af alle sportsgrene",
-      "Rytternes udstyr er synligt i timevis af uafbrudt transmission",
       "Alle cykelløb sendes reklamefrit",
+      "Rytternes udstyr er synligt i timevis af uafbrudt transmission",
       "Cykling har flest kanaler der sender sporten"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "I fodbold varer et angreb sekunder. I cykling kan en breakaway-rytter være synlig i kameraet i 30-60 min. Det giver en eksponeringstid som meget få sportsgrene matcher."
   },
   {
@@ -121,12 +121,12 @@
     "body": "Moderne sponsoratmåling bruger <b>AI-baseret logodetektering</b> til at registrere hvert sekund et logo er synligt i en TV-transmission.<br><br>Algoritmer analyserer videoframes og måler: <b>logostørrelse</b> (andel af skærmen), <b>placering</b> (center vs. kant), <b>varighed</b> og <b>clutter</b> (hvor mange andre logoer er synlige samtidig). Det kombineres med seertal for at beregne eksponeringsværdi.",
     "question": "Hvad måler AI-logodetektering ud over om et logo er synligt?",
     "options": [
-      "Kun om logoet er pixeleret eller klart",
       "Størrelse, placering, varighed og konkurrerende logoers tilstedeværelse",
+      "Kun om logoet er pixeleret eller klart",
       "Antal gange kommentatoren nævner sponsorens navn",
       "Om seeren aktivt kigger på logoet"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Et logo i hjørnet af billedet er ikke det samme som et logo der fylder 20% af skærmen. AI-systemer som Veritone vægter disse faktorer for at give et retvisende værdital."
   },
   {
@@ -135,11 +135,11 @@
     "question": "Hvad er karakteristisk for sociale medier-reach i professionel cykling?",
     "options": [
       "Holdenes officielle kanaler dominerer altid",
-      "Rytternes personlige kanaler overgår ofte holdets officielle reach",
       "Cykling har dårlig social media-performance sammenlignet med andre sportsgrene",
-      "Kun Grand Tour-vinder har relevant social media-reach"
+      "Kun Grand Tour-vinder har relevant social media-reach",
+      "Rytternes personlige kanaler overgår ofte holdets officielle reach"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Fans følger ryttere, ikke hold. Det giver sponsors unik mulighed for autentisk eksponering via rytterens egne profiler — noget der er svært at købe sig til med traditionel annoncering."
   },
   {
@@ -148,11 +148,11 @@
     "question": "Hvilken demografisk gruppe dominerer typisk cykelsportens TV-publikum?",
     "options": [
       "Kvinder 18-30 år med høj digital aktivitet",
-      "Mænd 35-60 år med over gennemsnitlig indkomst",
       "Teenagere og studerende med interesse for action-sport",
+      "Mænd 35-60 år med over gennemsnitlig indkomst",
       "Familier med børn under 12 år"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Den ældre, velhavende mandlige seer er kernemålgruppen — og det er præcis den profil der er svær at nå med digitale annoncer alene. Det giver cykelsponsorater høj strategisk værdi for premium brands."
   },
   {
@@ -160,12 +160,12 @@
     "body": "<b>Brand fit</b> handler om, at sponsorens værdier og image matcher sportens værdier i forbrugernes bevidsthed.<br><br>Cykling forbindes med: <b>udholdenhed, præcision, innovation, natur og bæredygtighed</b>. Brands der ønsker disse associationer — fx forsikringsselskaber, energidrikkefirmaer eller teknologivirksomheder — finder naturligt brand fit i cykling.",
     "question": "Hvad er brand fit i sponsoratsammenhæng?",
     "options": [
-      "At sponsorens logo passer størrelsesmæssigt på trøjen",
       "At sponsorens værdier matcher sportens image i forbrugernes opfattelse",
+      "At sponsorens logo passer størrelsesmæssigt på trøjen",
       "At sponsoren og holdet har samme farvepalette",
       "At sponsoren er fra samme land som holdet"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Brand fit handler om assosiationer — et forsikringsselskab kan styrke sit image som troværdigt og udholdendt ved at sponsorere et hold der kæmper sig op ad Alperne."
   },
   {
@@ -187,11 +187,11 @@
     "question": "Hvad er formålet med employee experience-aktivering?",
     "options": [
       "At skaffe nye sponsorer via netværk",
-      "At styrke sponsorens employer branding og medarbejdermotivation",
       "At undgå at bruge penge på TV-eksponering",
-      "At øge holdets sociale medier-følgerantal"
+      "At øge holdets sociale medier-følgerantal",
+      "At styrke sponsorens employer branding og medarbejdermotivation"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Employee experiences bruger sponsoratet internt. Det er dokumenteret at unikke oplevelser øger medarbejdertilfredshed og engagement — og det er svært at sætte en pris på."
   },
   {
@@ -200,11 +200,11 @@
     "question": "Hvad er purpose-driven aktivering i cykelsponsorat?",
     "options": [
       "At sponsoren donerer 10% af budgettet til velgørenhed",
-      "At aktivering er bundet til et konkret bæredygtigheds- eller samfundsbidrag",
       "At sponsoren undlader al annoncering under løbet",
+      "At aktivering er bundet til et konkret bæredygtigheds- eller samfundsbidrag",
       "At sponsoren kun kommunikerer til eksisterende kunder"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Purpose-driven aktivering knytter eksponering til et konkret bidrag — fx grøn transport eller affaldshåndtering. Det giver sponsoren autentisk historiefortælling frem for blot logo-synlighed."
   },
   {
@@ -212,12 +212,12 @@
     "body": "<b>Medieværdi</b> (eller <em>media value</em>) er en estimeret pengepris på den eksponering et sponsorat har genereret i TV, online og sociale medier.<br><br>Metoden: Hvad ville det have kostet at købe tilsvarende annoncetid/plads på de kanaler hvor eksponeringen fandt sted? Det svarer er medieværdien.<br><br>Den bruges til at dokumentere om et sponsorat leverer mere eller mindre end den investerede pris.",
     "question": "Hvad måler medieværdi?",
     "options": [
-      "Antallet af gange et logo er synligt i en transmission",
       "Den estimerede pris det ville koste at købe tilsvarende eksponering som reklame",
+      "Antallet af gange et logo er synligt i en transmission",
       "Sponsorens samlede markedsandel efter et løb",
       "Antallet af omtaler i trykte medier"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Medieværdi oversætter eksponering til kroner og øre — og giver sponsor og rettighedshaver et fælles sprog for hvad partnerskabet leverer."
   },
   {
@@ -242,11 +242,11 @@
     "question": "Hvad betyder en RoSI® på 2,4x?",
     "options": [
       "Sponsoren har fået 240% rabat på fremtidige aftaler",
-      "Sponsoren har modtaget 2,4 gange sin investering i verificerbar medieværdi",
       "Holdet vandt 2,4 gange så mange løb som forventet",
-      "Medieværdien er 2,4% af den investerede sum"
+      "Medieværdien er 2,4% af den investerede sum",
+      "Sponsoren har modtaget 2,4 gange sin investering i verificerbar medieværdi"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "2,4x RoSI® er et stærkt resultat. Det betyder at for hver krone investeret fik sponsoren 2,4 kroner tilbage i dokumenteret eksponering — et konkret argument for renewal."
   },
   {
@@ -268,11 +268,11 @@
     "question": "Hvad er formålet med benchmarking i et cykelsponsorat?",
     "options": [
       "At sammenligne sin rytters resultater med andres",
-      "At dokumentere at ens sponsorat performer over eller under markedsniveau",
       "At fastsætte antal etapevindere et hold skal have",
+      "At dokumentere at ens sponsorat performer over eller under markedsniveau",
       "At sammenligne sociale medier-følgere på tværs af hold"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Benchmarking giver kontekst. 'Vi genererede €8 mio. i medieværdi' er svagt alene — 'vi genererede 40% mere end sammenlignelige hold' er et stærkt argument."
   },
   {
@@ -280,12 +280,12 @@
     "body": "Den mest konkrete anvendelse af sponsoratmåling er <b>renewal-dokumentation</b> — at bevise over for en sponsor hvad de faktisk modtog i den afsluttede kontraktperiode.<br><br>En dokumenteret eksponeringsrapport forandrer dynamikken: rettighedshaveren præsenterer verificerede tal frem for at bede om fornyelse på goodwill. Det er forskellen på at forhandle fra styrke og fra svaghed.",
     "question": "Hvad er renewal-dokumentation?",
     "options": [
-      "En juridisk aftale om automatisk forlængelse af kontrakten",
       "En rapport der beviser hvad sponsoren modtog, brugt som grundlag for fornyelse",
+      "En juridisk aftale om automatisk forlængelse af kontrakten",
       "En liste over planlagte løb i næste sæson",
       "Sponsorens egne salgstal under kontraktperioden"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Renewal-dokumentation skifter magtbalancen. Rettighedshavere med data forhandler fra en position af styrke — de behøver ikke overbevise, de viser."
   },
   {
