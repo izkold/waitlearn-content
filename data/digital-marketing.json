@@ -1,0 +1,573 @@
+[
+  {
+    "title": "Hvad er digital markedsføring?",
+    "body": "Digital markedsføring bruger online kanaler til at nå kunder.<br><br><b>Digital</b> dækker søgemaskiner, sociale medier og email.<br><br>Det er målbart og fleksibelt i modsætning til traditionel markedsføring.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad gør digital markedsføring unik sammenlignet med traditionel markedsføring?",
+    "options": [
+      "Kun offline annoncer",
+      "Præcis målretning og real-time måling",
+      "Højere faste omkostninger",
+      "Ingen data-indsigt"
+    ],
+    "correct": 1,
+    "explanation": "Data-drevet tilgang giver real-time indsigt og løbende optimering - det kan traditionelle kanaler som TV og print ikke matche."
+  },
+  {
+    "title": "Målgruppe og buyer persona",
+    "body": "En buyer persona er en fiktiv repræsentation af din ideelle kunde.<br><br><b>Personaer</b> hjælper med at målrette budskaber præcist.<br><br>Demografi, adfærd og behov definerer dem.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvorfor bruger man buyer personaer i markedsføring?",
+    "options": [
+      "For at spare tid på design",
+      "For at ramme den rigtige målgruppe med det rigtige budskab",
+      "Kun til intern præsentation",
+      "For at undgå kunder"
+    ],
+    "correct": 1,
+    "explanation": "Personaer sikrer relevans og højere konvertering fordi du taler direkte til den person der faktisk køber."
+  },
+  {
+    "title": "Brand awareness",
+    "body": "Brand awareness er hvor kendt dit brand er hos målgruppen.<br><br><b>Awareness</b> er første trin i købsrejsen.<br><br>Det skabes via indhold, PR og annoncer.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Brand ___ er målet for, hvor mange i målgruppen der kender og genkender dit brand.",
+    "options": [
+      "awareness",
+      "conversion",
+      "retention",
+      "engagement"
+    ],
+    "correct": 0,
+    "explanation": "Brand awareness beskriver kendskabsgraden. Høj awareness øger tillid og sandsynlighed for køb - du kan ikke sælge til nogen der ikke ved du eksisterer."
+  },
+  {
+    "title": "Content marketing grundlæggende",
+    "body": "Content marketing skaber værdifuldt indhold for at tiltrække kunder.<br><br><b>Indhold</b> løser problemer og bygger tillid.<br><br>Blog, video og infografik er eksempler.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Du er marketingchef for et nyt SaaS-produkt med begrænset budget. Du vil bygge tillid over tid. Hvilken strategi passer bedst?",
+    "options": [
+      "Direkte salgsopkald til alle leads",
+      "Content marketing med guides, blogindlæg og case studies",
+      "Kun betalte annoncer fra dag ét",
+      "Ingen markedsføring - vent på mund-til-mund"
+    ],
+    "correct": 1,
+    "explanation": "Content marketing tiltrækker kunder organisk ved at løse deres problemer. Det koster tid men bygger tillid og giver langvarig organisk trafik uden løbende annonceringsudgifter."
+  },
+  {
+    "title": "SEO – søgemaskineoptimering",
+    "body": "SEO optimerer dit website til at ranke højere på Google.<br><br><b>On-page</b> og off-page faktorer påvirker placering.<br><br>Nøgleord, teknisk kvalitet og backlinks er centrale.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad betyder SEO?",
+    "options": [
+      "Social media annoncer",
+      "Email udsendelse",
+      "Video produktion",
+      "Optimering for søgemaskiner"
+    ],
+    "correct": 3,
+    "explanation": "SEO = Search Engine Optimization. Organisk trafik fra God SEO er gratis og langtidsholdbar modsat betalt annoncering."
+  },
+  {
+    "title": "SEM og betalte annoncer",
+    "body": "SEM er betalt søgemarkedsføring som Google Ads.<br><br><b>PPC</b> betyder pay-per-click - du betaler kun når nogen klikker.<br><br>Det giver hurtig synlighed i søgeresultaterne.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "SEM adskiller sig fra SEO ved at det er ___ og giver øjeblikkelig synlighed.",
+    "options": [
+      "gratis",
+      "organisk",
+      "betalt",
+      "automatisk"
+    ],
+    "correct": 2,
+    "explanation": "SEM er betalt søgemarkedsføring. Du betaler pr. klik (PPC) og ser resultater med det samme - til forskel fra SEO der tager måneder at bygge op."
+  },
+  {
+    "title": "Social media marketing",
+    "body": "Social media markedsføring bruger platforme som Facebook og Instagram.<br><br><b>Engagement</b> øger rækkevidde organisk.<br><br>Målretning efter interesser og demografi er nøglen.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad sker der typisk når du poster indhold med høj engagement på sociale medier?",
+    "options": [
+      "Algoritmerne skjuler det for nye brugere",
+      "Kun dine eksisterende følgere ser det",
+      "Rækkevidden øges organisk til nye potentielle kunder",
+      "Indholdet slettes automatisk efter 24 timer"
+    ],
+    "correct": 2,
+    "explanation": "Engagement (likes, kommentarer, delinger) signalerer til algoritmerne at indholdet er relevant - og det distribueres til flere. Det er kernen i organisk vækst på sociale medier."
+  },
+  {
+    "title": "Email marketing basics",
+    "body": "Email marketing sender målrettede beskeder til abonnenter.<br><br><b>Newsletters</b> holder kunder opdaterede og engagerede.<br><br>Personalisering øger åbningsraten markant.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Email marketing er effektivt fordi det er direkte, personligt og har høj ___ sammenlignet med de fleste andre digitale kanaler.",
+    "options": [
+      "bounce rate",
+      "ROI",
+      "CPC",
+      "churn rate"
+    ],
+    "correct": 1,
+    "explanation": "Email marketing har gennemsnitligt 3600-4400% ROI ifølge branchedata - du investerer 1 kr. og får 36-44 kr. tilbage. Det skyldes lave omkostninger og direkte kontakt med en allerede interesseret modtager."
+  },
+  {
+    "title": "Influencer marketing",
+    "body": "Influencer marketing samarbejder med påvirkere til brand promotion.<br><br><b>Autenticitet</b> er vigtig for tillid.<br><br>Vælg influencere med et audience der matcher din målgruppe.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er den vigtigste faktor for succesfuld influencer marketing?",
+    "options": [
+      "Autenticitet og audience match med din målgruppe",
+      "Størst muligt antal følgere",
+      "Lavest mulig pris",
+      "Ingen kontrakt - kun mundtlig aftale"
+    ],
+    "correct": 0,
+    "explanation": "Tillid overføres fra influencer til brand - men kun hvis relationen føles autentisk. En mikro-influencer med 10.000 engagerede følgere i din niche kan præstere langt bedre end en mega-influencer med irrelevante følgere."
+  },
+  {
+    "title": "Web analytics og metrics",
+    "body": "Analytics måler trafik og brugeradfærd på dit site.<br><br><b>Google Analytics</b> giver dybdegående data om brugere og sessioner.<br><br>Key metrics inkluderer bounce rate, konverteringsrate og sessionslængde.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad bruges web analytics primært til?",
+    "options": [
+      "At gætte på hvad kunder vil have",
+      "Kun til at redesigne websitet",
+      "Data-drevet optimering af markedsføring og brugeroplevelse",
+      "At ignorere kunder der forlader sitet"
+    ],
+    "correct": 2,
+    "explanation": "Analytics giver konkret indsigt i hvad der virker og hvad der ikke virker. Uden data optimerer du i blinde - med data kan du prioritere de indsatser der faktisk rykker nålen."
+  },
+  {
+    "title": "ROI beregning",
+    "body": "ROI måler afkast af investering i markedsføring.<br><br><b>Formel</b>: (Indtægt - Omkostning) / Omkostning × 100.",
+    "code": "ROI = (Gain - Cost) / Cost * 100\n\nEksempel:\n  Omkostning: 2000 kr.\n  Indtægt:    5000 kr.\n  ROI = (5000-2000)/2000 * 100 = 150%",
+    "bodyAfter": "En ROI over 0% betyder at kampagnen er profitabel.",
+    "question": "Hvis en kampagne koster 3000 kr og genererer 9000 kr i indtægt, hvad er ROI?",
+    "options": [
+      "200%",
+      "300%",
+      "100%",
+      "50%"
+    ],
+    "correct": 0,
+    "explanation": "Beregning: (9000-3000)/3000 × 100 = 200%. Du får 2 kr. tilbage for hver 1 kr. investeret ud over din investering - en stærk kampagne."
+  },
+  {
+    "title": "A/B testing grundlæggende",
+    "body": "A/B testing sammenligner to versioner for at finde den bedste performer.<br><br><b>Variant A vs B</b> vises til hver sin del af trafikken.<br><br>Statistisk signifikans er afgørende for at stole på resultatet.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvilken påstand om A/B testing er ikke korrekt?",
+    "options": [
+      "Du tester to versioner mod hinanden på delt trafik",
+      "Statistisk signifikans er vigtig for at konkludere et resultat",
+      "A/B testing bruges til at teste CTA-knapper, headlines og annoncer",
+      "Resultater er gyldige selv med kun 10-20 besøgende per variant"
+    ],
+    "correct": 3,
+    "explanation": "10-20 besøgende er slet ikke nok - du har typisk brug for hundredvis eller tusindvis per variant for statistisk signifikans. At konkludere på et for lille datagrundlag er en klassisk og dyr fejl."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér marketingkanaler efter ROI",
+    "body": "Kanalerne prioriteres efter typisk langsigtede ROI-potentiale for startups.<br><br><b>Organisk</b> trafik er generelt billigst over tid.",
+    "question": "Sortér disse fra højeste til laveste typisk ROI (top = højest):",
+    "items": [
+      "SEO",
+      "Email marketing",
+      "Social media organisk",
+      "PPC annoncer"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "SEO og email giver høj ROI over tid med lave løbende omkostninger. Social media organisk er gratis men uforudsigeligt. PPC er hurtig men dyr - stopper du betalingen, stopper synligheden."
+  },
+  {
+    "title": "Conversion Rate Optimization",
+    "body": "CRO optimerer sitet for at få flere besøgende til at konvertere.<br><br><b>CTA-knapper</b>, headlines og landing pages testes systematisk.<br><br>Målet er at øge procentdelen der handler.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Din webshop har 1000 daglige besøgende men kun 1% køber. Du vil forbedre dette tal uden at øge trafikken. Hvad arbejder du med?",
+    "options": [
+      "Email marketing mod nye kunder",
+      "Øget annoncering på sociale medier",
+      "Conversion Rate Optimization (CRO)",
+      "Mere brand awareness-indhold"
+    ],
+    "correct": 2,
+    "explanation": "CRO handler om at konvertere en større andel af eksisterende besøgende. En stigning fra 1% til 2% fordobler omsætningen uden en ekstra krone i trafikomkostninger."
+  },
+  {
+    "title": "Landing page design",
+    "body": "En god landing page fokuserer på ét klart budskab.<br><br><b>Headline</b> og en tydelig CTA er essentielle.<br><br>Undgå navigation og distraktioner der fører besøgende væk.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er det vigtigste element på en effektiv landing page?",
+    "options": [
+      "Klar CTA og enkelt fokuseret budskab",
+      "Mange links til resten af sitet",
+      "Lang og detaljeret tekst der forklarer alt",
+      "Ingen call-to-action - lad kunden beslutte selv"
+    ],
+    "correct": 0,
+    "explanation": "Fokus på ét budskab og én handling øger konvertering markant. Hvert ekstra link eller distraktion sænker chancen for at den besøgende gennemfører det du vil have dem til."
+  },
+  {
+    "title": "Mobile-first markedsføring",
+    "body": "Over 60% af al webtrafik kommer nu fra mobile enheder.<br><br><b>Responsive design</b> er ikke valgfrit - det er nødvendigt.<br><br>Hurtig loadtid på mobil er kritisk for konvertering.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad sker der hvis dit website ikke er mobilvenligt i 2026?",
+    "options": [
+      "Højere ranking på Google",
+      "Bedre brugeroplevelse automatisk",
+      "Ingen mærkbar effekt på salget",
+      "Mistet trafik, lavere ranking og dårligere konvertering"
+    ],
+    "correct": 3,
+    "explanation": "Brugere forlader ikke-responsive sider inden for sekunder. Google straffer desuden mobiluvenlige sites i søgeresultaterne. Begge dele koster dig synlighed og salg."
+  },
+  {
+    "title": "Kundelivscyklus",
+    "body": "Kundelivscyklus går fra awareness til loyalty.<br><br><b>Retention</b> er markant billigere end at skaffe nye kunder.<br><br>Genkøb og mersalg øger livstidsværdien.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvorfor bør virksomheder fokusere på retention frem for kun at jagte nye kunder?",
+    "options": [
+      "Det er billigere og øger Customer Lifetime Value",
+      "Det er dyrere men giver bedre branding",
+      "Kun relevant for abonnementsforretninger",
+      "Ingen målbar ROI ved eksisterende kunder"
+    ],
+    "correct": 0,
+    "explanation": "Det koster 5-7x mere at skaffe en ny kunde end at fastholde en eksisterende. Loyal kunder køber mere, oftere og anbefaler dig til andre."
+  },
+  {
+    "title": "Customer Lifetime Value (CLV)",
+    "body": "CLV beregner den forventede samlede værdi en kunde skaber over hele kunderelationen.<br><br><b>CLV</b> er fundamentet for at vurdere hvor meget du bør investere i marketing.",
+    "code": "CLV ≈ Gns. købsværdi × Købsfrekvens × Kundens levetid (år)",
+    "bodyAfter": "Høj CLV tillader højere acquisition cost - du har råd til at bruge mere på at skaffe kunden.",
+    "question": "Hvad bruges CLV primært til i marketing?",
+    "options": [
+      "Kun til prisfastsættelse af produkter",
+      "At reducere antallet af kunder",
+      "At afgøre hvad det er forsvarligt at investere i at skaffe og fastholde kunder",
+      "CLV har ingen praktisk forretningsmæssig anvendelse"
+    ],
+    "correct": 2,
+    "explanation": "Kender du CLV, ved du præcis hvad en kunde er værd over tid. Det giver dig et konkret loft for hvad du kan bruge på at skaffe dem (CAC) og stadig tjene penge."
+  },
+  {
+    "title": "Find fejlen i kampagnen",
+    "body": "En kampagne med lav konvertering kan have flere mulige årsager.<br><br><b>Fejl</b> inkluderer uklar CTA, dårlig timing - og forkert målgruppe.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er den mest almindelige årsag til at en digital kampagne ikke konverterer?",
+    "options": [
+      "For bred målgruppe der spilder budgettet på irrelevante brugere",
+      "For snæver målgruppe",
+      "For meget data til at analysere",
+      "Ingen fejl er mulig i digital markedsføring"
+    ],
+    "correct": 0,
+    "explanation": "En for bred målgruppe er klassikeren: du betaler for at vise annoncer til folk der aldrig vil købe. Præcis targeting er den hurtigste vej til bedre ROI."
+  },
+  {
+    "title": "MVP i markedsføring",
+    "body": "MVP (Minimum Viable Product) testes med minimal markedsføringsindsats.<br><br><b>Lean</b> tilgang validerer om markedet overhovedet vil have produktet, inden du investerer stort.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Du vil lancere et nyt produkt. Du er usikker på om markedet vil tage imod det. Hvad er den smarteste første skridt?",
+    "options": [
+      "Byg det fulde produkt og lancér med stor kampagne",
+      "Test en minimal version på et lille segment og mål reaktionen",
+      "Undlad at teste - spar tid og gå direkte til markedet",
+      "Invester alt i markedsføring fra dag ét"
+    ],
+    "correct": 1,
+    "explanation": "MVP reducerer risikoen drastisk. Du validerer markedsinteressen med minimal investering - og kan pivotere hvis feedback er negativ, inden du har brugt hele budgettet."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér købsrejsen",
+    "body": "Købsrejsen følger standard stadier i digital markedsføring.<br><br><b>Awareness</b> starter processen - kunden kan ikke købe det de ikke kender.",
+    "question": "Sortér disse fra første til sidste i en typisk købsrejse (top = først):",
+    "items": [
+      "Awareness",
+      "Consideration",
+      "Decision",
+      "Loyalty"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Kunden bevæger sig fra kendskab (awareness) → overvejelse (consideration) → beslutning (decision) → loyalitet (loyalty). Din marketing skal matche det stadie kunden befinder sig i."
+  },
+  {
+    "title": "Retargeting strategi",
+    "body": "Retargeting viser annoncer til brugere der tidligere har besøgt dit site.<br><br><b>Cookies</b> og pixel-tracking muliggør det.<br><br>Det øger konverteringen markant fordi du når varme leads.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er den primære fordel ved retargeting?",
+    "options": [
+      "Højere konvertering fordi du rammer brugere der allerede kender dit brand",
+      "Du mister kunder ved at minde dem om besøget",
+      "Kun effektivt til at nå helt nye kunder",
+      "Lavere ROI end at annoncere til cold audiences"
+    ],
+    "correct": 0,
+    "explanation": "Varme leads (der allerede kender dig) konverterer langt bedre end kold trafik. Retargeting er typisk en af de mest effektive og omkostningseffektive digitale annonceformer."
+  },
+  {
+    "title": "Social proof i marketing",
+    "body": "Social proof bruger anmeldelser, ratings og testimonials til at øge tilliden.<br><br><b>Tillid</b> øges markant ved andres anbefalinger.<br><br>Reviews, stjerner og case studies er konkrete eksempler.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Du har 500 positive anmeldelser men viser dem ikke på dit site. En konkurrent med færre anmeldelser viser dem tydeligt. Hvad sker der sandsynligvis?",
+    "options": [
+      "Din konvertering er den samme - anmeldelser ændrer ikke noget online",
+      "Anmeldelsernes kvalitet betyder mere end synlighed",
+      "Kunderne stoler mere på konkurrentens side og køber der i stedet",
+      "Det påvirker kun B2C-salg, ikke B2B"
+    ],
+    "correct": 2,
+    "explanation": "Social proof skal være synlig for at virke. Mennesker følger andres valg ved usikkerhed - det er et grundlæggende psykologisk princip. Usynlige anmeldelser hjælper ingen."
+  },
+  {
+    "title": "Budgettering af kampagner",
+    "body": "Start med 5-10% af omsætning til marketing som tommelfingerregel.<br><br><b>Test</b> små budgetter på flere kanaler først.<br><br>Skalér kun det der allerede beviseligt virker.",
+    "code": "Tommelfingerregel: test 10-20% af kampagnebudget\npå 2-3 kanaler → skalér vinderen",
+    "bodyAfter": "",
+    "question": "Hvad er den smarteste tilgang til budgettering i digital markedsføring?",
+    "options": [
+      "Alt budget på én kanal fra start for at dominere",
+      "Ingen test - bare skalér direkte til fuld investering",
+      "Kun store summer giver resultater",
+      "Test små beløb på flere kanaler og skalér hvad der dokumenteret virker"
+    ],
+    "correct": 3,
+    "explanation": "Data validerer inden skalering. Små testbudgetter reducerer risikoen og giver konkret indsigt i hvad der faktisk konverterer i dit specifikke marked."
+  },
+  {
+    "title": "Hvad sker hvis ingen analytics?",
+    "body": "Uden analytics kører du markedsføring i blinde.<br><br><b>Beslutninger</b> baseres på mavefornemmelse frem for fakta.<br><br>Spildte budgetter er det typiske resultat.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad sker der typisk for virksomheder der ikke bruger analytics i deres kampagner?",
+    "options": [
+      "Ineffektiv markedsføring og spildt budget fordi man ikke kan optimere",
+      "Bedre resultater via ren intuition og erfaring",
+      "Lavere omkostninger fordi man sparer på analyseværktøjer",
+      "Automatisk mere organisk trafik"
+    ],
+    "correct": 0,
+    "explanation": "Du kan ikke optimere det du ikke måler. Uden data fortsætter du med at bruge penge på kanaler og budskaber der ikke virker - fordi du aldrig finder ud af det."
+  },
+  {
+    "title": "Omnichannel strategi",
+    "body": "Omnichannel giver en sammenhængende oplevelse på tværs af alle kanaler.<br><br><b>Integration</b> mellem online og offline er kernen.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvilken af følgende er IKKE en fordel ved en omnichannel-strategi?",
+    "options": [
+      "Ens kundeoplevelse uanset om kunden handler online eller i butik",
+      "Øget loyalitet via konsistente touchpoints på tværs af kanaler",
+      "Bedre data om kundens adfærd på tværs af alle kontaktpunkter",
+      "Reduceret behov for koordination og samarbejde mellem afdelinger"
+    ],
+    "correct": 3,
+    "explanation": "Omnichannel kræver faktisk mere koordination - ikke mindre. Marketing, salg, kundeservice og logistik skal arbejde tæt sammen for at sikre en sammenhængende oplevelse overalt."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér metrics efter ROI-relevans",
+    "body": "Vælg og prioritér metrics baseret på kampagnemålet.<br><br><b>ROI</b> er slutmålet for de fleste kommercielle kampagner.",
+    "question": "Sortér disse fra vigtigst til mindst vigtig ved ROI-fokus (top = vigtigst):",
+    "items": [
+      "ROI",
+      "Conversion rate",
+      "Traffic",
+      "Bounce rate"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "ROI er det ultimative forretningsmål. Konverteringsrate fortæller om effektivitet. Trafik er nødvendig men ikke nok alene. Bounce rate er et symptom der understøtter forståelsen."
+  },
+  {
+    "title": "Personalisering i marketing",
+    "body": "Personalisering bruger data til at skræddersy budskaber til den individuelle modtager.<br><br><b>Navn, præferencer og adfærd</b> øger relevansen markant.<br><br>AI muliggør personalisering i realtid i stor skala.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad sker der typisk når en virksomhed skifter fra generiske mass-emails til personaliserede beskeder?",
+    "options": [
+      "Åbningsrate og klikrate stiger markant fordi indholdet er relevant",
+      "Åbningsraten falder pga. spam-filtre",
+      "Ingen forskel - indholdet er det eneste der tæller",
+      "Omkostningerne stiger uden tilsvarende merværdi"
+    ],
+    "correct": 0,
+    "explanation": "Personaliserede emails har typisk 26% højere åbningsrate og markant bedre klikrate. Relevans driver handling - ingen gider læse noget der ikke vedrører dem."
+  },
+  {
+    "title": "Compliance og GDPR",
+    "body": "GDPR kræver eksplicit samtykke til indsamling og brug af data og emails.<br><br><b>Opt-in</b> er lovpligtigt i EU.<br><br>Overtrædelser kan give bøder op til 4% af global omsætning.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvorfor er GDPR-overholdelse vigtig for din digitale markedsføring?",
+    "options": [
+      "Det er ligegyldigt - data er bare data",
+      "Det tillader dig at sende flere emails lovligt",
+      "Det beskytter kundedata, opbygger tillid og undgår store bøder",
+      "Det sænker automatisk dine marketingomkostninger"
+    ],
+    "correct": 2,
+    "explanation": "GDPR handler om respekt for privatlivets fred - og det betaler sig. Virksomheder der overholder reglerne opbygger tillid. Dem der ikke gør det risikerer massive bøder og tab af omdømme."
+  },
+  {
+    "title": "Video marketing trends",
+    "body": "Video øger engagement 5x mere end statisk tekst og billeder.<br><br><b>Short-form</b> som Reels og TikTok dominerer forbrugernes opmærksomhed.<br><br>Autentiske videoer performer bedst over polerede produktioner.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvorfor bør video indgå i din markedsføringsstrategi i 2026?",
+    "options": [
+      "Lavere engagement end tekst og billeder",
+      "Højere engagement, bedre retention og algoritmefavorisering",
+      "Kun relevant for store brands med produktion budget",
+      "Dyrere end tekst uden tilsvarende merværdi"
+    ],
+    "correct": 1,
+    "explanation": "Visuelt indhold fanger opmærksomhed og huskes bedre. Alle store sociale platforme prioriterer videoindhold i deres algoritmer - og short-form video er i dag det mest distribuerede indholdsformat."
+  },
+  {
+    "title": "Beregning af CAC",
+    "body": "Customer Acquisition Cost (CAC) er den gennemsnitlige omkostning ved at skaffe én ny kunde.<br><br><b>CAC</b> skal holdes under CLV for at forretningen er bæredygtig.",
+    "code": "CAC = Total marketingudgifter / Antal nye kunder\n\nEksempel:\n  10.000 kr. brugt → 20 nye kunder\n  CAC = 10.000 / 20 = 500 kr. pr. kunde",
+    "bodyAfter": "En CLV/CAC-ratio på 3:1 eller derover betragtes som sund.",
+    "question": "Din CAC er 800 kr. og din CLV er 3000 kr. Hvad kan du konkludere om forretningsmodellen?",
+    "options": [
+      "Nej, CLV er for lav til at dække marketingomkostningerne",
+      "Kun profitabelt hvis CAC falder yderligere",
+      "Kun profitabelt på meget kort sigt",
+      "Ja, CLV er 3,75x CAC - forretningsmodellen er profitabel"
+    ],
+    "correct": 3,
+    "explanation": "CLV/CAC = 3000/800 = 3,75x. Branchestandarder siger at 3:1 eller derover er sund forretning. Du tjener 3,75 kr. i livstidsværdi for hver krone brugt på at skaffe kunden."
+  },
+  {
+    "title": "Hvad hvis lav brand awareness?",
+    "body": "Lav awareness betyder færre leads ind i toppen af salgstragten.<br><br><b>Top-of-funnel</b> indhold er løsningen.<br><br>Øg synlighed via PR, content og awareness-kampagner.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Din virksomhed konverterer dårligt. Analytics viser at kun meget få kender dit brand. Hvad er det vigtigste første skridt?",
+    "options": [
+      "Reducér priserne for at kompensere for lav kendskab",
+      "Fokusér udelukkende på salgsaktiviteter og closing",
+      "Invester i top-of-funnel indhold og awareness-kampagner for at bygge kendskab",
+      "Stop al markedsføring og vent på organisk vækst"
+    ],
+    "correct": 2,
+    "explanation": "Du kan ikke sælge til nogen der ikke kender dig. Byg brand awareness (top-of-funnel) som fundament - derefter vil konverteringerne følge naturligt, fordi kunderne allerede kender og stoler på dig."
+  },
+  {
+    "title": "AI i digital markedsføring",
+    "body": "AI automatiserer targeting, personalisering og content creation i stor skala.<br><br><b>Chatbots</b> og predictive analytics er i dag standard værktøjer.<br><br>Personalisering i realtid er mulig for selv små virksomheder.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvilken påstand om AI i digital markedsføring er ikke korrekt?",
+    "options": [
+      "AI kan automatisere personalisering i realtid på tværs af millioner af brugere",
+      "AI erstatter fuldstændigt behovet for menneskelig strategi og kreativitet",
+      "Chatbots og predictive analytics er allerede standard i moderne marketing",
+      "AI bruges til automatisk segmentering og targeting af annoncemålgrupper"
+    ],
+    "correct": 1,
+    "explanation": "AI er et kraftfuldt værktøj - men det erstatter ikke menneskelig strategi, empati og kreativitet. AI er bedst til at skalere og optimere det mennesker allerede har udtænkt og defineret."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér vækstfaser (AARRR)",
+    "body": "Marketing tilpasses virksomhedens vækstfase.<br><br><b>AARRR-modellen</b> (pirate metrics) er en klassisk ramme for startup-vækst.",
+    "question": "Sortér disse AARRR-faser efter typisk prioritet for en ny startup (top = tidligste):",
+    "items": [
+      "Acquisition",
+      "Activation",
+      "Retention",
+      "Referral"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Acquisition (skaffe besøgende) → Activation (første gode oplevelse) → Retention (de vender tilbage) → Referral (de anbefaler dig). Du kan ikke fastholde kunder du ikke har endnu."
+  },
+  {
+    "title": "Bæredygtig markedsføring",
+    "body": "Bæredygtighed appellerer stærkt til moderne forbrugere - særligt Gen Z og Millennials.<br><br><b>Autentiske grønne værdier</b> styrker brandet.<br><br>Greenwashing (falske grønne påstande) straffes hårdt.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er den dominerende trend i markedsføring i 2026?",
+    "options": [
+      "Kun profitmaksimering kommunikeres direkte til forbrugere",
+      "Aggressive kampagner med hurtigst mulige salgsbudskaber",
+      "Mindre transparens om produktion og værdikæde",
+      "Bæredygtig og etisk markedsføring der matcher forbrugernes værdier"
+    ],
+    "correct": 3,
+    "explanation": "Forbrugere vælger i stigende grad brands med værdier de kan identificere sig med. Autentisk bæredygtighed er en konkurrencefordel - greenwashing er til gengæld en massiv risiko for omdømmet."
+  },
+  {
+    "title": "Integreret marketingkommunikation",
+    "body": "IMC (Integrated Marketing Communications) sikrer konsistent budskab på alle kanaler.<br><br><b>Samme tone, værdier og visuelle udtryk</b> overalt.<br><br>Det styrker brand equity og genkendelighed.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er den primære fordel ved integreret marketingkommunikation (IMC)?",
+    "options": [
+      "Det skaber forvirring hos kunder der ser budskaber på tværs af kanaler",
+      "Konsistent og stærkt brand på tværs af alle touchpoints øger genkendelighed og tillid",
+      "Det øger de administrative omkostninger uden tilsvarende effekt",
+      "Ingen synergi - kanaler fungerer bedst helt uafhængigt"
+    ],
+    "correct": 1,
+    "explanation": "Konsistens skaber genkendelighed og tillid. Når samme budskab kommunikeres sammenhængende på TV, sociale medier, email og website forstærkes den samlede effekt markant."
+  },
+  {
+    "title": "Du har nu styr på Digital Markedsføring 🎉",
+    "body": "Tillykke! Du har gennemgået grundbegreber, beregninger og strategier inden for digital markedsføring.<br><br><b>Nu</b> kan du anvende det i praksis.<br><br>Fortsæt med at teste, måle og optimere.",
+    "code": "",
+    "bodyAfter": "",
+    "question": "Hvad er næste skridt efter at have gennemført dette modul?",
+    "options": [
+      "Stop med at lære - du ved det hele nu",
+      "Glem alt og start forfra med grundbøger",
+      "Kun teori - undgå praktiske eksperimenter",
+      "Anvend viden, test kampagner og mål og optimer løbende"
+    ],
+    "correct": 3,
+    "explanation": "Praksis og iteration er vejen til succes. Digital markedsføring er en levende disciplin der konstant udvikler sig - test, mål og bliv klogere med hver kampagne du kører."
+  }
+]
