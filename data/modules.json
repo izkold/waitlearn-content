@@ -1,5 +1,22 @@
 [
-  { "id": "terminal", "title": "Terminal & Kommandolinje", "desc": "Naviger filsystemet, kør kommandoer, forstå paths." },
-  { "id": "python", "title": "Python fra nul", "desc": "Variabler, lister, dicts, løkker, funktioner." },
-  { "id": "sponsorship", "title": "Sponsor Marketing", "desc": "Sponsorattyper, brand fit, activation, ROI og måling." }
+  {
+    "id": "terminal",
+    "title": "Terminal & Kommandolinje",
+    "desc": "Naviger filsystemet, kør kommandoer, forstå paths."
+  },
+  {
+    "id": "python",
+    "title": "Python fra nul",
+    "desc": "Variabler, lister, dicts, løkker, funktioner."
+  },
+  {
+    "id": "sponsorship",
+    "title": "Sponsor Marketing",
+    "desc": "Sponsorattyper, brand fit, activation, ROI og måling."
+  },
+  {
+    "id": "cykling-sponsorat",
+    "title": "Cykelsponsoring",
+    "desc": "Dealstrukturer, TV-eksponering, RoSI® og forhandling i professionel cykling."
+  }
 ]
