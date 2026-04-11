@@ -23,5 +23,10 @@
     "id": "digital-marketing",
     "title": "Digital Markedsføring",
     "desc": "Grundbegreber, kanaler, beregninger og strategier i digital markedsføring."
+  },
+  {
+    "id": "polymarket",
+    "title": "Polymarket & Prediction Markets",
+    "desc": "Handel på fremtidige hændelser med USDC - mekanik, strategi og EV-beregning."
   }
 ]
