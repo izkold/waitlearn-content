@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Hvad er Polymarket?",
+    "body": "Polymarket er en decentral prediction market-platform bygget på Polygon blockchain.<br><br>Her handler brugere på udfald af virkelige begivenheder med USDC som valuta.<br><br>Priserne afspejler markedets kollektive sandsynlighed for et givent udfald.",
+    "question": "Hvad er Polymarket?",
+    "options": [
+      "En nyhedsside om krypto",
+      "En decentral prediction market på blockchain",
+      "En traditionel sportsbetting-side",
+      "Et socialt medie til investorer"
+    ],
+    "correct": 1,
+    "explanation": "Polymarket er blockchain-baseret og decentralt - ingen enkelt part kontrollerer det. Det adskiller sig fra traditionelle bookmakers ved at have ingen margin og global adgang."
+  },
+  {
+    "title": "Prediction markets grundlæggende",
+    "body": "Prediction markets lader folk satse på fremtiden.<br><br>Prisen på en aktie afspejler sandsynligheden for et udfald.<br><br>De aggregerer information fra mange deltagere og er ofte mere præcise end meningsmålinger.",
+    "question": "Prediction markets er særligt nyttige fordi de aggregerer information fra mange deltagere og giver mere ___ sandsynligheder end ekspertforudsigelser.",
+    "options": [
+      "subjektive og biased",
+      "tilfældige og uforudsigelige",
+      "præcise og informationsrige",
+      "partiske og manipulerede"
+    ],
+    "correct": 2,
+    "explanation": "Det kaldes 'wisdom of crowds' - markedet samler viden fra alle deltagere og prissætter sandsynligheder bedre end selv de bedste enkelteksperter."
+  },
+  {
+    "title": "Ja/Nej-aktier på Polymarket",
+    "body": "Hver markedsbegivenhed har Ja- og Nej-aktier.<br><br>Køb Ja hvis du tror udfaldet sker, Nej hvis du tror det ikke sker.<br><br>Vindende aktier udbetaler 1 $, tabende aktier udbetaler 0 $.",
+    "question": "Hvad udbetaler en vundet Ja-aktie ved resolution?",
+    "options": [
+      "1 $ pr. aktie",
+      "0,50 $ pr. aktie",
+      "Variabelt beløb afhængig af markedet",
+      "Ingenting - gevinster reinvesteres"
+    ],
+    "correct": 0,
+    "explanation": "Enkelt og binært: du vinder 1 $ eller taber alt. Det gør Polymarket let at forstå - du satser på sandsynligheder, ikke odds-formater."
+  },
+  {
+    "title": "Implied probability",
+    "body": "Aktieprisen er direkte lig den implicitte sandsynlighed for det pågældende udfald.<br><br>En Ja-aktie til 0,65 $ = 65 % chance for Ja.<br><br>Dermed er Nej-sandsynligheden altid det omvendte.",
+    "code": "Ja-sandsynlighed  = Ja-aktiepris\nNej-sandsynlighed = 1 - Ja-aktiepris\n\nEksempel: Ja = 0,65 $  →  Nej = 0,35 = 35 %",
+    "bodyAfter": "",
+    "question": "En Ja-aktie handles til 0,35 $. Hvad er den implicitte sandsynlighed for Nej?",
+    "options": [
+      "35%",
+      "100%",
+      "50%",
+      "65%"
+    ],
+    "correct": 3,
+    "explanation": "Nej-sandsynlighed = 1 - 0,35 = 0,65 = 65%. Når markedet siger der er 35% chance for Ja, siger det implicit at der er 65% chance for Nej."
+  },
+  {
+    "title": "USDC og Polygon",
+    "body": "Polymarket bruger stablecoin USDC på Polygon-blockchain.<br><br>Det giver lave transaktionsgebyrer og hurtige afviklinger.<br><br>Ingen KYC kræves for de fleste brugere.",
+    "question": "Polymarket bruger USDC fordi det er en ___, der holder sin værdi stabil og lader brugere fokusere på sandsynligheder frem for valutakursudsving.",
+    "options": [
+      "volatile kryptovaluta som Bitcoin",
+      "centraliseret bankvaluta med høje gebyrer",
+      "stablecoin knyttet til USD",
+      "aktie i Polymarket-selskabet"
+    ],
+    "correct": 2,
+    "explanation": "USDC er altid lig 1 USD. Det eliminerer valutarisiko - du behøver ikke spekulere i kryptokursudvikling, kun i sandsynligheder for de begivenheder du handler på."
+  },
+  {
+    "title": "Liquidity og trading",
+    "body": "Liquidity pools bestemmer hvor let du kan handle på et marked.<br><br>Høj liquidity giver smalle spreads og minimal slippage.<br><br>Du kan købe eller sælge din position næsten til enhver tid.",
+    "question": "Hvad sker der typisk på et marked med lav liquidity på Polymarket?",
+    "options": [
+      "Større spreads og slippage gør det dyrere at åbne og lukke positioner",
+      "Lettere og billigere at handle end normalt",
+      "Ingen effekt på handelsomkostninger",
+      "Højere præcision i odds og bedre information"
+    ],
+    "correct": 0,
+    "explanation": "Lav liquidity betyder få modparter. Det skaber store bid/ask spreads - du betaler mere for at købe og får mindre for at sælge. Vær altid opmærksom på volumen inden du handler."
+  },
+  {
+    "title": "Sådan placerer du et trade",
+    "body": "Vælg marked → vælg Ja eller Nej → indtast beløb → bekræft.<br><br>Du kan sælge din position igen før udfaldet for at låse gevinst eller begrænse tab.<br><br>Der er intet minimumskrav til indsats.",
+    "question": "Du har købt Ja-aktier til 0,40 $. Markedet stiger til 0,72 $ men eventet er endnu ikke afgjort. Hvad kan du gøre?",
+    "options": [
+      "Kun vente passivt til resolution",
+      "Købe endnu mere til den høje pris for at øge eksponering",
+      "Annullere din position gratis og uden konsekvenser",
+      "Sælge dine aktier nu og realisere gevinsten"
+    ],
+    "correct": 3,
+    "explanation": "Du er ikke låst inde til resolution. Du kan sælge til markedsprisen og realisere din gevinst med det samme - ligesom på en børs. Det er en af Polymarkets store fordele."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér markeder efter volumen",
+    "body": "Volumen viser hvor meget der handles på et marked.<br><br><b>Højt volumen</b> = mere præcise odds og bedre likviditet.",
+    "question": "Sortér disse fra højest til lavest typisk handelsvolumen (top = højest):",
+    "items": [
+      "US-præsidentvalg",
+      "Krypto-prisudvikling",
+      "Sportsbegivenheder",
+      "Niche-kulturhændelser"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Store globale events som valg tiltrækker flest penge og dermed den mest præcise prisinformation. Niche-events har færre deltagere og dermed mindre likvide markeder."
+  },
+  {
+    "title": "Event resolution",
+    "body": "Når begivenheden er afgjort, bliver markedet resolved.<br><br>Vindere får 1 $ per aktie, tabere 0 $.<br><br>Resolution sker via UMA oracle eller community vote.",
+    "question": "Hvilken påstand om event resolution på Polymarket er ikke korrekt?",
+    "options": [
+      "Vindere modtager 1 $ pr. aktie ved resolution",
+      "Resolution sker altid automatisk inden for få sekunder uanset begivenhedens kompleksitet",
+      "UMA oracle bruges til at afgøre tvivlsomme udfald",
+      "Tabere modtager 0 $ pr. aktie"
+    ],
+    "correct": 1,
+    "explanation": "Resolution kan tage tid - særligt ved komplekse eller omstridte udfald. UMA-processen involverer tokenholder-afstemning, og disputer kan forsinke udbetaling i dage eller uger."
+  },
+  {
+    "title": "UMA oracle på Polymarket",
+    "body": "UMA er Polymarkets oracle-system til at afgøre markedsudfald.<br><br>Det bruger tokenholdere til at stemme om hvad der faktisk skete.<br><br>Systemet er decentralt og kræver ingen central administrator.",
+    "question": "Hvilken påstand om UMA oracle er ikke korrekt?",
+    "options": [
+      "En central Polymarket-administrator godkender og kontrollerer alle resolutions manuelt",
+      "UMA bruger tokenholdere til at stemme om udfald",
+      "Systemet er decentralt og kræver ingen enkelt kontrolpunkt",
+      "UMA giver Polymarket tillidsfuld resolution uden central myndighed"
+    ],
+    "correct": 0,
+    "explanation": "Netop det modsatte er sandt. UMA er decentralt - ingen enkelt part kan manipulere resolutions. Det er en fundamental egenskab ved Polymarket og grunden til at systemet er troværdigt."
+  },
+  {
+    "title": "Fordele ved Polymarket",
+    "body": "Polymarket tilbyder global adgang, lave gebyrer og censurmodstand.<br><br>Ingen bookmaker-margin betyder bedre odds end traditionelle platforms.<br><br>Markedet er historisk mere præcist end ekspertforudsigelser ved store events.",
+    "question": "Du vil trade på et politisk udfald. Du sammenligner Polymarket med en traditionel bookmaker. Hvad er Polymarkets primære fordel?",
+    "options": [
+      "Garanterede gevinster uanset udfald",
+      "Kun tilgængeligt fra USA med strenge KYC-krav",
+      "Højere gebyrer men bedre brugeroplevelse",
+      "Ingen bookmaker-margin og global censurresistent adgang"
+    ],
+    "correct": 3,
+    "explanation": "Traditionelle bookmakers tager en margin (typisk 5-10%) der systematisk reducerer dine forventede afkast. Polymarket har ingen margin - du handler direkte mod markedet."
+  },
+  {
+    "title": "Risici ved prediction markets",
+    "body": "Du kan miste hele din indsats - det er en binær investering.<br><br>Manipulation, pludselige nyheder og oracle-disputer kan påvirke priser og udbetaling.<br><br>Regulatorisk usikkerhed varierer by land.",
+    "question": "Hvad sker der med din indsats hvis udfaldet du satsede på ikke sker?",
+    "options": [
+      "Du mister hele indsatsen og modtager 0 $ pr. aktie",
+      "Du modtager halvdelen af din indsats tilbage",
+      "Du beholder din indsats som kredit til næste trade",
+      "Du modtager 0,50 $ pr. aktie uanset udfald"
+    ],
+    "correct": 0,
+    "explanation": "Prediction markets er binære: du vinder 1 $ eller taber alt. Sæt aldrig mere end du kan tåle at miste, og diversificér på tværs af markeder."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér risici efter alvorlighed",
+    "body": "Risici varierer i alvorlighed på Polymarket.<br><br><b>Kapitaltab</b> er altid den primære risiko.",
+    "question": "Sortér disse fra størst til mindst alvorlig risiko (top = størst):",
+    "items": [
+      "Tab af hele indsatsen",
+      "Markedsmanipulation og forkert information",
+      "Forsinket resolution via oracle-dispute",
+      "Høje transaktionsgebyrer"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Finansielt tab er altid primært. Manipulation kan forvride odds. Forsinket resolution er irriterende men løses. Polygon-gebyrer er faktisk meget lave."
+  },
+  {
+    "title": "Arbitrage muligheder",
+    "body": "Prisforskelle mellem Polymarket og andre prediction platforms eller bookmakers kan udnyttes.<br><br>Køb billigt her, sælg dyrt der.<br><br>Arbitrage-handlerne hjælper med at holde odds effektive på tværs af platforme.",
+    "question": "Hvad er effekten af arbitrage på prediction markets?",
+    "options": [
+      "Det skaber kunstige prisforskelle og ødelægger effektiviteten",
+      "Det er kun muligt for institutionelle handlere med særlige licenser",
+      "Det udnytter prisforskelle og gør odds mere præcise på tværs af platforme",
+      "Det har ingen målbar effekt på markedspriserne"
+    ],
+    "correct": 2,
+    "explanation": "Arbitragører tjener penge ved at udligne prisforskelle - og som biprodukt gør de markederne mere effektive og informationsrige for alle deltagere."
+  },
+  {
+    "title": "Strategi: Langsigtet hold",
+    "body": "Find markeder hvor du mener prisen afspejler en for lav sandsynlighed.<br><br>Køb undervurderede aktier og hold til resolution for maksimal gevinst.<br><br>Kræver research, tålmodighed og disciplin.",
+    "question": "Du mener markedet prissætter et politisk udfald til 30 %, men din research tilsiger 55 %. Hvad er den optimale strategi?",
+    "options": [
+      "Sælg dine eksisterende Ja-aktier straks og gå short",
+      "Køb Ja-aktier til 0,30 $ og hold til resolution",
+      "Køb Nej-aktier fordi markedet altid har ret",
+      "Vent og gør ingenting til prisen bevæger sig"
+    ],
+    "correct": 1,
+    "explanation": "Når din research giver dig en edge over markedet (55% vs 30%), er det rationelt at købe og holde. Din forventede gevinst er positiv hver gang prisen er under din estimerede sandsynlighed."
+  },
+  {
+    "title": "Beregning af forventet værdi",
+    "body": "Forventet Værdi (EV) fortæller om en handel er profitabel i det lange løb.<br><br>En positiv EV handler er profitabel - en negativ er det ikke.",
+    "code": "EV = (Din P × 1 $) - ((1 - Din P) × kostpris)\n\nEksempel:\n  Aktiepris: 0,55 $  |  Din P: 70 %\n  EV = (0,70 × 1) - (0,30 × 0,55)\n     = 0,70 - 0,165 = +0,535 pr. aktie",
+    "bodyAfter": "Positiv EV = du bør tage handlen. Negativ EV = lad være.",
+    "question": "Du tror der er 70 % chance for Ja og aktien koster 0,55 $. Hvad er EV pr. aktie?",
+    "options": [
+      "Negativ EV - undgå handlen",
+      "Positiv EV på ca. +0,535 $ pr. aktie",
+      "Nul EV - indifferent",
+      "Kan ikke beregnes uden yderligere data"
+    ],
+    "correct": 1,
+    "explanation": "EV = (0,70 × 1) - (0,30 × 0,55) = 0,70 - 0,165 = +0,535. Når din estimerede sandsynlighed (70%) er højere end markedets implicitte sandsynlighed (55%), er EV positiv."
+  },
+  {
+    "title": "Polymarket i 2026",
+    "body": "Platformen er vokset massivt siden 2024-valget, der trak rekordvolumen.<br><br>Flere markeder, forbedrede oracles og langt højere liquidity er resultatet.<br><br>Prediction markets bevæger sig mod mainstream.",
+    "question": "Hvad er den overordnede trend for Polymarket og prediction markets generelt?",
+    "options": [
+      "Platforms lukker ned pga. stigende regulering",
+      "Kun relevant for institutionelle investorer fremover",
+      "Stagnation og faldende interesse efter 2024",
+      "Vækst mod mainstream med flere brugere, markeder og højere likviditet"
+    ],
+    "correct": 3,
+    "explanation": "2024-valget satte Polymarket på verdenskortet. Siden er platformen vokset markant i antal brugere, markeder og handelsvolumen. Prediction markets er ved at blive et mainstream informationsværktøj."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér markedstyper efter volatilitet",
+    "body": "Forskellige markedstyper har vidt forskellig prisvolatilitet og handelsvolumen.",
+    "question": "Sortér fra mest til mindst volatil prisudvikling (top = mest):",
+    "items": [
+      "Politik og valg",
+      "Krypto-priser",
+      "Sport",
+      "Vejr og niche-events"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Politiske markeder reagerer voldsomt på nyheder og meningsmålinger. Krypto er volatilt men mere forudsigeligt. Sport følger kendte sandsynligheder. Vejr og niche-events er relativt stabile."
+  },
+  {
+    "title": "Bedste praksis på Polymarket",
+    "body": "Diversificér på tværs af markeder og invester kun kapital du kan tåle at miste.<br><br>Research grundigt og følg nyheder tæt.<br><br>Brug positiv EV som filter for alle dine handler.",
+    "question": "Hvad er den vigtigste regel for risikostyring på Polymarket?",
+    "options": [
+      "Sæt al kapital på det marked med højest volumen for bedst odds",
+      "Lån penge for at maksimere potentielle gevinster",
+      "Diversificér og invester kun penge du har råd til at miste",
+      "Ignorer nyheder og hold kun langsigtede positioner"
+    ],
+    "correct": 2,
+    "explanation": "Disciplin og kapitalbevarelse er fundamentet. Selv den bedste strategi kan ramme en serie af tab - du skal kunne overleve den. Brug aldrig penge du ikke kan tabe."
+  },
+  {
+    "title": "Du har nu styr på Polymarket 🎉",
+    "body": "Tillykke! Du kender nu basics, trading-mekanik, EV-beregning og strategi på Polymarket.<br><br><b>Nu</b> kan du deltage informeret og med god risikostyring.<br><br>Start med små beløb og lær af hver enkelt handel.",
+    "question": "Hvad er det bedste næste skridt efter at have lært Polymarket-basics?",
+    "options": [
+      "Stop helt og undgå alle prediction markets",
+      "Invester al opsparing med det samme for at maksimere gevinst",
+      "Ignorer risici og brug gearing fra start",
+      "Start med små trades, research grundigt og lær af erfaring"
+    ],
+    "correct": 3,
+    "explanation": "Praktisk erfaring er den bedste læring. Start småt, byg forståelse for markedsdynamik og EV, og skalér kun op når du konsekvent kan vise positiv edge."
+  }
+]
