@@ -1,0 +1,514 @@
+[
+  {
+    "title": "Velkommen til italiensk kunsthistorie",
+    "body": "Italien har formet vestlig kunst i over 2000 år.<br><br><b>Italiensk kunst</b> spænder fra etruskisk og romersk oldtid til renæssance, barok og nutid.<br><br>Landet rummer mesterværker i kirker, museer og på gaderne.",
+    "question": "Hvorfor er italiensk kunsthistorie central for europæisk kultur?",
+    "options": [
+      "Den er kun relevant for turister der besøger landet",
+      "Den lagde fundamentet for europæisk kunstudvikling i over 2000 år",
+      "Den handler udelukkende om gammel og forældet kunst",
+      "Den har ingen international kunstnerisk betydning"
+    ],
+    "correct": 1,
+    "explanation": "Italiensk kunst påvirkede renæssancen, barokken og moderne vestlig kunst verden over. Fra Giotto til Caravaggio til Arte Povera - Italien har gentagne gange sat retningen for europæisk kunst."
+  },
+  {
+    "title": "Etruskisk kunst",
+    "body": "Etruskerne levede i det centrale Italien før romernes magtovertagelse.<br><br><b>Etruskisk kunst</b> er særligt kendt for detaljerede sarkofager og livfulde gravfresker.<br><br>Deres stil og religiøse billedsprog påvirkede tidlig romersk kunst markant.",
+    "question": "Hvem var etruskerne?",
+    "options": [
+      "Et folk der ankom til Italien efter romerne",
+      "Græske kolonister langs Italiens vestkyst",
+      "En oldtidscivilisation i det centrale Italien der blomstrede før romerne",
+      "Middelalderens første kristne kunstnere i Norditalien"
+    ],
+    "correct": 2,
+    "explanation": "Etruskerne blomstrede fra ca. 800 til 200 f.Kr. og beherskede det centrale Italien - det område der i dag hedder Toscana og Umbrien - inden romerne overtog magten og absorberede deres kultur."
+  },
+  {
+    "title": "Romersk kunst og imperium",
+    "body": "Romerne lod sig inspirere af græsk kunst, men tilføjede en markant realisme og portrætkunst.<br><br><b>Romersk kunst</b> inkluderer mosaikker, statuer og monumentalbygninger.<br><br>Triumfbuer, amfiteatre og søjler formidlede imperisk magt og civilisatorisk stolthed.",
+    "question": "Hvad kendetegner romersk kunst frem for græsk?",
+    "options": [
+      "Historisk realisme, portrætkunst og imperiale monumenter",
+      "Udelukkende abstrakte dekorative mønstre",
+      "Kun religiøse malerier på panel",
+      "Ingen arkitektoniske ambitioner"
+    ],
+    "correct": 0,
+    "explanation": "Romerne adopterede det græske kunstsprog men tilføjede historisk realisme i portrætter og en monumentalitet i byggeriet, der skulle vise imperiet. Kunst var propaganda og identitet på én gang."
+  },
+  {
+    "title": "Tidlig kristen kunst",
+    "body": "Da kristendommen spredte sig i Romerriget, ændrede kunstens emner og funktion karakter.<br><br><b>Katakomber</b> rummer nogle af de tidligste kristne symboler og billeder.<br><br>Mosaikker med bibelske motiver dominerede snart kirkernes vægge og lofter.",
+    "question": "Hvad sker der typisk med kunstens emner, når en religion vinder politisk magt?",
+    "options": [
+      "Kunsten forsvinder fuldstændigt fra det offentlige rum",
+      "Sekulære portrætter og hverdagsscener dominerer endnu mere",
+      "Ingenting ændrer sig - kunstnere arbejder uforstyrret videre",
+      "Religiøse symboler og fortællinger overtager som primære motiver"
+    ],
+    "correct": 3,
+    "explanation": "Da kristendommen blev statsreligion under Konstantin (edikt 313 e.Kr.), skiftede kunst fra at portrættere kejsere og guder til at formidle bibelhistorier. Kirken blev kunstens vigtigste opdragsgiver."
+  },
+  {
+    "title": "Byzantinsk indflydelse i Italien",
+    "body": "Byzantinsk stil kom fra det Østromerske Rige med centrum i Konstantinopel.<br><br><b>Guldmosaikker</b> og stiliserede ikoner var de dominerende kunstformer.<br><br>Ravenna i Norditalien har verdens bedst bevarede byzantinske mosaikker fra 5. og 6. århundrede.",
+    "question": "Hvad er typisk for byzantinsk kunst?",
+    "options": [
+      "Naturalistiske, realistiske portrætter med rumlig dybde",
+      "Gyldne baggrunde og hieratisk, stiliseret figurfremstilling",
+      "Lineært perspektiv og tredimensional dybde",
+      "Pastelfarver og løse, impressionistiske penselstrøg"
+    ],
+    "correct": 1,
+    "explanation": "Byzantinsk stil er hieratisk (formel og rangordnet) og åndelig. Guld symboliserer det guddommelige lys, og figurerne er stiliserede frem for naturalistiske. Stilen er bevidst ude af tid og sted."
+  },
+  {
+    "title": "Romansk stil i Italien",
+    "body": "Den romanske stil dominerede europæisk arkitektur ca. 1000-1200.<br><br><b>Kirker</b> som Pisa Domkirke og Pistoia Domkirke viser typiske romanske træk.<br><br>Stilen kendes på massive mure, runde buer og fresker med bibelske motiver.",
+    "question": "Hvad kendetegner den romanske arkitekturstil?",
+    "options": [
+      "Spidse buer og store glasmalede vinduesflader",
+      "Slanke tårne og lysfyldte, luftige rum",
+      "Runde buer, tykke mure og solid, jordbunden konstruktion",
+      "Bølgede facader og dramatisk barok dekoration"
+    ],
+    "correct": 2,
+    "explanation": "Romansk arkitektur er karakteriseret ved massive konstruktioner med runde buer - inspireret af romertidens byggestil. Det gav kirker et solidt, urokkeligt udtryk, der afspejler troens stabilitet."
+  },
+  {
+    "title": "Gotisk kunst i Italien",
+    "body": "Den gotiske stil kom fra Frankrig og prægede senmiddelalderens kirker fra ca. 1200 fremad.<br><br><b>Duomo i Milano</b> er Italiens mest storslåede gotiske katedral, påbegyndt i 1386.<br><br>Stilen kendes på spidse buer og en stræben mod det himmelske lys.",
+    "question": "Hvad er det afgørende nye i gotisk arkitektur sammenlignet med romansk?",
+    "options": [
+      "Mørke, lukkede rum med endnu tykkere mure end romansk",
+      "Brug af udsmykkede sarkofager som bærende element",
+      "Lys, højde og vertikalitet - en stræben mod himmelen",
+      "Mosaikker og keramik som eneste dekorationsform"
+    ],
+    "correct": 2,
+    "explanation": "Gotikken erstattede de tunge romanske mure med smalle søjler og store vinduesflader, så lys og højde dominerede. Det symboliserede sjælens stræben mod Gud - arkitektur som teologi."
+  },
+  {
+    "title": "Proto-renæssancen",
+    "body": "Proto-renæssancen betegner overgangen fra gotik til renæssance i 1200-1300-tallet.<br><br><b>Giotto di Bondone</b> brød med den byzantinske fladhed og introducerede rumlig dybde.<br><br>Kunstnere begyndte at observere den virkelige verden og male figurer med ægte menneskelige følelser.",
+    "question": "Giotto markerede proto-renæssancen ved at introducere ___ i maleriet.",
+    "options": [
+      "Gyldne baggrunde og stive, hieratiske figurer",
+      "Abstrakte mønstre inspireret af arabisk ornamentik",
+      "Glasmalerier og pointerede spidsbuer",
+      "Rumlig dybde og troværdige menneskelige følelser"
+    ],
+    "correct": 3,
+    "explanation": "Giottos gennembrud var, at han malede figurer der tager plads i rummet og viser ægte følelser - sorg, omsorg, forbløffelse. Det var et radikalt brud med byzantinsk fladhed og lagde grunden til renæssancen."
+  },
+  {
+    "title": "Giotto di Bondone",
+    "body": "Giotto (ca. 1267-1337) revolutionerede maleriet i 1300-tallet.<br><br><b>Freskerne i Arenakapellet</b> (Scrovegni-kapellet) i Padova viser hans mesterskab med rumlig dybde og følelsesfulde figurer.<br><br>Samtiden og eftertiden betragtede ham som den vestlige malerkunsts grundlægger.",
+    "question": "Hvad var Giottos vigtigste kunstneriske bidrag?",
+    "options": [
+      "At male figurer med rumlig dybde og ægte menneskelige følelser",
+      "At videreføre den byzantinske flade ikonmaler-tradition",
+      "At opfinde oliemalerteknikken på lærred",
+      "At indføre lineært perspektiv i arkitekturtegning"
+    ],
+    "correct": 0,
+    "explanation": "Giotto brød med den stive byzantinske stil og malede figurer, der virker levende og befinder sig i en virkelig rumlig verden. Det var fundamentet for al efterfølgende vestlig figurativ kunst."
+  },
+  {
+    "title": "Duccio og Siena-skolen",
+    "body": "Duccio di Buoninsegna (ca. 1255-1319) malede i Siena med gyldne baggrunde og byzantinsk elegance.<br><br><b>Maestà-alterbilledet</b> til Sienas domkirke er hans absolutte mesterværk.<br><br>Han og Giotto er samtidige men stilmæssigt meget forskellige giganter i tidlig italiensk kunsthistorie.",
+    "question": "Hvad kendetegner Duccios malerstil?",
+    "options": [
+      "Skarp realisme og stærkt tredimensionale figurer",
+      "Dramatisk lys og mørk tenebrisme",
+      "Byzantinsk elegance med gyldne baggrunde og blød linjeføring",
+      "Perspektivisk arkitekturdybde og klassiske templer"
+    ],
+    "correct": 2,
+    "explanation": "Duccio bevarede den byzantinske stilisering og guld, men tilførte en sart, lyrisk elegance. Han og Giotto i Firenze/Padova repræsenterer to samtidige men meget forskellige veje ud af middelalderens kunst."
+  },
+  {
+    "title": "Renæssancen og humanisme",
+    "body": "Renæssancen (ca. 1400-1600) genopdagede antikkens kunst og filosofi.<br><br><b>Humanisme</b> satte mennesket - ikke kun Gud - i centrum for kunstens interesse.<br><br>Firenze under Medici-familien blev bevægelsens vigtigste epicenter.",
+    "question": "Hvad var renæssancens centrale idé?",
+    "options": [
+      "Menneskets potentiale, fornuft og skønhed stod i centrum",
+      "Religiøs hengivenhed var kunstens eneste formål",
+      "Abstraktion og farve erstattede figurativ kunst",
+      "Middelalderens stilidealer blev blot videreudviklet"
+    ],
+    "correct": 0,
+    "explanation": "Humanisme betød at mennesket med dets fornuft, skønhed og evner kom i centrum - inspireret af antikken. Det ændrede alt fra arkitektur til portræt, skulptur og videnskab."
+  },
+  {
+    "title": "Perspektiv i kunsten",
+    "body": "Lineært perspektiv er en geometrisk metode til at skabe illusion af dybde på en flad flade.<br><br><b>Filippo Brunelleschi</b> formulerede princippet matematisk i 1420'erne i Firenze.<br><br>Det ændrede maleriet fundamentalt og blev en hjørnesten i renæssancens kunstteori.",
+    "question": "Lineært perspektiv skabes ved at lade parallelle linjer samles i ___",
+    "options": [
+      "Billedets hjørner i en firkantet ramme",
+      "En vandret horisontlinje langs billedets midte",
+      "Figurernes øjne i billedets forgrund",
+      "Et flugtpunkt på horisonten"
+    ],
+    "correct": 3,
+    "explanation": "I lineært perspektiv samles alle dybdelinjer i et eller flere flugtpunkter på horisonten. Det giver en matematisk præcis illusion af rum og afstand - revolutionerende for renæssancens malere."
+  },
+  {
+    "title": "Brunelleschi - hvad er forkert?",
+    "body": "Filippo Brunelleschi (1377-1446) er en af renæssancens største arkitekter og ingeniører.<br><br>Han løste et af tidens store tekniske gåder: hvordan man bygger en kæmpekuppel uden understøttende stillads.<br><br>Hans <b>kuppel over Santa Maria del Fiore</b> i Firenze er stadig et af verdens mest beundrede bygningsværker.",
+    "question": "Hvilken af følgende påstande om Brunelleschi er ikke korrekt?",
+    "options": [
+      "Han formulerede principperne for lineært perspektiv",
+      "Han projekterede og byggede det skæve tårn i Pisa",
+      "Hans kuppel over Firenze Duomo er et teknisk mesterværk",
+      "Han var central for renæssancens arkitektoniske revolution"
+    ],
+    "correct": 1,
+    "explanation": "Det skæve tårn i Pisa begyndte at synke allerede under byggeriet i 1173 - over 200 år før Brunelleschi var født. Han havde intet med Pisa-tårnet at gøre. Hans berømmelse hviler på kuppelen i Firenze."
+  },
+  {
+    "title": "Masaccio og fresker",
+    "body": "Masaccio (1401-1428) er en af renæssancens pionerer på trods af sin korte levetid - han døde kun 26 år gammel.<br><br>Han malede med dramatisk <b>lys og skygge</b> og fuldt udviklede perspektiv.<br><br><b>Brancacci-kapellet</b> i Santa Maria del Carmine i Firenze rummer hans mest berømte freskecyklus.",
+    "question": "Du er i Firenze og vil se Masaccios mest berømte fresker. Hvad opsøger du?",
+    "options": [
+      "Uffizi-galleriet nær Arno-floden",
+      "Det Sixtinske Kapel i Vatikanet i Rom",
+      "Brancacci-kapellet i Santa Maria del Carmine",
+      "Arenakapellet (Scrovegni-kapellet) i Padova"
+    ],
+    "correct": 2,
+    "explanation": "Brancacci-kapellet rummer Masaccios fresker om apostlen Peters liv, inkl. det berømte 'Pengebetaling'. Arenakapellet er Giottos. Det Sixtinske er Michelangelos - og det ligger i Rom, ikke Firenze."
+  },
+  {
+    "title": "Donatello og skulptur",
+    "body": "Donatello (ca. 1386-1466) genoplivede den klassiske skulpturtradition med ny kraft og psykologisk dybde.<br><br>Hans <b>David</b> i bronze er den første fritstående nøgne menneskefigur i bronzeskulptur siden antikken.<br><br>Han mestrede også relief og satte ny standard for realisme.",
+    "question": "Donatellos David var banebrydende fordi den var den første fritstående ___ siden antikken.",
+    "options": [
+      "Bronzeskulptur af en nøgen menneskeskikkelse",
+      "Marmorstatue af en kvindelig helgen",
+      "Figurgruppe med mere end to personer",
+      "Portrætbuste af en levende hersker"
+    ],
+    "correct": 0,
+    "explanation": "Donatellos David (1440'erne) genoplivede det antikke ideal om at fremstille den ideale nøgne krop i bronze. Fritstående nøgne figurer var et brud med kristen middelalderkunst og markerede renæssancens genopdagelse af antikken."
+  },
+  {
+    "title": "Sandro Botticelli",
+    "body": "Sandro Botticelli (1445-1510) malede nogle af renæssancens mest genkendelige billeder.<br><br><b>Venus' fødsel</b> og <b>Forår (Primavera)</b> er mytologiske mesterværker med en drømmende, lineær elegance.<br><br>Han arbejdede for Medici-familien i Firenze og malede også for paven i Det Sixtinske Kapel.",
+    "question": "Hvilke typer motiver er Botticelli mest berømt for?",
+    "options": [
+      "Dramatiske bibelske scener med mørke skygger og tenebrisme",
+      "Mytologiske scener med elegant, lineær elegance - Venus som centralt symbol",
+      "Arkitektoniske perspektivstudier og bybilleder",
+      "Portrætter af florentinske borgere og håndværkere"
+    ],
+    "correct": 1,
+    "explanation": "Botticelli er unik for sin tid ved at male store mytologiske billeder inspireret af klassisk poesi og neoplatonisk filosofi. Hans Venus-billeder er ikoniske symboler på renæssancens kærlighed til antikkens verden."
+  },
+  {
+    "title": "Leonardo da Vinci",
+    "body": "Leonardo da Vinci (1452-1519) er den ultimative renæssancemand - maler, ingeniør, anatom og opfinder.<br><br>Hans <b>Mona Lisa</b> (Firenze/Paris) og <b>Nadveren</b> (Milano) er to af verdens mest kendte malerier.<br><br><b>Sfumato</b>-teknikken - bløde, uskarpe farveovergange - er hans maleriske signatur.",
+    "question": "Hvad er Leonardos særlige malertekniske signatur?",
+    "options": [
+      "Tenebrisme med skarpt, dramatisk lys mod mørk baggrund",
+      "Colorito med rige, atmosfæriske venezianske farvelag",
+      "Sfumato - bløde, røgagtige overgange mellem farver og konturer",
+      "Divisjonisme med adskilte farvedotter der blandes i beskuerens øje"
+    ],
+    "correct": 2,
+    "explanation": "Sfumato (fra italiensk 'fumo' = røg) er Leonardos teknik til at skabe umærkeligt bløde overgange. Det giver figurer som Mona Lisa den gådefulde, levende kvalitet - som om de netop er ved at trække vejret."
+  },
+  {
+    "title": "Michelangelo Buonarroti",
+    "body": "Michelangelo (1475-1564) er en af kunsthistoriens største universalgenier.<br><br>Som billedhugger skabte han <b>David</b> i marmor; som maler udsmykkede han <b>Det Sixtinske Kapels loft</b> (1508-1512).<br><br>Han arbejdede for paver i Rom og var meddesigner af Peterskirkens kuppel.",
+    "question": "Hvad forestiller freskerne på Det Sixtinske Kapels loft?",
+    "options": [
+      "Historier fra Apostlenes Gerninger og Paulus' missionsrejser",
+      "Skabelsesberetningen og bibelske scener fra Det Gamle Testamente",
+      "Jesu liv fra fødsel til korsfæstelse og opstandelse",
+      "Profeternes syner og bogens Åbenbaring"
+    ],
+    "correct": 1,
+    "explanation": "Michelangelo malede loftet 1508-1512 med ni centrale scener fra 1. Mosebog - fra Skabelsen til Noa. Den berømte 'Skabelsen af Adam' er midtpunktet. Det er kunsthistoriens mest ambitiøse enkeltmands-projekt."
+  },
+  {
+    "title": "Raffaello Sanzio",
+    "body": "Raphael (1483-1520) malede med en harmonisk skønhed der gjorde ham til renæssancens mest beundrede maler i sin samtid.<br><br>Han arbejdede for pave Julius II i Vatikanet og udsmykkede de såkaldte Stanzaer.<br><br><b>Skolen i Athen</b> er hans berømteste freske - et monument over antikkens filosoffer.",
+    "question": "Hvad fremstiller Raphaels freske 'Skolen i Athen'?",
+    "options": [
+      "En hyldest til apostlene og Det Nye Testamente",
+      "En sejrsceremoni for den romerske kejser Augustus",
+      "En skildring af florentinske borgeres hverdagsliv",
+      "Antikkens store filosoffer samlet i diskussion og fordybelse"
+    ],
+    "correct": 3,
+    "explanation": "'Skolen i Athen' (1509-11) viser Platon og Aristoteles centralt placeret omringet af antikkens filosoffer. Det er humanismens manifest i malerisk form: antikkens viden som fundament for samtiden."
+  },
+  {
+    "title": "High Renaissance i Rom og Firenze",
+    "body": "High Renaissance (ca. 1490-1527) er perioden da italiensk kunst nåede sit klassiske højdepunkt.<br><br><b>Michelangelo og Raphael</b> arbejdede primært i Rom for paven, mens Leonardo da Vincis vigtigste år lå i Firenze og Milano.<br><br>Kunsten stræbte mod idealsk perfektion i komposition, anatomi og harmoni.",
+    "question": "Hvilke byer var centrum for High Renaissance?",
+    "options": [
+      "Rom og Firenze - med vigtig aktivitet også i Milano",
+      "Udelukkende Venedig med glaskunst og farvemaleri",
+      "Siena og Bologna som primære kunstcentre",
+      "Napoli og Palermo som syditaliens metropoler"
+    ],
+    "correct": 0,
+    "explanation": "Rom var centrum for pavedømmets store bestillinger (Michelangelo, Raphael i Vatikanet), Firenze var innovationens vugge, og Milano spillede en central rolle - særligt for Leonardo da Vinci med Nadveren."
+  },
+  {
+    "title": "Veneziansk renæssance",
+    "body": "Venedig udviklede sin egen renæssancestil med vægt på <b>farve og atmosfærisk lys</b> frem for Firenzes fokus på tegning og perspektiv.<br><br><b>Tizian (Titian)</b> (ca. 1488-1576) var den venezianske renæssances ubestridte mester.<br><br>Oliemaleri på lærred muliggjorde venezianernes rige, dybe farvepalette.",
+    "question": "Veneziansk renæssance adskiller sig fra florentinsk ved at prioritere ___ frem for tegning.",
+    "options": [
+      "Skulptur og bronzestøbning som primære kunstformer",
+      "Arkitektur og perspektivteori som centrale discipliner",
+      "Fresko på kalkpuds som det foretrukne medie",
+      "Farve (colorito) og atmosfærisk lys"
+    ],
+    "correct": 3,
+    "explanation": "Den centrale debat i renæssancen stod mellem 'disegno' (tegning/Firenze) og 'colorito' (farve/Venedig). Venezianerne brugte oliens rige muligheder på lærred til at skabe malerisk dybde og lysvirkning."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér renæssance kunstnere",
+    "body": "Renæssancens store kunstnere spænder over næsten 200 år.<br><br>Fra de tidlige pionerer til High Renaissance-mestrene.",
+    "question": "Sortér disse kunstnere kronologisk efter fødselsår (top = tidligst født):",
+    "items": [
+      "Giotto",
+      "Donatello",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Giotto (ca. 1267) banede vejen. Donatello (ca. 1386) genoplivede klassisk skulptur. Leonardo (1452) legemliggjorde renæssancemennesket. Michelangelo (1475) kransede perioden. Næsten 200 år adskiller dem."
+  },
+  {
+    "title": "Mannerisme",
+    "body": "Mannerismen (ca. 1520-1600) fulgte High Renaissance som et bevidst opgør med den klassiske harmoni.<br><br><b>Elongerede figurer</b>, unaturlige farver og komplekse, snoede kompositioner var typiske kendetegn.<br><br>Det tolkes som udtryk for tidens religiøse og politiske uro efter Luthers reformation.",
+    "question": "Hvad adskiller mannerisme fra High Renaissance?",
+    "options": [
+      "Større naturalistisk realisme og korrekte anatomiske proportioner",
+      "Strengere overholdelse af antikkens klassiske regler",
+      "Bevidst forvrænging af proportioner og kunstig, spændt elegance",
+      "Tilbagevenden til middelalderens symbolske og fladt billedsprog"
+    ],
+    "correct": 2,
+    "explanation": "Mannerister brød bevidst med renæssancens harmoniske regler. Lange halse, små hoveder og snoede stillinger (figura serpentinata) er typiske. Stilen udtrykker en tid præget af religiøs og politisk usikkerhed."
+  },
+  {
+    "title": "Barokken i Italien",
+    "body": "Barokken (ca. 1600-1750) opstod i Rom som Modreformationens kunstneriske svar på protestantismen.<br><br>Kirken brugte <b>dramatisk, teatralsk kunst</b> til at vække følelser og styrke troen.<br><br>Skulptur, maleri og arkitektur smelter sammen i en samlet, overvældende sanseoplevelse.",
+    "question": "Hvad var den primære drivkraft bag barokkens opståen i Italien?",
+    "options": [
+      "Humanismens genopdagelse af antikkens filosofi og kunst",
+      "Modreformationens behov for følelsesladet, overbevisende religiøs kunst",
+      "Veneziansk handelsmandsklasses efterspørgsel på luksusportrætter",
+      "Fyrsternes indbyrdes konkurrence om arkitektonisk prestige"
+    ],
+    "correct": 1,
+    "explanation": "Den katolske kirke reagerede på reformationens ikonoklas med en kunst, der appellerede direkte til sanserne og følelserne. Barokken er Tridentinerkoncilets (1545-63) kunstneriske konsekvens: imponér og overbevis."
+  },
+  {
+    "title": "Caravaggio og tenebrisme",
+    "body": "Michelangelo Merisi da Caravaggio (1571-1610) revolutionerede maleriet med radikal realisme.<br><br><b>Tenebrisme</b> - stærkt fokuseret lys mod dyb mørk baggrund - er hans kendetegn.<br><br>Han malede bibelske scener med gadefolk som modeller, hvilket chokerede samtiden.",
+    "question": "En ung kunstner vil male et dramatisk natscene med én kraftig lyskilde. Hvilken teknik fra Caravaggio bør han studere?",
+    "options": [
+      "Tenebrisme - skarpt, fokuseret lys mod nærmest sort baggrund",
+      "Sfumato - bløde, røgagtige farveovergange uden skarp kontrast",
+      "Pointillisme - farvedotter der blandes i beskuerens øje",
+      "Colorito - venetiansk lagvis farveapplicering på lærred"
+    ],
+    "correct": 0,
+    "explanation": "Caravaggios tenebrisme (fra latin 'tenebrae' = mørke) bruger et enkelt, skarpt lysindfald mod en nærmest sort baggrund. Det skaber ekstrem dramatisk intensitet og var enormt indflydelsesrigt i hele barokkens Europa."
+  },
+  {
+    "title": "Gian Lorenzo Bernini",
+    "body": "Gian Lorenzo Bernini (1598-1680) er barokkens absolutte mester i skulptur og arkitektur.<br><br>Hans <b>Ekstasen af Den Hellige Teresa</b> i Santa Maria della Vittoria i Rom er et af kunsthistoriens mest betagende skulpturværker.<br><br>Han stod også bag Peterspladsens kolonnade og baldakinen over Petersgravens alter.",
+    "question": "Hvad er Berninis mest berømte skulpturværk?",
+    "options": [
+      "Pietà i marmor i Peterskirken i Vatikanet",
+      "David-statuen i Galleria Borghese i Rom",
+      "Ekstasen af Den Hellige Teresa i Santa Maria della Vittoria",
+      "Laokoon-gruppen i Vatikanets samlinger"
+    ],
+    "correct": 2,
+    "explanation": "Ekstasen af Den Hellige Teresa (1647-52) viser mystikeren Teresa af Ávila i åndelig ekstase. Berninis skulptur er plastisk teater: marmor der ser ud til at bevæge sig, og gyldne stråler der forstærker det guddommelige."
+  },
+  {
+    "title": "Francesco Borromini",
+    "body": "Francesco Borromini (1599-1667) var Berninis store rival og barokkens mest dristige arkitekt.<br><br><b>San Carlo alle Quattro Fontane</b> i Rom har bølgende, organiske former, der synes at puste og leve.<br><br>Hans arkitektur er matematisk præcis bag ved sin tilsyneladende dynamiske frihed.",
+    "question": "Hvad kendetegner Borrominis arkitektoniske stil?",
+    "options": [
+      "Klassisk symmetri med enkle søjlerækker og flade facader",
+      "Middelalderlig simplicitet og traditionelle runde buer",
+      "Ægyptisk inspireret monumentalitet og kolossale proportioner",
+      "Bølgede, organiske former og komplekse geometriske rum"
+    ],
+    "correct": 3,
+    "explanation": "Borromini brugte ellipser, bølgeformer og matematisk komplekse rum til at skabe arkitektur i konstant bevægelse. Hans bygninger er som frosne skulpturer - i modsætning til Berninis mere klassisk funderede tilgang."
+  },
+  {
+    "title": "Veneziansk barok - Tiepolo",
+    "body": "Venedig udviklede en lysere og mere dekorativ variant af barokken end Roms dramatiske stil.<br><br><b>Giovanni Battista Tiepolo</b> (1696-1770) var mester i storslåede loftsfresker med himmelske scener i lyse, luftige farver.<br><br>Hans fresker i Würzburg-residensen og Villa Valmarana er blandt Europas smukkeste.",
+    "question": "Hvem er den mest fremtrædende venezianske barokmaler?",
+    "options": [
+      "Giovanni Battista Tiepolo med sine himmelske loftsfresker",
+      "Caravaggio med sin dramatiske tenebrisme",
+      "Raphael med harmoniske klassiske kompositioner",
+      "Botticelli med mytologiske allegorier og Venus-motiver"
+    ],
+    "correct": 0,
+    "explanation": "Tiepolo repræsenterer den venezianske rokoko-barok: let, luftig og festlig. Han malede lofter, der åbner sig mod himlen med engle og guder i strålende lys - en glad kontrast til Caravaggios dramatiske mørke."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér kunstperioder",
+    "body": "Italiensk kunsthistorie udvikler sig igennem klare perioder.<br><br>Hver periode bygger på og reagerer mod den foregående.",
+    "question": "Sortér perioderne kronologisk (top = tidligst):",
+    "items": [
+      "Romanesque (ca. 1000-1200)",
+      "Gotik (ca. 1200-1400)",
+      "Renæssance (ca. 1400-1600)",
+      "Barok (ca. 1600-1750)"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Romanesque → Gotik → Renæssance → Barok. Hver periode reagerer mod den foregående: gotikken løsner romanskes tyngde, renæssancen genopdager antikken, og barokken søger dramatik frem for klassisk harmoni."
+  },
+  {
+    "title": "Neoklassicisme og Canova",
+    "body": "Neoklassicismen (ca. 1750-1850) vendte tilbage til græsk og romersk antiks idealer som reaktion på barokkens og rokokoens overdådighed.<br><br><b>Antonio Canova</b> (1757-1822) er periodens ubestridte skulpturmester med marmor af næsten levende blødhed.<br><br>Hans <em>Psyche og Amor</em> og <em>Pauline Bonaparte som Venus</em> er kendte eksempler.",
+    "question": "Hvad drev neoklassicismens kunstnere?",
+    "options": [
+      "Barokkens teatralske følelsesintensitet og overdådige dekoration",
+      "Antikkens idealer om rolig skønhed, balance og fornuft",
+      "Nationalromantikkens interesse for nordisk og germansk mytologi",
+      "Impressionismens fokus på øjeblikkets lys og farve"
+    ],
+    "correct": 1,
+    "explanation": "Neoklassicismen var oplysningstidens kunstneriske udtryk: fornuft, mådehold og antikkens tidløse skønhedsideal erstattede barokkens sanselige overdrivelse. 'Ædel enkelhed og stille storhed' var Winckelmanns ideal."
+  },
+  {
+    "title": "Macchiaioli - hvad er forkert?",
+    "body": "Macchiaioli var en gruppe italienske malere aktive fra 1850'erne, der malede med pletlignende farvefelter og var optaget af hverdagsliv og naturlys.<br><br>De var inspirerede af den franske <b>Barbizon-skole</b> og var samtidige med de franske impressionister.<br><br>Giovanni Fattori og Silvestro Lega er de mest kendte navne.",
+    "question": "Hvilken påstand om Macchiaioli-bevægelsen er ikke korrekt?",
+    "options": [
+      "De var aktive fra 1850'erne og malede i Italien",
+      "De malede med pletlignende farvefelter (macchie)",
+      "De var inspirerede af Barbizon-skolen i Frankrig",
+      "De opstod som en direkte følge af og efter den franske impressionisme"
+    ],
+    "correct": 3,
+    "explanation": "Macchiaioli var samtidige med - ikke efterfølgere af - de franske impressionister. Monet og Renoir debuterede i 1874; Macchiaioli var allerede aktive i 1850'erne. De to bevægelser udviklede sig parallelt, ikke i rækkefølge."
+  },
+  {
+    "title": "Futurisme",
+    "body": "Futurismen opstod i Italien med <b>Marinettis Futuristmanifest</b> i 1909 og hylede fart, maskiner og fremtiden.<br><br><b>Umberto Boccioni</b> (1882-1916) skabte dynamiske skulpturer og malerier, der fangede bevægelsens energi.<br><br>Futurismen var Italiens vigtigste bidrag til den internationale kunstneriske avantgarde.",
+    "question": "Hvad var futurismens centrale æstetiske budskab?",
+    "options": [
+      "En tilbagevenden til renæssancens harmoniske proporsjoner",
+      "En hyldest til middelalderens religiøse ikonografi",
+      "En fejring af fart, teknologi og industrialderens dynamik",
+      "En romantisk glorificering af det italienske bondelandskab"
+    ],
+    "correct": 2,
+    "explanation": "Futuristerne ville udslette fortiden og hylde fremtiden: fart, maskiner, industri og krig. Boccionis 'Unikke former for kontinuitet i rummet' fanger en figur i voldsom bevægelse - krop og luft ét og samme."
+  },
+  {
+    "title": "Metafysisk maleri - De Chirico",
+    "body": "Det metafysiske maleri (ca. 1910-1920) blev grundlagt af <b>Giorgio de Chirico</b> (1888-1978).<br><br>Øde italienske pladser, lange skygger, klassiske statuer og mystiske ubeboede rum er kendetegn.<br><br>Bevægelsen inspirerede direkte surrealismen og påvirkede bl.a. Salvador Dalí.",
+    "question": "Du går ind på et museum og ser et maleri med en tom, solbeskænnet plads, lange skygger og en klassisk statue - men ingen mennesker. Hvilken stil er det sandsynligvis?",
+    "options": [
+      "Metafysisk maleri i De Chiricos ånd",
+      "Veneziansk barok med teatralsk dramatik og figurer",
+      "Futurisme med dynamisk bevægelsesenergi og maskiner",
+      "Neoklassicisme med rolige harmoniske figurer og tempelbygninger"
+    ],
+    "correct": 0,
+    "explanation": "De Chiricos signatur er netop den drømmende, øde stileben af klassiske arkitekturer uden menneskelig tilstedeværelse. Det skaber uhyggelig, drømagtig atmosfære som surrealister lod sig direkte inspirere af."
+  },
+  {
+    "title": "Arte Povera og eftertiden",
+    "body": "Arte Povera (bogstaveligt: 'fattig kunst') opstod i slutningen af <b>1960'erne</b> som en kritik af forbrugssamfundet og det kommercielle kunstmarked.<br><br>Kunstnere som <b>Jannis Kounellis og Mario Merz</b> brugte hverdagsmaterialer: jord, grøntsager, stof og levende dyr.<br><br><b>Transavanguardia</b> i 1980'erne vendte derefter tilbage til maleriet.",
+    "question": "Hvad sker der, når kunstnere bevidst bruger billige, forgængelige materialer i stedet for marmor og olie?",
+    "options": [
+      "Kunsten mister automatisk al kunstnerisk og kommerciel markedsværdi",
+      "Det udfordrer spørgsmålet om, hvad kunst er, og hvem der bestemmer dens værdi",
+      "Kunstmuseer kan ikke længere udstille eller bevare sådanne værker",
+      "Kunsten bliver rent dekorativ og mister alt kritisk potentiale"
+    ],
+    "correct": 1,
+    "explanation": "Arte Poveras 'fattigdom' af materialer var et politisk statement: ved at bruge hverdagsting og forgængelighed udfordrede kunstnerne museumsautoriteten og varekulturens logik. Kunst kan laves af alt - spørgsmålet er idéen bag."
+  },
+  {
+    "title": "Italiensk design og nutidig kunst",
+    "body": "Italien er en global leder inden for design, mode og arkitektur.<br><br><b>Nutidig kunst</b> i Italien inkluderer installationskunst, street art og konceptuel kunst.<br><br>Museet <b>MAXXI</b> i Rom - tegnet af Zaha Hadid og åbnet i 2010 - er et af Europas vigtigste steder for nutidig kunst.",
+    "question": "Hvad er MAXXI i Rom?",
+    "options": [
+      "Et gammelt renæssancepalæ ombygget til kunstgalleri",
+      "En privat samling af barokmalerier grundlagt af Medici-familien",
+      "Et antikt forum med arkæologiske udgravninger fra romertiden",
+      "Et nationalt museum for nutidig kunst og arkitektur tegnet af Zaha Hadid"
+    ],
+    "correct": 3,
+    "explanation": "MAXXI (Museo nazionale delle arti del XXI secolo) åbnede i 2010 i en spektakulær bygning af Zaha Hadid. Det er Italiens vigtigste institution for kunst og arkitektur fra det 21. århundrede."
+  },
+  {
+    "type": "drag",
+    "title": "Sortér kunstnere på tværs af perioder",
+    "body": "Store italienske kunstnere spænder over mere end 300 år.<br><br>Fra proto-renæssance til barokkens højdepunkt.",
+    "question": "Sortér efter fødselsår (top = tidligst):",
+    "items": [
+      "Giotto",
+      "Leonardo da Vinci",
+      "Caravaggio",
+      "Bernini"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Giotto (ca. 1267) → Leonardo (1452) → Caravaggio (1571) → Bernini (1598). Fra proto-renæssance til barok er knap 330 år - og alligevel er der en sammenhængende kunstnerisk tråd igennem dem alle."
+  },
+  {
+    "title": "Italiensk kunst i dag",
+    "body": "Moderne og samtidige italienske kunstnere arbejder globalt med base i byer som Milano, Rom og Venedig.<br><br><b>Venedigbiennalen</b> - grundlagt i 1895 - er verdens ældste og mest prestigefyldte internationale kunstudstilling.<br><br>Italien forener fortsat arven fra sin rige kunsthistorie med nutidens eksperimenterende udtryk.",
+    "question": "Hvad er Venedigbiennalen?",
+    "options": [
+      "Verdens ældste internationale kunstudstilling, afholdt hvert andet år i Venedig",
+      "Et privatejede galleri specialiseret i renæssancekunst og antikviteter",
+      "En handelsmesse for brugte møbler og europæiske antikviteter",
+      "En kunstnerkoloni grundlagt i mellemkrigstiden under Mussolini"
+    ],
+    "correct": 0,
+    "explanation": "Venedigbiennalen (La Biennale di Venezia) er grundlagt i 1895 og finder sted i ulige år. Lande fra hele verden har nationale pavilloner i Giardini-parken. Det er kunstverdenens svar på De Olympiske Lege."
+  },
+  {
+    "title": "Du har nu styr på italiensk kunsthistorie! 🎉",
+    "body": "Tillykke! Du har rejst fra etruskerne til nutiden - gennem byzantinsk guld, renæssancens humanisme, barokkens dramatik og det 20. århundredes avantgarde.<br><br><b>Italiensk kunst</b> er ikke kun museum - det er levende arv i kirker, gader og samtidsmuseer.<br><br>Nu venter originalerne.",
+    "question": "Hvad er den bedste måde at uddybe sin forståelse for italiensk kunst på?",
+    "options": [
+      "Udelukkende at læse akademiske tekster om perioder og stilarter",
+      "At nøjes med at se højopløsningsbilleder af værkerne online",
+      "At fokusere kun på teknik og ignorere den historiske kontekst",
+      "At besøge de faktiske steder - Firenze, Rom, Venedig - og stå foran originalerne"
+    ],
+    "correct": 3,
+    "explanation": "Kunsthistorisk viden springer til live, når man står foran originalerne. Skalaen af Davids muskler, guddets genskin i Ravennas mosaikker, Caravaggios mørke i et lille kapel - det er oplevelser ingen reproduktion erstatter."
+  }
+]
