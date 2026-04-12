@@ -28,5 +28,10 @@
     "id": "polymarket",
     "title": "Polymarket & Prediction Markets",
     "desc": "Handel på fremtidige hændelser med USDC - mekanik, strategi og EV-beregning."
+  },
+  {
+    "id": "italiensk-kunsthistorie",
+    "title": "Italiensk kunsthistorie",
+    "desc": "Fra etruskere til barok og nutid - Italiens 2000-årige kunstneriske arv."
   }
 ]
