@@ -33,5 +33,10 @@
     "id": "italiensk-kunsthistorie",
     "title": "Italiensk kunsthistorie",
     "desc": "Fra etruskere til barok og nutid - Italiens 2000-årige kunstneriske arv."
+  },
+  {
+    "id": "regnskabsanalyse",
+    "title": "Introduktion til Regnskabsanalyse",
+    "desc": "Grundbegreber, nøgletal og metoder til analyse af virksomheders økonomi."
   }
 ]
