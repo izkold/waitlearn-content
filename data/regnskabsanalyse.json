@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Hvad er regnskabsanalyse?",
+    "body": "Regnskabsanalyse er systematisk gennemgang af virksomheders økonomiske rapporter. <b>Formålet</b> er at vurdere rentabilitet, likviditet og soliditet. <br><br>Den hjælper investorer og ledelse med beslutninger baseret på balance, resultatopgørelse og pengestrømsopgørelse.",
+    "question": "Hvad er det primære formål med regnskabsanalyse?",
+    "options": ["Vurdere økonomisk sundhed", "Udarbejde regnskaber", "Beregne skat", "Sælge aktier"],
+    "correct": 0,
+    "explanation": "Regnskabsanalyse fokuserer på at tolke data for at forstå virksomhedens økonomiske position og fremtidige potentiale - ikke på at udarbejde regnskaber eller beregne skat."
+  },
+  {
+    "title": "Regnskabsopgørelsernes rolle",
+    "body": "De tre hovedopgørelser er balance, resultatopgørelse og pengestrømsopgørelse. <b>Balancen</b> viser aktiver, passiver og egenkapital. <br><br>Resultatopgørelsen viser indtægter og omkostninger. <br><br>Pengestrømsopgørelsen viser likviditetsudvikling.",
+    "question": "Hvilken opgørelse viser indtægter minus omkostninger?",
+    "options": ["Pengestrømsopgørelsen", "Balancen", "Resultatopgørelsen", "Årsberetningen"],
+    "correct": 2,
+    "explanation": "Resultatopgørelsen måler overskud eller underskud over en periode og er central i rentabilitetsanalyse."
+  },
+  {
+    "title": "Balancen forklaret",
+    "body": "Balancen viser virksomhedens aktiver og passiver på et tidspunkt. <b>Aktiver</b> er hvad virksomheden ejer. <br><br><b>Passiver</b> er gæld og egenkapital. <br><br>Den følger regnskabsprincippet om balance mellem aktiver og passiver.",
+    "question": "Hvad viser balancen?",
+    "options": ["Indtægter over tid", "Pengestrømme", "Skatteforpligtelser", "Økonomisk stilling på et tidspunkt"],
+    "correct": 3,
+    "explanation": "Balancen giver et snapshot af finansiel position og er grundlag for soliditets- og likviditetsberegninger."
+  },
+  {
+    "title": "Resultatopgørelsen",
+    "body": "Resultatopgørelsen viser indtægter, omkostninger og resultat. <b>Overskudsgrad</b> beregnes herfra. <br><br>Den måler indtjeningsevne. <br><br>Den er essentiel for rentabilitetsanalyse.",
+    "question": "Hvilket nøgletal udledes primært fra resultatopgørelsen?",
+    "options": ["Likviditetsgrad", "Soliditetsgrad", "Overskudsgrad", "Aktivomsætningshastighed"],
+    "correct": 2,
+    "explanation": "Overskudsgrad viser forholdet mellem overskud og omsætning og afslører effektiv omkostningsstyring."
+  },
+  {
+    "title": "Pengestrømsopgørelsen",
+    "body": "Pengestrømsopgørelsen viser ændringer i likvide midler. <b>Driftsaktivitet</b>, investering og finansiering er hovedkategorier. <br><br>Den supplerer resultatopgørelsen med reel likviditet. <br><br>Den er kritisk for vurdering af cash flow.",
+    "question": "Hvad viser pengestrømsopgørelsen?",
+    "options": ["Fremtidig vækst", "Egenkapital", "Aktiver", "Ændringer i likvide midler"],
+    "correct": 3,
+    "explanation": "Den fokuserer på faktiske pengestrømme og afslører, om resultat matcher likviditet."
+  },
+  {
+    "title": "Horisontal analyse",
+    "body": "Horisontal analyse sammenligner regnskabstal over flere år. <b>Tidsserieanalyse</b> viser udvikling. <br><br>Den identificerer trends. <br><br>Den bruges til at spotte vækst eller nedgang.",
+    "question": "Hvad er horisontal analyse?",
+    "options": ["Sammenligning med konkurrenter", "Procentvis fordeling", "Sammenligning over tid", "Nøgletal alene"],
+    "correct": 2,
+    "explanation": "Den viser udvikling over tid og hjælper med at forudsige fremtidig performance."
+  },
+  {
+    "title": "Vertikal analyse",
+    "body": "Vertikal analyse udtrykker poster som procent af total. <b>Common size</b> statements bruges. <br><br>Den letter sammenligninger. <br><br>Den anvendes især på resultatopgørelse og balance.",
+    "question": "Hvad er formålet med vertikal analyse?",
+    "options": ["Tidssammenligning", "Pengestrømsfokus", "Skatteberegning", "Procentvis struktur"],
+    "correct": 3,
+    "explanation": "Den standardiserer regnskaber for bedre intern og ekstern sammenligning."
+  },
+  {
+    "title": "Likviditetsgrad 1",
+    "body": "Likviditetsgrad 1 er omsættelige aktiver divideret med kortfristet gæld. <b>Current ratio</b> er et andet navn. <br><br>Den måler evne til at betale kortfristet gæld. <br><br>Ideelt over 2.",
+    "question": "Hvad viser likviditetsgrad 1?",
+    "options": ["Langfristet gæld", "Omsætningshastighed", "Rentabilitet", "Kortfristet betalingsevne"],
+    "correct": 3,
+    "explanation": "Høj værdi indikerer god likviditet, men for høj kan betyde ineffektiv kapitalanvendelse."
+  },
+  {
+    "title": "Overskudsgrad beregnet",
+    "body": "Overskudsgrad er overskud før skat divideret med omsætning. <b>Profitmargin</b> viser indtjening pr. krone omsat. <br><br>Den måler omkostningseffektivitet. <br><br>Den er central i rentabilitetsanalyse.",
+    "question": "X fungerer ved at vise overskud i forhold til omsætning",
+    "options": ["Afkastningsgrad", "Soliditetsgrad", "Overskudsgrad", "Likviditetsgrad"],
+    "correct": 2,
+    "explanation": "Overskudsgrad afslører, hvor stor en del af omsætningen der bliver til overskud."
+  },
+  {
+    "title": "Afkastningsgrad ROA",
+    "body": "Afkastningsgrad viser overskud i forhold til samlede aktiver. <b>ROA</b> måler kapitaludnyttelse. <br><br>Den indikerer indtjening på aktiver. <br><br>Høj værdi er positivt.",
+    "question": "Hvad sker der hvis afkastningsgrad er lav?",
+    "options": ["Bedre likviditet", "Højere gæld", "Lav omsætning", "Ineffektiv kapitalanvendelse"],
+    "correct": 3,
+    "explanation": "Lav afkastningsgrad signalerer dårlig udnyttelse af aktiver og kræver forbedringer i drift eller investeringer."
+  },
+  {
+    "type": "drag",
+    "title": "Trin i regnskabsanalyse",
+    "body": "Analyseprocessen følger en logisk rækkefølge. <b>Trinene</b> sikrer grundig vurdering. <br><br>Det starter med dataindsamling og slutter med konklusioner.",
+    "question": "Sorter trinene i regnskabsanalyse kronologisk",
+    "items": ["Indsamle regnskaber", "Beregne nøgletal", "Sammenligne med branche", "Træffe beslutninger"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Korrekt rækkefølge er indsamling først, derefter beregning, sammenligning og til sidst handling for optimal analyse."
+  },
+  {
+    "title": "Egenkapitalens forrentning",
+    "body": "Egenkapitalens forrentning er overskud divideret med egenkapital. <b>ROE</b> viser afkast til ejere. <br><br>Den er vigtig for aktionærer. <br><br>Den kombinerer flere nøgletal via DuPont.",
+    "question": "Hvilken påstand er IKKE korrekt om ROE?",
+    "options": ["Måler afkast til ejere", "Beregnes som overskud/egenkapital", "Ignorerer gæld fuldstændigt", "Er del af rentabilitetsanalyse"],
+    "correct": 2,
+    "explanation": "ROE tager højde for gæld via gearing, så påstanden om fuldstændig ignorering er forkert."
+  },
+  {
+    "title": "Soliditetsgrad",
+    "body": "Soliditetsgrad er egenkapital divideret med samlede aktiver. <b>Egenkapitalandel</b> viser finansiel styrke. <br><br>Den måler modstandsdygtighed over for tab. <br><br>Ideelt over 30-40%.",
+    "question": "Hvad sker der når soliditetsgrad er lav?",
+    "options": ["Høj risiko for konkurs", "Bedre likviditet", "Højere overskud", "Lav gæld"],
+    "correct": 0,
+    "explanation": "Lav soliditet øger risiko ved økonomiske stød og gør finansiering dyrere."
+  },
+  {
+    "title": "Dækningsgrad i praksis",
+    "body": "Dækningsgrad er dækningsbidrag divideret med omsætning. <b>Contribution margin</b> viser dækning af faste omkostninger. <br><br>Den er nyttig i prissætning. <br><br>Den hjælper med break-even analyse.",
+    "question": "X fungerer ved at vise dækning af faste omkostninger",
+    "options": ["Omsætningshastighed", "Afkastningsgrad", "Likviditetsgrad", "Dækningsgrad"],
+    "correct": 3,
+    "explanation": "Dækningsgrad hjælper med at beregne break-even punktet og vurdere prisstrategi."
+  },
+  {
+    "title": "Trendanalyse over tid",
+    "body": "Trendanalyse er en form for horisontal analyse. <b>Indexanalyse</b> bruger basisår. <br><br>Den viser procentvis udvikling. <br><br>Den afslører langsigtede mønstre.",
+    "question": "Hvilken påstand er IKKE korrekt?",
+    "options": ["Bruger basisår", "Viser trends", "Er vertikal analyse", "Hjælper med prognoser"],
+    "correct": 2,
+    "explanation": "Trendanalyse er horisontal, ikke vertikal - den sammenligner samme virksomhed over tid."
+  },
+  {
+    "title": "Anvendelse af nøgletal",
+    "body": "Nøgletal anvendes i praksis til benchmarking. <b>Sammenligninger</b> sker med branchegennemsnit. <br><br>De understøtter investeringsbeslutninger. <br><br>De kræver kontekst for korrekt tolkning.",
+    "question": "Du er investor og ser lav ROE - hvad gør du?",
+    "options": ["Ignorer det", "Køb straks", "Sælg alle aktier", "Undersøg årsager dybere"],
+    "correct": 3,
+    "explanation": "Lav ROE kræver dybdegående analyse af årsager før beslutning - fejlinvestering undgås ved at forstå konteksten."
+  },
+  {
+    "title": "Rentabilitetsanalyse",
+    "body": "Rentabilitetsanalyse vurderer indtjening på kapital. <b>Afkastningsgrad</b> og ROE er centrale. <br><br>Den kombineres med DuPont-model. <br><br>Den viser drifts- og finansiel effektivitet.",
+    "question": "Hvad er DuPont-modellen?",
+    "options": ["Nedbrydning af ROE", "Likviditetsberegning", "Skatteanalyse", "Pengestrømsmodel"],
+    "correct": 0,
+    "explanation": "DuPont nedbryder ROE i overskudsgrad, aktivomsætning og gearing for dybere indsigt."
+  },
+  {
+    "title": "Scenarie: Lav likviditet",
+    "body": "Lav likviditet betyder problemer med kortfristet gæld. <b>Likviditetsgrad</b> under 1 er alarm. <br><br>Det kan skyldes højt varelager eller sen debitorbetaling. <br><br>Handling kræves hurtigt.",
+    "question": "Du er CFO med likviditetsgrad 0,8 - hvad gør du?",
+    "options": ["Øg gæld", "Ignorer", "Sælg aktiver langfristet", "Forbedre debitorinddrivelse"],
+    "correct": 3,
+    "explanation": "Forbedring af debitorer øger likviditet uden ekstra omkostninger og er typisk første trin."
+  },
+  {
+    "title": "Effektivitetsnøgletal",
+    "body": "Effektivitetsnøgletal måler omsætningshastighed. <b>Debitoromsætningshastighed</b> viser inddrivelsestid. <br><br>De afslører driftsmæssig effektivitet. <br><br>De er vigtige i praksis.",
+    "question": "Hvad sker der hvis debitoromsætningshastighed falder?",
+    "options": ["Bedre likviditet", "Længere inddrivelsestid og dårligere cash flow", "Højere overskud", "Lavere gæld"],
+    "correct": 1,
+    "explanation": "Faldende hastighed binder kapital længere i debitorer og forværrer likviditeten."
+  },
+  {
+    "type": "drag",
+    "title": "Rækkefølge af nøgletalsgrupper",
+    "body": "Nøgletal grupperes efter fokusområde. <b>Rækkefølgen</b> følger analyseprioritet. <br><br>Likviditet vurderes først, da den handler om overlevelse på kort sigt.",
+    "question": "Sorter nøgletalsgrupper efter typisk analyseprioritet",
+    "items": ["Likviditet", "Soliditet", "Rentabilitet", "Effektivitet"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Typisk prioriteres likviditet først for overlevelse, derefter soliditet, rentabilitet og effektivitet."
+  },
+  {
+    "title": "Branchebenchmarking",
+    "body": "Benchmarking sammenligner med branchegennemsnit. <b>Tværsnitsanalyse</b> bruges. <br><br>Den afslører relative styrker og svagheder. <br><br>Den er essentiel i praktisk analyse.",
+    "question": "Du sammenligner din virksomhed med branchen - hvad er målet?",
+    "options": ["Find styrker og svagheder", "Ignorer forskelle", "Kun intern fokus", "Sælge virksomheden"],
+    "correct": 0,
+    "explanation": "Målet er at identificere styrker og svagheder relativt for strategisk forbedring."
+  },
+  {
+    "title": "Begrænsninger ved analyse",
+    "body": "Regnskabsanalyse har begrænsninger som historiske data. <b>Ikke-finansielle faktorer</b> ignoreres ofte. <br><br>Den er ikke fremtidsrettet alene. <br><br>Den kræver supplerende kvalitativ analyse.",
+    "question": "Hvilken påstand er IKKE korrekt?",
+    "options": ["Bruger historiske data", "Ignorerer inflation", "Kan forudsige fremtid perfekt", "Kræver kontekst"],
+    "correct": 2,
+    "explanation": "Analyse kan ikke forudsige fremtid perfekt - den er bagudskuende og kræver supplerende vurdering."
+  },
+  {
+    "title": "Scenarie: Høj gæld",
+    "body": "Høj gæld påvirker soliditet negativt. <b>Gældsgrad</b> stiger. <br><br>Det øger finansiel risiko. <br><br>Rentabilitet kan presses af renteudgifter.",
+    "question": "Din virksomhed har høj gældsgrad - hvad gør du?",
+    "options": ["Øg investeringer", "Reducer gæld via egenkapital", "Ignorer", "Sælg alt"],
+    "correct": 1,
+    "explanation": "Reduktion af gæld styrker balancen og sænker risiko uden at stoppe driften."
+  },
+  {
+    "title": "DuPont-analyse i praksis",
+    "body": "DuPont nedbryder ROE i tre faktorer. <b>Overskudsgrad x omsætningshastighed x gearing</b>. <br><br>Den giver detaljeret indsigt. <br><br>Den anvendes i avanceret analyse.",
+    "question": "X fungerer ved at nedbryde ROE",
+    "options": ["DuPont-analyse", "Vertikal analyse", "Pengestrømsanalyse", "Trendanalyse"],
+    "correct": 0,
+    "explanation": "DuPont viser præcist hvilken faktor der driver eller hæmmer egenkapitalforrentningen."
+  },
+  {
+    "title": "Kvalitativ analyse",
+    "body": "Kvalitativ analyse supplerer kvantitative nøgletal. <b>Ledelse og strategi</b> vurderes. <br><br>Den inkluderer SWOT. <br><br>Den er vigtig for helhedsbilledet.",
+    "question": "Hvilken påstand er IKKE korrekt om regnskabsanalyse?",
+    "options": ["Kun kvantitativ", "Suppleret med kvalitativ", "Historisk fokus", "Bruges til beslutninger"],
+    "correct": 0,
+    "explanation": "Ren kvantitativ analyse er utilstrækkelig - kvalitativ indsigt er nødvendig for nuancer og kontekst."
+  },
+  {
+    "title": "Prognosebaseret analyse",
+    "body": "Prognose bruger historiske data til fremtidsvurdering. <b>Budgettering</b> integreres. <br><br>Den hjælper med værdiansættelse. <br><br>Den er avanceret anvendelse.",
+    "question": "Hvad sker der når prognoser baseres på nøgletal?",
+    "options": ["Bedre fremtidsvurdering", "Ingen effekt", "Kun fortid", "Lavere præcision"],
+    "correct": 0,
+    "explanation": "Nøgletal forbedrer prognosens nøjagtighed ved at identificere trends og risici systematisk."
+  },
+  {
+    "title": "Scenarie: Høj overskudsgrad",
+    "body": "Høj overskudsgrad indikerer stærk indtjening. <b>Omkostningskontrol</b> er nøglen. <br><br>Den kan være midlertidig. <br><br>Den kræver vedligeholdelse.",
+    "question": "Din virksomhed har høj overskudsgrad - hvad gør du?",
+    "options": ["Reducer priser øjeblikkeligt", "Invester i vækst", "Sælg virksomhed", "Øg omkostninger"],
+    "correct": 1,
+    "explanation": "Investering i vækst udnytter den stærke margin til langsigtede fordele."
+  },
+  {
+    "title": "Inflationspåvirkning",
+    "body": "Inflation påvirker regnskabstal. <b>Historiske kostpriser</b> forvrænges. <br><br>Den kræver justeringer. <br><br>Den komplicerer sammenligninger over tid.",
+    "question": "Hvad sker der med nøgletal ved høj inflation?",
+    "options": ["De forbedres automatisk", "Ingen ændring", "De kan forvrænges", "Bliver mere præcise"],
+    "correct": 2,
+    "explanation": "Inflation forvrænger værdier og kræver justerede analyser for et korrekt billede."
+  },
+  {
+    "title": "IFRS vs. danske regler",
+    "body": "IFRS giver internationalt sammenlignelige regnskaber. <b>Danske GAAP</b> er enklere for mindre virksomheder. <br><br>De påvirker analyse. <br><br>De kræver opmærksomhed på forskelle.",
+    "question": "Hvilken påstand er IKKE korrekt?",
+    "options": ["IFRS er internationalt", "Begge bruges i analyse", "Påvirker nøgletal", "Danske regler er altid strengere"],
+    "correct": 3,
+    "explanation": "Danske regler er ofte mindre strenge for små virksomheder end IFRS."
+  },
+  {
+    "title": "Værdiansættelse med nøgletal",
+    "body": "Nøgletal bruges i værdiansættelse. <b>Multipler</b> som P/E anvendes. <br><br>De understøtter DCF. <br><br>De er centrale i M&A.",
+    "question": "Du vurderer en virksomhed til salg - hvad bruger du?",
+    "options": ["Kun balance", "Kun pengestrøm", "Nøgletal og multipler", "Skat alene"],
+    "correct": 2,
+    "explanation": "Nøgletal og multipler giver en hurtig og relevant ramme for værdiansættelse."
+  },
+  {
+    "type": "drag",
+    "title": "Hierarki i finansiel analyse",
+    "body": "Analyse følger hierarki fra grundlag til konklusion. <b>Strukturen</b> sikrer logik. <br><br>Det bygger fra data til beslutning.",
+    "question": "Sorter hierarkiet i finansiel analyse",
+    "items": ["Indsamle data", "Beregne nøgletal", "Analysere trends", "Træffe beslutning"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Hierarkiet starter med data, går til beregning, analyse og slutter med beslutning."
+  },
+  {
+    "title": "Scenarie: Lav soliditet",
+    "body": "Lav soliditet øger konkursrisiko. <b>Egenkapital</b> er for lav. <br><br>Det påvirker kreditvurdering negativt. <br><br>Handling er nødvendig.",
+    "question": "Din virksomhed har soliditetsgrad 15% - hvad gør du?",
+    "options": ["Øg gæld", "Tilfør egenkapital", "Reducer omsætning", "Ignorer risiko"],
+    "correct": 1,
+    "explanation": "Tilførsel af egenkapital styrker balancen og forbedrer soliditeten direkte."
+  },
+  {
+    "title": "Risikoanalyse med nøgletal",
+    "body": "Risikoanalyse inkluderer gælds- og likviditetsnøgletal. <b>Beta</b> og volatilitet supplerer. <br><br>Den vurderer finansiel risiko. <br><br>Den er avanceret nuance.",
+    "question": "Hvad sker der ved høj gæld og lav likviditet?",
+    "options": ["Øget konkursrisiko", "Bedre rentabilitet", "Lavere omkostninger", "Højere aktiekurs"],
+    "correct": 0,
+    "explanation": "Kombinationen forstærker finansiel sårbarhed og kræver øjeblikkelig handling."
+  },
+  {
+    "title": "Sæsonvariationer",
+    "body": "Sæsonvariationer påvirker nøgletal. <b>Justeringer</b> er nødvendige. <br><br>De kræver årsgennemsnit. <br><br>De komplicerer trendanalyse.",
+    "question": "Hvilken påstand er IKKE korrekt?",
+    "options": ["Sæson påvirker nøgletal", "Kræver ingen justering", "Påvirker cash flow", "Ses i detailhandel"],
+    "correct": 1,
+    "explanation": "Sæsonvariationer kræver justering for korrekt analyse - uden justering kan billedet være misvisende."
+  },
+  {
+    "title": "Scenarie: Stigende omsætning",
+    "body": "Stigende omsætning er positivt men kræver analyse. <b>Omsætningshastighed</b> bør følge med. <br><br>Den kan maskere problemer. <br><br>Den testes mod overskud.",
+    "question": "Omsætningen stiger men overskud falder - hvad gør du?",
+    "options": ["Fejr vækst", "Undersøg omkostninger", "Reducer personale straks", "Fasthold priserne"],
+    "correct": 1,
+    "explanation": "Faldende overskud trods vækst indikerer stigende omkostninger, der skal adresseres."
+  },
+  {
+    "title": "Opsummering af nøgletal",
+    "body": "Nøgletal dækker likviditet, soliditet og rentabilitet. <b>Helhedsbillede</b> kræver flere tal. <br><br>De er ikke isolerede. <br><br>De kræver fortolkning.",
+    "question": "Hvad er det vigtigste ved regnskabsanalyse?",
+    "options": ["Kun ét nøgletal", "Kombineret brug af flere nøgletal", "Kun balance", "Ignorer trends"],
+    "correct": 1,
+    "explanation": "Kombination af nøgletal giver det fulde billede og undgår misvisende konklusioner."
+  },
+  {
+    "title": "Tillykke med gennemførelsen!",
+    "body": "Du har nu gennemgået introduktion til regnskabsanalyse. <b>Grundbegreber og nøgletal</b> er dækket. <br><br>Du kan nu analysere regnskaber selvstændigt. <br><br>Fortsæt med avancerede emner! 🎉",
+    "question": "Hvad har du nu styr på efter 37 lektioner?",
+    "options": ["Intet nyt", "Introduktion til regnskabsanalyse", "Avanceret værdiansættelse", "Kun skat"],
+    "correct": 1,
+    "explanation": "Du har nu solid introduktion til regnskabsanalyse og kan anvende nøgletal og metoder selvstændigt."
+  }
+]
