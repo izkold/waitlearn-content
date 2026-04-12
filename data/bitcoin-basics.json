@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Hvad er Bitcoin egentlig?",
+    "body": "Bitcoin er digital penge. <b>Tænk på det som digitalt guld</b>. Det er penge, som ingen bank eller regering styrer. <br><br>Du kan sende og modtage det direkte til andre - næsten som en besked på telefonen. <br><br>Det blev opfundet i 2009 for at give almindelige mennesker mere frihed med deres penge.",
+    "question": "Hvad er Bitcoin mest som?",
+    "options": ["Penge i banken", "En app til spil", "Digitalt guld", "Papirpenge"],
+    "correct": 2,
+    "explanation": "Bitcoin er som digitalt guld, fordi der kun findes en begrænset mængde, og det er værdifuldt uden at nogen styrer det."
+  },
+  {
+    "title": "Hvem lavede Bitcoin?",
+    "body": "Bitcoin blev lavet af en person (eller gruppe) med navnet Satoshi Nakamoto. <b>Identiteten er stadig ukendt</b>. <br><br>Han skrev en plan i 2008, og det startede i 2009. <br><br>Det er som om en ukendt opfinder gav verden en ny slags penge.",
+    "question": "Hvem opfandt Bitcoin?",
+    "options": ["En stor bank", "En regering", "Et spilfirma", "Satoshi Nakamoto"],
+    "correct": 3,
+    "explanation": "Satoshi Nakamoto opfandt Bitcoin for at skabe penge, som alle kan bruge uden at spørge en bank."
+  },
+  {
+    "title": "Hvad er blockchain?",
+    "body": "Blockchain er som en stor, offentlig regnskabsbog. <b>Alle kan se den</b>, men ingen kan slette eller ændre noget. <br><br>Den holder styr på hver eneste Bitcoin-transaktion. <br><br>Det er det, der gør Bitcoin sikkert og ærligt.",
+    "question": "Hvad er blockchain lettest at forklare som?",
+    "options": ["En offentlig regnskabsbog", "En hemmelig bog", "En bankkonto", "En computer"],
+    "correct": 0,
+    "explanation": "Blockchain er en åben bog, alle kan læse, men ingen kan snyde med - det er grunden til, at Bitcoin virker uden en chef."
+  },
+  {
+    "title": "Hvor mange Bitcoin findes?",
+    "body": "Der kan kun laves 21 millioner Bitcoin i alt. <b>Det er som begrænset guld</b>. <br><br>Nye Bitcoin bliver lavet langsomt af kraftige computere. <br><br>Det gør Bitcoin sjældent og værdifuldt over tid.",
+    "question": "Hvor mange Bitcoin kan der maksimalt laves?",
+    "options": ["Uendelig mange", "1 million", "21 millioner", "100 millioner"],
+    "correct": 2,
+    "explanation": "Kun 21 millioner gør Bitcoin specielt - ligesom guld bliver mere værdifuldt, når det er sjældent."
+  },
+  {
+    "title": "Hvad er en wallet?",
+    "body": "En wallet er din digitale pung til Bitcoin. <b>Den holder dine nøgler</b> - ligesom nøglerne til din pengepung. <br><br>Du kan have den på telefonen eller på en lille USB-nøgle. <br><br>Den er det sikreste sted til dine Bitcoin.",
+    "question": "Hvad er en wallet til?",
+    "options": ["At spille spil", "At ringe til venner", "At læse nyheder", "At opbevare dine Bitcoin"],
+    "correct": 3,
+    "explanation": "Wallet er din personlige pung - ingen andre kan tage dine Bitcoin, hvis du passer godt på den."
+  },
+  {
+    "title": "Sådan virker mining",
+    "body": "Mining er som at løse svære gåder med kraftige computere. <b>De, der løser gåden</b>, får nye Bitcoin som belønning. <br><br>Det holder hele systemet sikkert. <br><br>Det er den måde, nye Bitcoin bliver skabt på.",
+    "question": "Hvad laver man, når man miner Bitcoin?",
+    "options": ["Løser svære gåder med computere", "Køber dem", "Sender penge", "Sælger dem"],
+    "correct": 0,
+    "explanation": "Mining er som at grave efter guld - det kræver arbejde, men giver nye Bitcoin og holder systemet ærligt."
+  },
+  {
+    "title": "Hvordan sender man Bitcoin?",
+    "body": "Du sender Bitcoin ved at skrive modtagerens adresse og trykke send. <b>Det går direkte</b> uden bank. <br><br>Det er hurtigt og billigt til andre lande. <br><br>Det er som at sende en besked med penge i.",
+    "question": "Hvad sker, når du sender Bitcoin?",
+    "options": ["Banken godkender", "Det tager en uge", "Det går direkte til modtageren", "Det bliver slettet"],
+    "correct": 2,
+    "explanation": "Bitcoin går direkte fra dig til modtageren - ingen bank i midten gør det hurtigt og enkelt."
+  },
+  {
+    "title": "Hvad er en privat nøgle?",
+    "body": "Din private nøgle er som den hemmelige kode til din pung. <b>Del den aldrig</b> med nogen. <br><br>Hvis nogen får den, kan de tage dine Bitcoin. <br><br>Det er din vigtigste sikkerhed.",
+    "question": "Hvad skal du aldrig gøre med din private nøgle?",
+    "options": ["Gemme den", "Bruge den", "Slette den", "Dele den med andre"],
+    "correct": 3,
+    "explanation": "Private nøgle er din hemmelige kode - del den aldrig, ellers kan andre stjæle dine Bitcoin."
+  },
+  {
+    "title": "Bitcoin som investering",
+    "body": "Mange køber Bitcoin for at gemme værdi. <b>Det kaldes digitalt guld</b>. <br><br>Prisen kan gå op og ned, men mange tror på det på lang sigt. <br><br>Det er en måde at beskytte sine penge på.",
+    "question": "Hvorfor køber folk Bitcoin?",
+    "options": ["Kun for sjov", "Kun til spil", "Som investering og værdiopbevaring", "Kun til at betale skat"],
+    "correct": 2,
+    "explanation": "Bitcoin bruges ofte som investering, fordi det kan bevare værdi ligesom guld."
+  },
+  {
+    "title": "Bitcoin til betalinger",
+    "body": "Nogle butikker og caféer tager imod Bitcoin. <b>Du betaler med din pung</b>. <br><br>Det går hurtigt og uden gebyrer til banken. <br><br>Det er perfekt til online køb eller gaver.",
+    "question": "Hvad kan du bruge Bitcoin til i butikker?",
+    "options": ["Kun investering", "Kun mining", "Kun at gemme", "At betale for varer"],
+    "correct": 3,
+    "explanation": "Bitcoin kan bruges som rigtige penge til at købe ting - direkte og uden bank."
+  },
+  {
+    "type": "drag",
+    "title": "Trin til at starte med Bitcoin",
+    "body": "Det er nemt at komme i gang med Bitcoin. <b>Trinene er simple</b>. <br><br>Start med at lære, og gør det sikkert.",
+    "question": "Sorter trinene for at starte med Bitcoin",
+    "items": ["Læs om det", "Lav en wallet", "Køb lidt Bitcoin", "Opbevar sikkert"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Start med at lære, lav pung, køb lidt og opbevar sikkert - så er du trygt i gang."
+  },
+  {
+    "title": "Hvad er en halvering?",
+    "body": "Hver fjerde år bliver det sværere at lave nye Bitcoin. <b>Belønningen halveres</b>. <br><br>Det gør Bitcoin mere sjældent. <br><br>Mange tror det får prisen til at stige over tid.",
+    "question": "Hvad sker der ved en halvering?",
+    "options": ["Færre nye Bitcoin", "Flere nye Bitcoin", "Prisen falder altid", "Intet sker"],
+    "correct": 0,
+    "explanation": "Halvering betyder færre nye Bitcoin - det gør det mere specielt, ligesom når guld bliver sværere at finde."
+  },
+  {
+    "title": "Bitcoin og prisen",
+    "body": "Prisen på Bitcoin går op og ned hver dag. <b>Det er normalt</b> for nye penge. <br><br>På lang sigt er den steget meget. <br><br>Det er vigtigt kun at bruge penge, du kan tabe.",
+    "question": "Hvad skal du huske om Bitcoin-prisen?",
+    "options": ["Den er altid stabil", "Den falder aldrig", "Den kan gå op og ned", "Den stiger hver dag"],
+    "correct": 2,
+    "explanation": "Prisen svinger, men det er en del af at lære om Bitcoin - køb kun det du har råd til at tabe."
+  },
+  {
+    "title": "Sikkerhed med Bitcoin",
+    "body": "Pas godt på din pung. <b>Brug 2-trins login</b> og skriv din backup-kode ned et sikkert sted. <br><br>Undgå at klikke på mærkelige links. <br><br>Det er som at låse din rigtige pung inde.",
+    "question": "Hvad er det vigtigste for sikkerhed?",
+    "options": ["Dele koden med venner", "Ikke dele private nøgler", "Købe fra ukendte sider", "Gemme koden på telefonen"],
+    "correct": 1,
+    "explanation": "Hold din private kode hemmelig - det er din bedste beskyttelse mod tyveri."
+  },
+  {
+    "title": "Bitcoin i hverdagen",
+    "body": "Du kan bruge Bitcoin til at betale venner eller købe ting online. <b>Det går hurtigt over hele verden</b>. <br><br>Nogle lande bruger det som rigtige penge. <br><br>Det er fri penge uden grænser.",
+    "question": "Hvad kan Bitcoin bruges til i hverdagen?",
+    "options": ["Kun investering", "Kun mining", "Kun læsning", "Betalinger og gaver"],
+    "correct": 3,
+    "explanation": "Bitcoin er praktisk til hurtige betalinger og gaver - uden at vente på banken."
+  },
+  {
+    "title": "Køb af Bitcoin trin for trin",
+    "body": "Du kan købe Bitcoin på en sikker børs. <b>Overfør til din egen pung</b> bagefter. <br><br>Start med små beløb. <br><br>Det er nemt og sikkert, når du følger trinene.",
+    "question": "Du vil købe Bitcoin - hvad gør du?",
+    "options": ["Lad det ligge på børsen", "Del koden", "Køb uden at læse", "Flyt det til din egen pung"],
+    "correct": 3,
+    "explanation": "Flyt dine Bitcoin til din egen pung - så har du selv fuld kontrol."
+  },
+  {
+    "title": "Bitcoin og fremtiden",
+    "body": "Flere og flere bruger Bitcoin. <b>Virksomheder og lande</b> investerer i det. <br><br>Det kan blive en slags global reserve-penge. <br><br>Det udvikler sig hele tiden.",
+    "question": "Hvorfor tror mange på Bitcoin i fremtiden?",
+    "options": ["Flere bruger det", "Det forsvinder snart", "Det er kun til spil", "Det bliver forbudt"],
+    "correct": 0,
+    "explanation": "Flere mennesker og virksomheder bruger det - det gør det mere værdifuldt og nyttigt."
+  },
+  {
+    "title": "Scenarie: Tabt pung",
+    "body": "Hvis du mister din backup-kode, er Bitcoin væk for altid. <b>Der er ingen bank at ringe til</b>. <br><br>Det er vigtigt at skrive koden ned sikkert. <br><br>Pas godt på den fra starten.",
+    "question": "Du har mistet din backup-kode - hvad sker der?",
+    "options": ["Banken hjælper", "Bitcoin er tabt for altid", "Du får nye gratis", "Prisen stiger"],
+    "correct": 1,
+    "explanation": "Uden backup-koden kan ingen hjælpe - det er derfor sikkerhed er så vigtig."
+  },
+  {
+    "title": "Bitcoin og skat i Danmark",
+    "body": "Når du sælger Bitcoin med gevinst, skal du betale skat. <b>Det er som at sælge aktier</b>. <br><br>Fortæl det til Skat hvert år. <br><br>Det er simpelt at holde styr på.",
+    "question": "Skal du betale skat af Bitcoin-gevinst i Danmark?",
+    "options": ["Nej, aldrig", "Kun hvis du taber", "Ja, som aktiegevinst", "Kun ved køb"],
+    "correct": 2,
+    "explanation": "Gevinster beskattes - det er vigtigt at huske, så du ikke får overraskelser."
+  },
+  {
+    "title": "Hvorfor er Bitcoin populært?",
+    "body": "Bitcoin giver frihed. <b>Ingen kan stoppe dine penge</b>. <br><br>Det beskytter mod inflation, hvor almindelige penge taber værdi. <br><br>Det er penge, du selv ejer 100%.",
+    "question": "Hvorfor elsker mange Bitcoin?",
+    "options": ["Fordi det er styret af en bank", "Fordi det er langsomt", "Fordi det er fysisk", "Fordi det giver frihed"],
+    "correct": 3,
+    "explanation": "Bitcoin giver dig fuld kontrol over dine egne penge - det er hovedgrunden til populariteten."
+  },
+  {
+    "type": "drag",
+    "title": "Bitcoin i 4 enkle trin",
+    "body": "Det er nemt at forstå Bitcoin. <b>Trinene er logiske</b>. <br><br>Start simpelt og lær mere.",
+    "question": "Sorter de 4 grundtrin i Bitcoin",
+    "items": ["Lær hvad det er", "Lav en sikker pung", "Køb lidt Bitcoin", "Brug eller gem det"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Først lærer du, så laver du pung, køber og bruger det - super simpelt!"
+  },
+  {
+    "title": "Bitcoin til gaver",
+    "body": "Du kan sende Bitcoin som gave til venner. <b>Det er hurtigt og sjovt</b>. <br><br>Børn kan lære om penge på en ny måde. <br><br>Det er en moderne gave.",
+    "question": "Du vil give Bitcoin som gave - hvad gør du?",
+    "options": ["Send det direkte", "Send via bank", "Køb guldkæde", "Vent en uge"],
+    "correct": 0,
+    "explanation": "Bitcoin kan sendes direkte som gave - hurtigt og uden gebyrer."
+  },
+  {
+    "title": "Risici ved Bitcoin",
+    "body": "Prisen kan falde meget. <b>Investér kun det du kan tabe</b>. <br><br>Der er også risiko for hacks, hvis du ikke er sikker. <br><br>Det er vigtigt at lære godt først.",
+    "question": "Hvad skal du huske før du køber Bitcoin?",
+    "options": ["Brug alle dine penge", "Investér kun det du kan tabe", "Det er risikofrit", "Køb på lån"],
+    "correct": 1,
+    "explanation": "Kun brug penge du har råd til at tabe - det er den vigtigste regel."
+  },
+  {
+    "title": "Bitcoin i andre lande",
+    "body": "I nogle lande er Bitcoin rigtige penge. <b>El Salvador bruger det dagligt</b>. <br><br>Det hjælper folk uden bankkonto. <br><br>Det gør verden mere forbundet.",
+    "question": "Hvad bruger nogle lande Bitcoin til?",
+    "options": ["Kun som legetøj", "Som rigtige penge", "Kun til mining", "Kun til skat"],
+    "correct": 1,
+    "explanation": "Bitcoin hjælper mennesker uden bank - det er en stor fordel i mange lande."
+  },
+  {
+    "title": "Hvordan holder du Bitcoin sikkert?",
+    "body": "Brug en lille USB-pung og skriv koden ned på papir. <br><br><b>Opbevar det offline</b>. <br><br>Det er som at lægge penge i en sikkerhedsboks.",
+    "question": "Hvad er det sikreste for dine Bitcoin?",
+    "options": ["Lade det ligge på nettet", "Dele med venner", "Slette det", "Brug offline pung"],
+    "correct": 3,
+    "explanation": "Offline pung er som en sikkerhedsboks - meget sværere at stjæle fra."
+  },
+  {
+    "title": "Bitcoin og miljøet",
+    "body": "Mining bruger strøm, men <b>meget af det er grøn energi</b> som sol og vand. <br><br>Det bliver bedre hvert år. <br><br>Det er et vigtigt emne at tænke på.",
+    "question": "Er Bitcoin altid dårligt for miljøet?",
+    "options": ["Nej, meget er grøn energi", "Ja, altid", "Kun fossilt", "Det bruger ingen strøm"],
+    "correct": 0,
+    "explanation": "En stor del af mining bruger ren energi - det bliver bedre og bedre."
+  },
+  {
+    "title": "Scenarie: Prisen falder",
+    "body": "Når prisen falder, er det normalt. <b>Hold fast og lær mere</b>. <br><br>Mange har set den komme tilbage stærkere. <br><br>Det er en chance for at købe mere billigt.",
+    "question": "Prisen på Bitcoin falder - hvad gør du?",
+    "options": ["Sælg alt i panik", "Lån penge", "Hold fast og tænk langsigtet", "Ignorer det helt"],
+    "correct": 2,
+    "explanation": "Hold fast - Bitcoin har historisk set altid kommet tilbage efter fald."
+  },
+  {
+    "title": "Bitcoin og inflation",
+    "body": "Når almindelige penge taber værdi, kan Bitcoin beskytte dig. <b>Det kaldes værdiopbevaring</b>. <br><br>Det er som at gemme værdi i guld. <br><br>Det hjælper din opsparing.",
+    "question": "Hvorfor hjælper Bitcoin mod inflation?",
+    "options": ["Fordi det bliver mere", "Fordi der kun er få", "Fordi det er papir", "Fordi banker styrer det"],
+    "correct": 1,
+    "explanation": "Begrænset antal gør det til en god beskyttelse mod, at penge taber værdi."
+  },
+  {
+    "title": "Hurtige betalinger med Bitcoin",
+    "body": "Med Lightning Network kan du sende Bitcoin lynhurtigt. <b>Perfekt til kaffe eller små køb</b>. <br><br>Det er billigere end bankoverførsel. <br><br>Det gør hverdagen lettere.",
+    "question": "Hvad er godt ved hurtige Bitcoin-betalinger?",
+    "options": ["De er dyre", "De er lynhurtige og billige", "De tager dage", "Kun til store beløb"],
+    "correct": 1,
+    "explanation": "Hurtige betalinger gør Bitcoin praktisk til daglig brug."
+  },
+  {
+    "title": "Bitcoin for begyndere",
+    "body": "Du behøver ikke være ekspert. <b>Start med at læse og prøve lidt</b>. <br><br>Det er sjovt at lære om fremtidens penge. <br><br>Alle kan forstå det med tid.",
+    "question": "Er Bitcoin kun for eksperter?",
+    "options": ["Nej, alle kan lære det", "Ja", "Kun for banker", "Kun for børn"],
+    "correct": 0,
+    "explanation": "Bitcoin er for alle - start simpelt, og du forstår det hurtigt."
+  },
+  {
+    "title": "Scenarie: Du vil prøve Bitcoin",
+    "body": "Du er nysgerrig. <b>Køb for et lille beløb</b> og leg med det. <br><br>Send lidt til en ven. <br><br>Det er den bedste måde at lære på.",
+    "question": "Du vil prøve Bitcoin første gang - hvad gør du?",
+    "options": ["Invester alt", "Køb lidt og lær", "Vent 10 år", "Lån penge"],
+    "correct": 1,
+    "explanation": "Start med små beløb - det er den sikreste og sjoveste måde at lære på."
+  },
+  {
+    "title": "Forskellen på Bitcoin og andre crypto",
+    "body": "Bitcoin er den første og største. <b>De andre er som nye varianter</b>. <br><br>Bitcoin er mest sikker og kendt. <br><br>De fleste starter med Bitcoin.",
+    "question": "Hvad er specielt ved Bitcoin?",
+    "options": ["Det er den første og mest kendte", "Det er det samme som alle andre", "Det er kun til spil", "Det er styret af en bank"],
+    "correct": 0,
+    "explanation": "Bitcoin er originalen - den mest kendte og sikre crypto."
+  },
+  {
+    "title": "Bitcoin og venner",
+    "body": "Du kan lære dine venner om Bitcoin. <b>Del viden, ikke koder</b>. <br><br>Det er sjovt at snakke om fremtidens penge. <br><br>Det skaber gode samtaler.",
+    "question": "Du vil fortælle en ven om Bitcoin - hvad siger du?",
+    "options": ["Det er for svært", "Det er digitalt guld og nemt at bruge", "Det er kun for eksperter", "Det er værdiløst"],
+    "correct": 1,
+    "explanation": "Fortæl det simpelt som digitalt guld - det er let at forstå for alle."
+  },
+  {
+    "title": "Opsummering af Bitcoin",
+    "body": "Bitcoin er fri, digitale penge. <b>Det er som guld på internettet</b>. <br><br>Du kan bruge det til betaling, investering og frihed. <br><br>Det er sikkert, når du passer på.",
+    "question": "Hvad er Bitcoin kort fortalt?",
+    "options": ["Bankpenge", "Et spil", "Fri digitale penge", "Papirpenge"],
+    "correct": 2,
+    "explanation": "Bitcoin er fri penge, du selv styrer - det er det vigtigste at huske."
+  },
+  {
+    "title": "Tillykke med gennemførelsen!",
+    "body": "Du har nu forstået Bitcoin og crypto. <b>Det er digitalt guld og fri penge</b>. <br><br>Du ved, hvad det er, og hvordan det bruges. <br><br>Brug det klogt og fortsæt med at lære! 🎉",
+    "question": "Hvad har du lært efter 35 lektioner?",
+    "options": ["Intet", "Kun bankregler", "Kun skat", "Bitcoin er fri digitale penge og hvad det bruges til"],
+    "correct": 3,
+    "explanation": "Du kan nu forklare Bitcoin simpelt til alle - godt gået!"
+  }
+]
