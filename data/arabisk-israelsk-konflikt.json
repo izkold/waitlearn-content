@@ -1,0 +1,276 @@
+[
+  {
+    "title": "Hvad er konflikten om?",
+    "body": "Konflikten handler om territorium, rettigheder og national identitet i Mellemøsten. <b>Israel og nabolande</b> (Egypten, Jordan, Syrien, Libanon) har været involveret siden 1948. <br><br>Den har rødder i 1800- og 1900-tallet med zionisme og arabisk nationalisme. <br><br>Den inkluderer flere krige og fredsforsøg.",
+    "question": "Hvad er den arabisk-israelske konflikt primært om?",
+    "options": ["Kun økonomi", "Kun religion", "Territorium og identitet", "Kun olie"],
+    "correct": 2,
+    "explanation": "Konflikten drejer sig om land, selvstændighed og nationale rettigheder mellem Israel og arabiske nabolande."
+  },
+  {
+    "title": "Det britiske mandat",
+    "body": "Fra 1920 til 1948 styrede Storbritannien Palæstina som mandat. <b>Balfour-deklarationen</b> fra 1917 lovede et jødisk nationalt hjem. <br><br>Området havde både jødisk og arabisk befolkning. <br><br>Spændingerne voksede mellem de to grupper.",
+    "question": "Hvem styrede Palæstina 1920-1948?",
+    "options": ["Det Osmanniske Rige", "Storbritannien", "Frankrig", "Israel"],
+    "correct": 1,
+    "explanation": "Det britiske mandat over Palæstina varede indtil 1948 og var baggrunden for senere konflikter."
+  },
+  {
+    "title": "FN's delingsplan",
+    "body": "I 1947 vedtog FN Resolution 181 om deling af Palæstina. <b>En jødisk stat og en arabisk stat</b> blev foreslået. <br><br>Jerusalem skulle være internationalt administreret. <br><br>Jødiske ledere accepterede planen, arabiske ledere afviste den.",
+    "question": "Hvad foreslog FN i 1947?",
+    "options": ["Deling i to stater", "Ingen deling", "Kun arabisk stat", "Kun jødisk stat"],
+    "correct": 0,
+    "explanation": "Delingsplanen fra 1947 var et forsøg på en fredelig løsning, men blev ikke accepteret af alle parter."
+  },
+  {
+    "title": "Israels uafhængighed",
+    "body": "Den 14. maj 1948 erklærede Israel sig selvstændig. <b>David Ben-Gurion</b> læste erklæringen op. <br><br>Dagen efter angreb arabiske hære. <br><br>Det startede den første arabisk-israelske krig.",
+    "question": "Hvornår erklærede Israel sig selvstændig?",
+    "options": ["1947", "1967", "1973", "14. maj 1948"],
+    "correct": 3,
+    "explanation": "Uafhængighedserklæringen 14. maj 1948 markerede starten på staten Israel og den første krig."
+  },
+  {
+    "title": "1948-krigen",
+    "body": "Krigen 1948-49 kaldes Israels uafhængighedskrig - og Nakba (katastrofen) af palæstinensere. <b>Egypten, Jordan, Syrien, Libanon og Irak</b> angreb. <br><br>Våbenhvile i 1949. <br><br>Israel endte med mere land end i delingsplanen.",
+    "question": "Hvilke lande angreb Israel i 1948?",
+    "options": ["Kun Egypten", "Kun Syrien", "Flere arabiske nabolande", "Ingen"],
+    "correct": 2,
+    "explanation": "Flere arabiske stater intervenerede efter Israels uafhængighed og førte til våbenhvileaftaler i 1949."
+  },
+  {
+    "title": "1956: Suez-krisen",
+    "body": "I 1956 nationaliserede Egypten Suez-kanalen. <b>Israel, Storbritannien og Frankrig</b> angreb Egypten. <br><br>Israel besatte Sinai midlertidigt. <br><br>Internationalt pres - primært fra USA og Sovjetunionen - stoppede krigen.",
+    "question": "Hvad udløste Suez-krisen i 1956?",
+    "options": ["Nationalisering af Suez-kanalen", "Ingen grund", "FN-beslutning", "Fredsaftale"],
+    "correct": 0,
+    "explanation": "Egyptens nationalisering af kanalen førte til invasion fra tre sider og siden tilbagetrækning under internationalt pres."
+  },
+  {
+    "title": "1967: Seksdageskrigen",
+    "body": "I juni 1967 angreb Israel Egypten, Jordan og Syrien i et præventivt slag. <b>Israel vandt på seks dage</b> og besatte Sinai, Gaza, Vestbredden og Golan. <br><br>Jerusalem blev samlet under israelsk kontrol. <br><br>Det ændrede grænserne markant.",
+    "question": "Hvad skete i 1967?",
+    "options": ["Fredsaftale", "Ingen ændring", "Arabisk sejr", "Seksdageskrigen og israelsk sejr"],
+    "correct": 3,
+    "explanation": "Seksdageskrigen førte til israelsk kontrol over store områder og blev et vendepunkt i konflikten."
+  },
+  {
+    "title": "1973: Yom Kippur-krigen",
+    "body": "I oktober 1973 angreb Egypten og Syrien Israel. <b>Overraskelsesangreb</b> på den jødiske helligdag Yom Kippur. <br><br>Israel vendte krigen og nåede Suez-kanalen. <br><br>Det førte til fredsforhandlinger.",
+    "question": "Hvilke lande angreb Israel i 1973?",
+    "options": ["Egypten og Syrien", "Kun Jordan", "Kun Libanon", "Ingen"],
+    "correct": 0,
+    "explanation": "Yom Kippur-krigen var et overraskelsesangreb, der viste både arabisk initiativ og israelsk modstandskraft."
+  },
+  {
+    "title": "Camp David-aftalen",
+    "body": "I 1978 forhandlede Egypten og Israel fred med USA som mægler. <b>Anwar Sadat og Menachem Begin</b> mødtes med præsident Carter. <br><br>Egypten anerkendte Israel som stat. <br><br>Israel trak sig ud af Sinai, som blev afsluttet i 1982.",
+    "question": "Hvad var resultatet af Camp David-aftalen i 1978?",
+    "options": ["Ny krig", "Ingen aftale", "Fred mellem Egypten og Israel", "Kun våbenhvile"],
+    "correct": 2,
+    "explanation": "Camp David-aftalen var den første fulde fred mellem Israel og et arabisk naboland."
+  },
+  {
+    "title": "Oslo-aftalerne",
+    "body": "I 1993 indgik Israel og PLO historiske aftaler efter hemmelige forhandlinger i Norge. <b>Yitzhak Rabin og Yasser Arafat</b> gav hånd på Det Hvide Hus' plæne. <br><br>Palæstinensisk selvstyre blev oprettet. <br><br>Det var et afgørende skridt mod fred.",
+    "question": "Hvad handlede Oslo-aftalerne om?",
+    "options": ["Kun krig", "Selvstyre og fredsproces", "Ingen ændring", "Ny krig"],
+    "correct": 1,
+    "explanation": "Oslo-aftalerne indledte direkte forhandlinger og gensidige anerkendelse mellem Israel og palæstinenserne."
+  },
+  {
+    "type": "drag",
+    "title": "Kronologi over hovedkrigene",
+    "body": "Konflikten har haft flere store krige. <b>Rækkefølgen</b> viser udviklingen fra 1948 til 1973.",
+    "question": "Sorter hovedkrigene kronologisk",
+    "items": ["1948-krigen", "1956 Suez", "1967 Seksdageskrigen", "1973 Yom Kippur"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Korrekt rækkefølge viser progressionen af de store arabisk-israelske krige."
+  },
+  {
+    "title": "Fred med Jordan",
+    "body": "I 1994 underskrev Israel og Jordan en fredsaftale. <b>Grænser blev fastlagt</b>. <br><br>Samarbejde om vand og sikkerhed blev aftalt. <br><br>Det var den anden fulde fredsaftale med et arabisk naboland.",
+    "question": "Hvilket land indgik fredsaftale med Israel i 1994?",
+    "options": ["Egypten", "Syrien", "Libanon", "Jordan"],
+    "correct": 3,
+    "explanation": "Fredsaftalen med Jordan fulgte Egyptens eksempel og stabiliserede den østlige grænse."
+  },
+  {
+    "title": "Intifadaerne",
+    "body": "Første intifada startede i 1987 som et palæstinensisk folkeoprør mod israelsk besættelse. <b>Anden intifada</b> i 2000 var langt mere voldelig. <br><br>Begge påvirkede den politiske udvikling. <br><br>De viste styrken i palæstinensisk modstand.",
+    "question": "Hvad var intifadaerne?",
+    "options": ["Palæstinensiske oprør", "Fredsmøder", "Israelske sejre", "FN-aftaler"],
+    "correct": 0,
+    "explanation": "Intifadaerne var folkelige opstande, der påvirkede den politiske udvikling markant."
+  },
+  {
+    "title": "Abraham-aftalerne",
+    "body": "I 2020 normaliserede flere arabiske lande forholdet til Israel. <b>UAE, Bahrain, Marokko og Sudan</b> deltog. <br><br>Det skete uden forudgående løsning af det palæstinensiske spørgsmål. <br><br>Det ændrede de regionale alliancer grundlæggende.",
+    "question": "Hvad var Abraham-aftalerne?",
+    "options": ["Ny krig", "Ingen effekt", "Normalisering med arabiske lande", "Kun Egypten"],
+    "correct": 2,
+    "explanation": "Aftalerne markerede bredere normalisering og økonomisk samarbejde uden fuld konfliktløsning."
+  },
+  {
+    "title": "Golan-højderne",
+    "body": "Israel besatte Golan i 1967 og annekterede det de facto i 1981. <b>Syrien kræver området tilbage</b>. <br><br>Området har strategisk og vandressourcemæssig betydning. <br><br>Golan er fortsat omstridt.",
+    "question": "Hvad skete med Golan-højderne i 1967?",
+    "options": ["De kom under israelsk kontrol", "De blev syriske", "Ingen ændring", "De blev givet til Jordan"],
+    "correct": 0,
+    "explanation": "Israels besættelse i 1967 gjorde Golan til et centralt omstridt område."
+  },
+  {
+    "title": "Scenarie: Våbenhvile 1949",
+    "body": "Efter 1948-krigen blev våbenhvileaftaler indgået med Egypten, Jordan, Syrien og Libanon. <b>Grænserne var midlertidige</b> (våbenhvilelinjer). <br><br>Jordan fik Vestbredden. <br><br>Egypten fik Gaza.",
+    "question": "Du er diplomat i 1949 - hvad sker der efter krigen?",
+    "options": ["Fulde fredsaftaler", "Ny krig straks", "Ingen aftale overhovedet", "Våbenhvile og midlertidige grænser"],
+    "correct": 3,
+    "explanation": "1949-aftalerne stoppede kampene, men skabte ikke varig fred - og de midlertidige grænser varede i årtier."
+  },
+  {
+    "title": "FN Resolution 242",
+    "body": "Efter 1967-krigen vedtog FN Resolution 242. <b>Land for fred</b> blev det bærende princip. <br><br>Israel skulle trække sig tilbage fra besatte områder. <br><br>Arabiske stater skulle til gengæld anerkende Israels ret til eksistens.",
+    "question": "Hvad siger FN Resolution 242 fra 1967?",
+    "options": ["Kun krig", "Land for fred-princippet", "Ingen ændring", "Kun israelsk tilbagetrækning"],
+    "correct": 1,
+    "explanation": "Resolutionen blev grundstenen for alle efterfølgende fredsforhandlinger."
+  },
+  {
+    "title": "Sinai-tilbagetrækning",
+    "body": "Israel trak sig fuldt ud af Sinai i 1982 som direkte følge af Camp David-freden med Egypten. <b>Det var den første større territoriale tilbagetrækning</b>. <br><br>Det skabte præcedens for land for fred. <br><br>Det styrkede den regionale stabilitet.",
+    "question": "Hvad skete med Sinai i 1982?",
+    "options": ["Israel beholdt det", "Ny krig opstod", "Israel trak sig ud", "Det blev givet til Syrien"],
+    "correct": 2,
+    "explanation": "Tilbagetrækningen var et direkte resultat af Camp David-freden og viste, at land-for-fred-princippet virker."
+  },
+  {
+    "title": "Libanon-krigen 1982",
+    "body": "Israel invaderede Libanon i 1982 for at fjerne PLO's militære base dér. <b>Beirut blev belejret</b>. <br><br>PLO's styrker blev fordrevet. <br><br>Det førte til en langvarig og kostbar israelsk tilstedeværelse i Sydlibanon.",
+    "question": "Hvad var det primære mål med Libanon-invasionen 1982?",
+    "options": ["Fred med Syrien", "Ingen særlig grund", "Besætte Sinai", "Fjerne PLO fra Libanon"],
+    "correct": 3,
+    "explanation": "Invasionen havde til formål at sikre Israels nordgrænse ved at fjerne PLO's militære infrastruktur."
+  },
+  {
+    "title": "Fredsproces i 1990'erne",
+    "body": "Oslo-aftalerne førte til palæstinensisk selvstyre i dele af Vestbredden og Gaza. <b>Det skabte håb</b> om en tostatsløsning. <br><br>Rabin blev myrdet af en israelsk ekstremist i november 1995. <br><br>Fredsprocessen mistede momentum.",
+    "question": "Hvad var målet med Oslo-processen?",
+    "options": ["Tostatsløsning", "Ny krig", "Ingen ændring", "Kun israelsk kontrol"],
+    "correct": 0,
+    "explanation": "Oslo-processen sigtede mod gensidig anerkendelse og fredelig sameksistens som to stater."
+  },
+  {
+    "type": "drag",
+    "title": "Vigtige fredsaftaler",
+    "body": "Fredsaftaler har ændret konfliktens dynamik. <b>Rækkefølgen</b> viser fremskridtene.",
+    "question": "Sorter fredsaftalerne kronologisk",
+    "items": ["Camp David 1978", "Oslo 1993", "Jordan 1994", "Abraham 2020"],
+    "correct_order": [0, 1, 2, 3],
+    "explanation": "Rækkefølgen viser udviklingen fra bilateral fred med enkeltlande til bredere regional normalisering."
+  },
+  {
+    "title": "Anvendelse af Resolution 242",
+    "body": "Resolution 242 blev brugt som grundlag i alle større fredsforhandlinger siden 1967. <b>Den kræver tilbagetrækning</b> fra besatte områder. <br><br>Den kræver sikkerhed og anerkendelse for alle stater i regionen. <br><br>Den er stadig juridisk og politisk central.",
+    "question": "Du er fredsforhandler - hvad er det anerkendte grundlag for en aftale?",
+    "options": ["Ny krig", "Ingen forhandling", "Land for fred", "Kun militær magt"],
+    "correct": 2,
+    "explanation": "Land for fred-princippet fra Resolution 242 var grundlaget for både Egypten-freden og Jordan-freden."
+  },
+  {
+    "title": "Gaza-tilbagetrækning 2005",
+    "body": "Israel trak sig ensidigt ud af Gaza i 2005 under premierminister Ariel Sharon. <b>Bosættelser og militærposter blev fjernet</b>. <br><br>Hamas vandt de palæstinensiske valg i 2006. <br><br>Det skabte en ny og mere kompleks dynamik.",
+    "question": "Hvad skete i Gaza i 2005?",
+    "options": ["Ny besættelse", "Israelsk tilbagetrækning", "Ingen ændring", "Fredsaftale"],
+    "correct": 1,
+    "explanation": "Tilbagetrækningen var et ensidigt israelsk skridt - uden aftale med palæstinenserne."
+  },
+  {
+    "title": "Begrænsninger i fredsprocessen",
+    "body": "Fredsprocessen har haft både succeser og fiaskoer. <b>Historiske traumer</b> og dyb mistillid er de største barrierer. <br><br>Begge sider har lidt store tab over generationer. <br><br>Ingen samlet løsning er nået.",
+    "question": "Hvilken påstand er IKKE korrekt om konflikten?",
+    "options": ["Den er fuldt løst", "Den har haft flere krige", "Fredsaftaler eksisterer", "Territorier er omstridte"],
+    "correct": 0,
+    "explanation": "Konflikten er ikke fuldt løst - trods fredsaftaler, krige og diplomatiske fremskridt."
+  },
+  {
+    "title": "Scenarie: 1967-krigen",
+    "body": "Før 1967 eskalerede spændingerne kraftigt. Egypten lukkede Suez-kanalen for israelsk skibsfart. <b>Israel angreb først</b> i et præventivt slag. <br><br>Krigen varede seks dage. <br><br>Resultatet var enorm territorial gevinst.",
+    "question": "Du er leder i Israel i 1967 - hvad sker der efter det præventive angreb?",
+    "options": ["Tab af land", "Ingen ændring", "Arabisk sejr", "Stor israelsk sejr"],
+    "correct": 3,
+    "explanation": "Seksdageskrigen gav Israel kontrol over Sinai, Gaza, Vestbredden og Golan."
+  },
+  {
+    "title": "Jødisk udvandring fra arabiske lande",
+    "body": "Efter 1948 forlod mellem 800.000 og 1 million jøder arabiske og muslimske lande. <b>De fleste bosatte sig i Israel</b>. <br><br>Det forandrede Israels befolkningssammensætning grundlæggende. <br><br>Det var en del af en bredere regional befolkningsudveksling.",
+    "question": "Hvad skete med jøder i arabiske lande efter 1948?",
+    "options": ["Ingen forandring", "De blev statsborgere", "Mange udvandrede til Israel", "De blev lokale ledere"],
+    "correct": 2,
+    "explanation": "Udvandringen var en konsekvens af 1948-krigen og ændrede demografien på begge sider."
+  },
+  {
+    "title": "Det palæstinensiske flygtningespørgsmål",
+    "body": "I 1948 blev 700.000-750.000 palæstinensere flygtninge. <b>UNRWA blev oprettet</b> af FN til at hjælpe dem. <br><br>Retten til tilbagevenden er fortsat dybt omstridt. <br><br>Det er et af de sværeste spørgsmål i enhver fredsforhandling.",
+    "question": "Hvad skete med mange palæstinensere i 1948?",
+    "options": ["De blev lokale ledere", "De blev flygtninge", "Ingen ændring", "De vandt krigen"],
+    "correct": 1,
+    "explanation": "Flygtningekrisen opstod under 1948-krigen og er fortsat et af de centrale og uløste nøgleproblemer."
+  },
+  {
+    "title": "Syrien og Golan",
+    "body": "Syrien har krævet Golan tilbage siden den israelske besættelse i 1967. <br><br><b>Ingen fredsaftale</b> er nogensinde indgået. <br><br>Området har vandressourcer, landbrugsjord og strategisk militær betydning.",
+    "question": "Hvad er status for Golan-højderne?",
+    "options": ["Fredeligt delt", "Givet tilbage", "Ingen konflikt", "Omstridt siden 1967"],
+    "correct": 3,
+    "explanation": "Golan forbliver omstridt mellem Israel og Syrien - og ingen fredsaftale er i sigte."
+  },
+  {
+    "title": "Libanon og Hizbollah",
+    "body": "Israel trak sig ud af Sydlibanon i maj 2000 efter 18 år. <b>Hizbollah</b> hævdede æren for tilbagetrækningen og styrkede sin position. <br><br>Grænsekonflikter fortsætter. <br><br>Det er en del af den bredere regionale spænding med Iran i baggrunden.",
+    "question": "Hvornår trak Israel sig ud af Libanon?",
+    "options": ["2000", "1982", "1973", "1994"],
+    "correct": 0,
+    "explanation": "Tilbagetrækningen i 2000 afsluttede en langvarig og kostbar israelsk tilstedeværelse i Sydlibanon."
+  },
+  {
+    "title": "Scenarie: Normalisering 2020",
+    "body": "Abraham-aftalerne åbnede nye diplomatiske og økonomiske relationer. <b>Flere arabiske stater</b> anerkendte Israel direkte. <br><br>Det skete uden forudgående løsning af det palæstinensiske spørgsmål. <br><br>Det brød med årtiers arabisk konsensus.",
+    "question": "Du er diplomat i 2020 - hvad kendetegner Abraham-aftalerne?",
+    "options": ["Ny krig", "Kun Egypten normaliserer", "Normalisering uden palæstinensisk aftale", "Ingen ændring"],
+    "correct": 2,
+    "explanation": "Aftalerne markerede et historisk skift mod bredere regional normalisering uden den traditionelle forudsætning om palæstinensisk fred."
+  },
+  {
+    "title": "Historisk perspektiv",
+    "body": "Konflikten har udviklet sig over mere end 75 år. <b>Flere generationer</b> på begge sider har oplevet krige, fordrivelse og fredsforsøg. <br><br>Begge sider har legitime historiske narrativer. <br><br>Konflikten påvirker hele Mellemøsten og international politik.",
+    "question": "Hvilken påstand er IKKE korrekt?",
+    "options": ["Den startede i 1948", "Den er fuldt løst", "Fredsaftaler findes", "Krige har ændret grænser"],
+    "correct": 1,
+    "explanation": "Konflikten er ikke løst - selvom der er sket fremskridt og indgået fredsaftaler."
+  },
+  {
+    "title": "Fremtidige udfordringer",
+    "body": "Fremtiden kræver forhandling om grænser, Jerusalem, flygtninge og sikkerhed. <b>Tostatsløsningen</b> er fortsat et mål for mange lande og aktører. <br><br>Regional normalisering fortsætter gradvist. <br><br>Historien viser, at fred er mulig - men kræver vilje og tillid.",
+    "question": "Hvad er et centralt fremtidigt mål for mange internationale aktører?",
+    "options": ["Evig krig", "Ingen ændring", "Kun militær sejr", "Tostatsløsning"],
+    "correct": 3,
+    "explanation": "Tostatsløsningen ses af mange som den realistiske vej frem, baseret på tidligere fredsforslag."
+  },
+  {
+    "title": "Opsummering af nøglefakta",
+    "body": "Konflikten inkluderer krige, fredsaftaler og vedvarende uløste spørgsmål. <b>Fra 1948 til i dag</b> har begivenhederne formet hele Mellemøsten. <br><br>Den involverer Israel, palæstinenserne og nabolandene. <br><br>Den er kompleks med mange perspektiver og lag.",
+    "question": "Hvad er det vigtigste at huske om konflikten?",
+    "options": ["Kun én side har ret", "Historien har flere lag og fakta", "Der har aldrig været krige", "Der er kun fred"],
+    "correct": 1,
+    "explanation": "Objektiv forståelse kræver kendskab til alle sider, alle fakta og hele den historiske kontekst."
+  },
+  {
+    "title": "Tillykke med gennemførelsen!",
+    "body": "Du har nu en faktabaseret, historisk oversigt over konflikten mellem Israel og nabolandene. <b>Nøglehændelser og fredsforsøg</b> er dækket fra 1948 til i dag. <br><br>Historien viser både dyb konflikt og reelle fremskridt mod fred. <br><br>Fortsæt med at søge faktabaserede og neutrale perspektiver! 🎉",
+    "question": "Hvad har du opnået efter disse lektioner?",
+    "options": ["Intet", "Objektiv historisk gennemgang af konflikten", "Kun ét sides syn", "Kun nutidsforhold"],
+    "correct": 1,
+    "explanation": "Du har nu faktabaseret, neutral viden om den historiske konflikt - et solidt grundlag for videre læring."
+  }
+]
