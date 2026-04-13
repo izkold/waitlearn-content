@@ -43,5 +43,10 @@
     "id": "bitcoin-basics",
     "title": "Bitcoin for Begyndere",
     "desc": "Hvad er Bitcoin, hvordan virker det, og hvad kan du bruge det til?"
+  },
+  {
+    "id": "arabisk-israelsk-konflikt",
+    "title": "Den arabisk-israelske konflikt",
+    "desc": "Historisk gennemgang af konflikten fra 1948 til i dag - krige, fredsaftaler og nøglehændelser."
   }
 ]
