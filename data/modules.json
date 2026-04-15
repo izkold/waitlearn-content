@@ -48,5 +48,10 @@
     "id": "arabisk-israelsk-konflikt",
     "title": "Den arabisk-israelske konflikt",
     "desc": "Historisk gennemgang af konflikten fra 1948 til i dag - krige, fredsaftaler og nøglehændelser."
+  },
+  {
+    "id": "ai-grundlaeg",
+    "title": "Hvad er kunstig intelligens?",
+    "desc": "Grundbegreber, historik og nøgletermer – dit fundament for at forstå AI."
   }
 ]
