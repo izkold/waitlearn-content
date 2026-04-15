@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Velkommen – Hvorfor skal du bruge tid på AI nu?",
+    "body": "Velkommen til dit første AI-modul i WaitLearn! Du åbner måske denne fane mens du venter på et svar fra ChatGPT eller Claude. Tænk over det: AI er allerede en del af din hverdag – i Outlook, Teams, Excel, Google Translate og meget mere. Mange medarbejdere føler sig usikre og tænker 'det er kun for IT-folk'. I dette modul får du de grundlæggende begreber og historikken, så du kan tale med om AI uden at føle dig bagud. Du vil forstå, hvorfor AI pludselig er overalt i 2026, og hvordan det kan hjælpe dig i dit arbejde. Klar til at starte?",
+    "question": "Hvorfor er det relevant for dig som almindelig medarbejder at forstå AI nu?",
+    "options": [
+      "Fordi AI kun er relevant for IT-afdelingen",
+      "Fordi AI allerede er integreret i de værktøjer du bruger dagligt og vil påvirke dit job",
+      "Fordi du skal kunne programmere for at bruge AI",
+      "Fordi AI erstatter alle jobs inden for de næste 2 år"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! AI er ikke kun for teknikere – det er allerede i dine daglige værktøjer. Forståelse giver dig selvtillid og mulighed for at bruge det smartere."
+  },
+  {
+    "title": "Hvad betyder 'kunstig intelligens' egentlig?",
+    "body": "Kunstig intelligens (Artificial Intelligence eller AI) er, når en computer udfører opgaver, der normalt kræver menneskelig intelligens: at forstå sprog, genkende billeder, træffe beslutninger eller løse problemer. Det er ikke magi – det er matematik og data. AI efterligner ikke hjernen 100 %, men bruger algoritmer til at finde mønstre. Vigtigt: AI er stadig 'smal' – den er super god til én ting ad gangen.",
+    "question": "Hvad er den bedste definition af kunstig intelligens?",
+    "options": [
+      "En computer der tænker og føler præcis som et menneske",
+      "En computer der udfører opgaver, der normalt kræver menneskelig intelligens",
+      "En robot der kan gå og tale",
+      "Et program der kun kan regne tal"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! AI handler om at udføre intelligente opgaver – ikke om at have følelser eller bevidsthed."
+  },
+  {
+    "title": "Alan Turing og testen fra 1950",
+    "body": "I 1950 spurgte den britiske matematiker Alan Turing: 'Kan maskiner tænke?' Han opfandt Turing-testen: hvis en computer kan føre en samtale, så en person ikke kan skelne den fra et menneske, så har den 'intelligens'. Testen blev startskuddet til AI-forskningen. Turing viste, at intelligens ikke behøver at være biologisk – den kan være kunstig.",
+    "question": "Hvad var Alan Turings vigtigste bidrag til AI?",
+    "options": [
+      "Han byggede den første computer",
+      "Han opfandt Turing-testen og spurgte om maskiner kan tænke",
+      "Han lavede den første chatbot",
+      "Han trænede den første neurale netværk"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Turing-testen er stadig et centralt begreb, selvom den i dag kritiseres."
+  },
+  {
+    "title": "Dartmouth-konferencen 1956 – AI blev født",
+    "body": "I sommeren 1956 samledes forskere på Dartmouth College i USA. De kaldte det 'Artificial Intelligence'. Her blev AI officielt et forskningsfelt. De troede, at alle aspekter af læring og intelligens kunne beskrives så præcist, at en maskine kunne simulere det. Det blev starten på 70 års udvikling.",
+    "question": "Hvad skete der på Dartmouth-konferencen i 1956?",
+    "options": [
+      "Den første computer blev bygget",
+      "AI blev officielt et forskningsfelt",
+      "ChatGPT blev præsenteret",
+      "Den første neurale netværk blev trænet"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Det var her navnet 'kunstig intelligens' blev født."
+  },
+  {
+    "title": "AI-vintrene – hvorfor udviklingen stoppede",
+    "body": "I 1970'erne og 1980'erne kom to 'AI-vintre'. Forskningen stoppede, fordi computere var for langsomme, og der manglede data. Virksomhederne mistede troen. Men i 1990'erne og 2000'erne kom billigere regnekraft og internettet – pludselig havde vi masser af data. Det var starten på det boom, vi ser i dag.",
+    "question": "Hvad var hovedårsagen til AI-vintrene?",
+    "options": [
+      "For mange data",
+      "Manglende regnekraft og data",
+      "For meget fokus på etik",
+      "Regeringen stoppede finansieringen"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Uden kraftfulde computere og store datasæt kunne AI ikke udvikle sig."
+  },
+  {
+    "title": "Fra regelbaseret til data-drevet AI",
+    "body": "Tidlig AI var regelbaseret: 'hvis dette, så det'. Det virkede godt til simple spil som skak, men fejlede på komplekse opgaver. I dag er AI data-drevet: den lærer mønstre fra millioner af eksempler. Det er derfor ChatGPT kan skrive tekster – den har set milliarder af sætninger.",
+    "question": "Hvad er den store forskel mellem gammel og ny AI?",
+    "options": [
+      "Gammel AI brugte data, ny bruger regler",
+      "Ny AI lærer af data i stedet for faste regler",
+      "Gammel AI var hurtigere",
+      "Ny AI har ingen regler overhovedet"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Det er skiftet fra 'programmering' til 'læring'."
+  },
+  {
+    "title": "Hvad er en algoritme?",
+    "body": "En algoritme er bare en opskrift: en række trin, der løser et problem. I AI er algoritmen det, der fortæller computeren, hvordan den skal finde mønstre i data. Det er ikke magi – det er ren matematik. Tænk på det som en opskrift på at bage en kage: følg trinene, og du får resultatet.",
+    "question": "Hvad er en algoritme i AI-sammenhæng?",
+    "options": [
+      "En tilfældig proces",
+      "En række trin, der løser et problem",
+      "En database med svar",
+      "En menneskelig instruktør"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Algoritmer er fundamentet under al AI."
+  },
+  {
+    "title": "Hvad er en AI-model?",
+    "body": "En model er resultatet af træning. Det er det 'hjerne-lignende' system, der har lært mønstre fra data. Når du skriver til ChatGPT, sender du tekst til en model, der giver svar. Modellen er ikke koden – det er de vægtede forbindelser, der er blevet justeret gennem træning.",
+    "question": "Hvad er en AI-model?",
+    "options": [
+      "Koden der styrer computeren",
+      "Resultatet af træning – de lærte mønstre",
+      "Databasen med alle spørgsmål",
+      "Brugerens prompt"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Modellen er det lærte 'kendskab'."
+  },
+  {
+    "title": "Træning vs. inference",
+    "body": "Træning er den lange proces, hvor modellen lærer af enorme mængder data. Det kræver masser af regnekraft. Inference er det, der sker, når du bruger modellen: den giver et svar på din prompt. Du oplever kun inference – træningen sker bag kulisserne hos OpenAI, Google osv.",
+    "question": "Hvad sker der under 'inference'?",
+    "options": [
+      "Modellen trænes på ny data",
+      "Modellen giver et svar på din prompt",
+      "Data bliver slettet",
+      "Modellen bliver slettet"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Det er det, du oplever hver gang du bruger ChatGPT."
+  },
+  {
+    "title": "AI vs. traditionel software",
+    "body": "Traditionel software følger faste regler, du har programmeret. AI lærer selv af data. Eksempel: et regneark følger dine formler. En AI kan selv finde mønstre i salgsdata og foreslå næste års budget. Det er derfor AI føles 'smart'.",
+    "question": "Hvad er den største forskel på AI og traditionel software?",
+    "options": [
+      "AI er langsommere",
+      "AI lærer selv af data i stedet for faste regler",
+      "Traditionel software har ingen fejl",
+      "AI kræver ingen computer"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Det er skiftet fra programmering til læring."
+  },
+  {
+    "title": "Smal AI – det vi har i dag",
+    "body": "Den AI vi bruger i 2026 er 'smal AI' (narrow AI). Den er ekstremt god til én opgave: oversætte tekst, genkende billeder eller skrive e-mails. Den kan ikke gøre alt på én gang som et menneske. Det er stadig det mest almindelige niveau.",
+    "question": "Hvad er smal AI?",
+    "options": [
+      "AI der kan alt som et menneske",
+      "AI der er super god til én specifik opgave",
+      "AI der kun virker i laboratoriet",
+      "AI der har bevidsthed"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Alt hvad du bruger i dag er smal AI."
+  },
+  {
+    "title": "Generel AI og superintelligens – fremtiden",
+    "body": "Generel AI (AGI) ville kunne udføre enhver intellektuel opgave som et menneske. Superintelligens ville overgå os på alle områder. Det er stadig teori i 2026. De fleste eksperter tror, vi er flere år fra det – men det er vigtigt at forstå forskellen.",
+    "question": "Hvad er forskellen på smal AI og generel AI?",
+    "options": [
+      "Smal AI kan alt, generel kan kun én ting",
+      "Generel AI kan udføre alle intellektuelle opgaver som et menneske",
+      "Der er ingen forskel",
+      "Generel AI findes allerede"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Vi har stadig kun smal AI."
+  },
+  {
+    "title": "Data – AI's råmateriale",
+    "body": "Data er brændstoffet for AI. Uden data kan ingen model lære. Jo flere og bedre data, jo bedre AI. Virksomheder med gode data har en kæmpe fordel. Tænk på det som benzin til en bil – uden benzin kører den ikke.",
+    "question": "Hvorfor kaldes data 'AI's råmateriale'?",
+    "options": [
+      "Fordi det er dyrt at købe",
+      "Fordi modellen lærer af data præcis som vi lærer af erfaring",
+      "Fordi data kun bruges til grafik",
+      "Fordi det er ligegyldigt"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Uden data ingen læring."
+  },
+  {
+    "title": "Hvorfor store mængder data er vigtige",
+    "body": "Store sprogmodeller som GPT-4o er trænet på hundreder af milliarder af tekster fra internettet, bøger og artikler. Jo flere data, jo bedre forstår modellen mønstre i sprog. Det er derfor nyere modeller bliver bedre og bedre.",
+    "question": "Hvorfor har store sprogmodeller brug for enorme datamængder?",
+    "options": [
+      "For at gøre dem langsommere",
+      "For at lære komplekse mønstre i sprog og viden",
+      "For at spare regnekraft",
+      "For at gøre dem billigere"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Større data = bedre mønstergenkendelse."
+  },
+  {
+    "title": "Kvalitet af data betyder alt",
+    "body": "Det er ikke kun mængden – kvaliteten tæller. Forkerte eller biased data giver biased AI. Virksomheder bruger meget tid på at rense og strukturere deres data før de træner modeller. 'Garbage in, garbage out' gælder stadig.",
+    "question": "Hvad sker der hvis man træner AI på dårlige data?",
+    "options": [
+      "Modellen bliver bedre",
+      "Modellen bliver biased eller giver forkerte svar",
+      "Intet – data er ligegyldigt",
+      "Modellen bliver hurtigere"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Kvalitet er mindst lige så vigtig som mængde."
+  },
+  {
+    "title": "Myte 1: AI har bevidsthed",
+    "body": "Mange tror AI tænker som os. Sandheden er, at den kun simulerer intelligens. Den har ingen bevidsthed, følelser eller forståelse – den forudsiger bare det næste ord baseret på sandsynlighed.",
+    "question": "Har nutidens AI bevidsthed?",
+    "options": [
+      "Ja, den tænker præcis som et menneske",
+      "Nej, den simulerer kun intelligens uden bevidsthed",
+      "Kun de største modeller har det",
+      "Det ved ingen"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Det er en vigtig myte at aflive."
+  },
+  {
+    "title": "Myte 2: AI erstatter alle jobs med det samme",
+    "body": "AI erstatter ikke jobs – den ændrer dem. Nogle opgaver forsvinder, men nye opstår. Medarbejdere der kan bruge AI bliver mere værdifulde. Historien viser, at teknologi skaber flere jobs end den fjerner.",
+    "question": "Hvad sker der med jobs når AI kommer?",
+    "options": [
+      "Alle jobs forsvinder øjeblikkeligt",
+      "Jobs ændres – nogle forsvinder, nye opstår",
+      "Kun IT-jobs forsvinder",
+      "Ingen ændring sker"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! AI er et værktøj, ikke en erstatning."
+  },
+  {
+    "title": "Myte 3: AI er kun for store tech-virksomheder",
+    "body": "I dag kan enhver virksomhed bruge AI via simple værktøjer som ChatGPT, Claude eller Microsoft Copilot. Du behøver ikke eget datacenter. Små og mellemstore virksomheder har lige så stor gavn.",
+    "question": "Kan almindelige virksomheder bruge AI?",
+    "options": [
+      "Nej, kun de største tech-virksomheder",
+      "Ja, via simple værktøjer som ChatGPT og Copilot",
+      "Kun hvis de har egne data scientists",
+      "Kun i 2027 og frem"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! AI er tilgængeligt for alle nu."
+  },
+  {
+    "title": "AI i din daglige kontorhverdag",
+    "body": "Tænk på en typisk dag: AI kan opsummere lange mails, lave mødereferater, foreslå svar i Teams, lave PowerPoint-slides eller analysere Excel-tal. Det sparer tid, så du kan fokusere på det der kræver menneskelig kreativitet.",
+    "question": "Hvordan kan AI hjælpe i en almindelig kontordag?",
+    "options": [
+      "Kun med meget avancerede opgaver",
+      "Med opsummering, referater, svarforslag og analyse",
+      "Kun med grafik",
+      "Slet ikke"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Det er allerede en del af hverdagen."
+  },
+  {
+    "title": "Eksempler fra Outlook, Teams og Excel",
+    "body": "Microsoft Copilot i Outlook kan skrive mails for dig. I Teams laver det automatiske referater. I Excel kan det analysere data og lave grafer. Det er konkrete eksempler på, hvordan AI allerede hjælper danske medarbejdere.",
+    "question": "Hvilket værktøj kan lave automatiske mødereferater i Teams?",
+    "options": [
+      "Kun ChatGPT",
+      "Microsoft Copilot",
+      "Kun Google Docs",
+      "Ingen af dem"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Copilot er integreret i Microsoft 365."
+  },
+  {
+    "title": "AI som hjælp til beslutninger",
+    "body": "AI kan hurtigt opsummere store mængder information og pege på mønstre. Det giver dig bedre grundlag for beslutninger – men du tager stadig den endelige beslutning. AI er din super-assistent.",
+    "question": "Hvad er AI's rolle i beslutninger?",
+    "options": [
+      "Den træffer alle beslutninger alene",
+      "Den giver bedre grundlag, men du beslutter",
+      "Den er irrelevant for beslutninger",
+      "Den er altid bedre end mennesker"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! AI støtter – mennesket beslutter."
+  },
+  {
+    "title": "AI i kundeservice og salg",
+    "body": "Chatbots svarer på simple spørgsmål 24/7. Salgs-teams bruger AI til at prioritere leads. Det frigiver tid til de kunder, der har brug for personlig kontakt.",
+    "question": "Hvordan bruges AI typisk i kundeservice?",
+    "options": [
+      "Kun til at afvise kunder",
+      "Til at håndtere simple spørgsmål 24/7",
+      "Kun til at ringe kunder op",
+      "Slet ikke"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Det giver bedre kundeservice."
+  },
+  {
+    "title": "Nøglebegreb: Machine Learning",
+    "body": "Machine Learning (ML) er den del af AI, hvor modeller lærer af data uden at blive eksplicit programmeret. Det er det mest brugte underområde i dag.",
+    "question": "Hvad er Machine Learning?",
+    "options": [
+      "AI der kun følger regler",
+      "AI der lærer af data uden eksplicit programmering",
+      "AI der kun tegner billeder",
+      "AI der er programmeret af mennesker"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! ML er hjertet i moderne AI."
+  },
+  {
+    "title": "Nøglebegreb: Neural Networks",
+    "body": "Neurale netværk er inspireret af hjernens neuroner. De består af lag af 'neuroner' der sender signaler. Det er det, der gør det muligt for AI at genkende billeder eller forstå sprog.",
+    "question": "Hvad er et neuralt netværk?",
+    "options": [
+      "Et program der kun regner tal",
+      "Et netværk af kunstige neuroner inspireret af hjernen",
+      "En database",
+      "En simpel regel"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Det er fundamentet for dyb læring."
+  },
+  {
+    "title": "Nøglebegreb: Deep Learning",
+    "body": "Deep Learning er Machine Learning med mange lag i neurale netværk. Det er det, der har gjort store fremskridt inden for billedgenkendelse og sprogmodeller de seneste 10 år.",
+    "question": "Hvad betyder 'deep' i Deep Learning?",
+    "options": [
+      "Det er meget kompliceret",
+      "Det har mange lag i det neurale netværk",
+      "Det er dybt hemmelig",
+      "Det bruger kun dyb data"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Flere lag = bedre læring af komplekse mønstre."
+  },
+  {
+    "title": "AI i 2026 – hvor vi er nu",
+    "body": "I 2026 er AI integreret i næsten alle større værktøjer. Multimodale modeller håndterer både tekst, billeder og video. Virksomheder bruger det til at automatisere rutineopgaver og skabe nye værdier.",
+    "question": "Hvad er status for AI i 2026?",
+    "options": [
+      "AI er stadig kun i laboratorier",
+      "AI er integreret i de fleste forretningsværktøjer",
+      "AI er forbudt i Europa",
+      "Kun få virksomheder bruger det"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Vi er midt i et massivt gennembrud."
+  },
+  {
+    "title": "Hvad AI kan i dag",
+    "body": "AI kan skrive tekster, oversætte, lave billeder, analysere data, lave kode, opsummere møder og meget mere. Det sparer timer hver uge for de fleste medarbejdere.",
+    "question": "Hvilket af disse kan nutidens AI?",
+    "options": [
+      "Kun regne regninger",
+      "Skrive tekster, lave billeder og analysere data",
+      "Kun køre biler",
+      "Kun spille skak"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Listen bliver længere hver måned."
+  },
+  {
+    "title": "Hvad AI stadig ikke kan",
+    "body": "AI kan ikke forstå følelser, tage etiske beslutninger, have ægte empati eller garantere 100 % korrekte svar. Den hallucinerer stadig og mangler sund fornuft.",
+    "question": "Hvad kan AI ikke i dag?",
+    "options": [
+      "Skrive tekster",
+      "Forstå ægte følelser og tage etiske beslutninger",
+      "Analysere data",
+      "Oversætte sprog"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Det er vigtigt at kende begrænsningerne."
+  },
+  {
+    "title": "Dit nye AI-vokabularium",
+    "body": "Nu kender du ordene: AI, Machine Learning, Neural Networks, model, træning, inference, data. Brug dem når du taler med kolleger eller ledelse – det giver selvtillid.",
+    "question": "Hvad er det vigtigste du har fået med fra Modul 1?",
+    "options": [
+      "Kun historiske datoer",
+      "Et solidt grundvokabularium og forståelse af hvad AI er",
+      "Kun myter",
+      "Kun kode-eksempler"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Du er nu klar til næste modul."
+  },
+  {
+    "title": "Hvordan du fortsætter med at lære",
+    "body": "Brug det du har lært: prøv at stille et godt spørgsmål til ChatGPT i dag. Følg med i nyhederne. Og husk – det tager tid, men hver fane i WaitLearn giver dig et lille skridt frem.",
+    "question": "Hvad er det bedste næste skridt efter dette modul?",
+    "options": [
+      "Glemme alt om AI",
+      "Prøve AI i praksis og fortsætte til næste modul",
+      "Kun læse bøger",
+      "Vent på at AI bliver bedre"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Handling + fortsat læring er nøglen."
+  },
+  {
+    "title": "Modul 1 – næsten færdig",
+    "body": "Du er næsten igennem grundlaget. Du ved nu, hvad AI er, hvor det kommer fra, og hvad det kan og ikke kan. Det er et stærkt fundament for resten af serien.",
+    "question": "Hvad er det vigtigste fundament du har fået?",
+    "options": [
+      "Kun historiske facts",
+      "Forståelse af hvad AI er, dens historie og begrænsninger",
+      "Kun kode",
+      "Kun billedgenerering"
+    ],
+    "correct": 1,
+    "explanation": "Super! Du er klar til Maskinlæring i Modul 2."
+  },
+  {
+    "title": "Opsummering af Modul 1 – Dit nye AI-fundament",
+    "body": "Tillykke! Du har nu gennemgået grundbegreberne og historikken bag kunstig intelligens. Du ved, hvad AI er, hvordan det adskiller sig fra almindelig software, de vigtigste milepæle fra Turing til i dag, og hvorfor data er brændstoffet. Du har også fået aflivet nogle myter. Dette er dit fundament – nu er du klar til at dykke ned i maskinlæring i næste modul. Gem denne viden: næste gang en kollega siger 'AI er bare hype', kan du forklare historien og hvorfor det er her for at blive.",
+    "question": "Hvad er det vigtigste du har lært i Modul 1?",
+    "options": [
+      "AI er kun relevant for fremtiden",
+      "AI er en teknologi baseret på data og algoritmer med en lang historie – og den er allerede her",
+      "AI har bevidsthed og erstatter alle jobs",
+      "AI startede først i 2022 med ChatGPT"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Du har nu et solidt fundament. Du er officielt 'AI-sikker' på basisniveau. 🎉"
+  }
+]
