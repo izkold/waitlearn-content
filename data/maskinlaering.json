@@ -1,0 +1,435 @@
+[
+  {
+    "title": "Velkommen til Maskinlæring - næste skridt i din AI-rejse",
+    "body": "Tillykke med at du er nået til Modul 2! I Modul 1 lærte du, hvad AI er, og hvorfor det er relevant for dig som medarbejder. Nu dykker vi ned i det vigtigste underområde: <b>Maskinlæring</b> (Machine Learning eller ML). Det er her, de fleste moderne AI-værktøjer får deres 'intelligens' fra. Du kommer til at forstå, hvordan maskiner faktisk lærer af data - uden at blive programmeret med faste regler. Det er fundamentet for alt fra ChatGPT til salgsprognoser i din virksomhed.",
+    "question": "Hvad er det vigtigste nye du skal lære i Modul 2?",
+    "options": [
+      "Kun historiske datoer om AI",
+      "Hvordan maskiner lærer af data gennem Machine Learning",
+      "Kun hvordan man laver billeder med AI",
+      "Kun regler for GDPR"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Machine Learning er hjertet i moderne AI og forklarer, hvordan de værktøjer du bruger hver dag bliver smartere."
+  },
+  {
+    "title": "Hvad er Machine Learning egentlig?",
+    "body": "Machine Learning er den del af AI, hvor computere <b>lærer af data</b> i stedet for at følge faste programmerede regler. I stedet for at en programmør skriver 'hvis kunden køber X, så sælg Y', giver vi maskinen tusindvis af eksempler, og den finder selv mønstre. Det er derfor AI føles 'smart' - den lærer af erfaring, ligesom vi gør.",
+    "code": "Traditionel kode: if x > 10: print('stor')\nML-tilgang: vis modellen 1000 eksempler, så lærer den selv grænsen",
+    "question": "Hvad er den største forskel mellem traditionel programmering og Machine Learning?",
+    "options": [
+      "I ML lærer maskinen selv mønstre fra data i stedet for at følge faste regler",
+      "I ML skal man skrive flere regler manuelt",
+      "ML kræver ingen data overhovedet",
+      "ML kan kun bruges til computerspil"
+    ],
+    "correct": 0,
+    "explanation": "Præcis! Det er skiftet fra 'fortæl maskinen hvad den skal gøre' til 'vis maskinen eksempler og lad den lære'."
+  },
+  {
+    "title": "AI vs. Machine Learning - hvad er forskellen?",
+    "body": "<b>AI</b> er det brede paraplybegreb (alt der efterligner intelligens). <b>Machine Learning</b> er en teknik inden for AI. Alle ML-systemer er AI, men ikke al AI er ML (fx gamle regelbaserede systemer). I dag er næsten al ny AI baseret på ML.",
+    "question": "Hvilken af følgende påstande om AI og ML er <b>ikke</b> korrekt?",
+    "options": [
+      "ML er en undergruppe af AI",
+      "Regelbaseret AI findes og er ikke ML",
+      "AI og ML er præcis det samme begreb",
+      "Moderne AI er oftest baseret på ML"
+    ],
+    "correct": 2,
+    "explanation": "Korrekt fundet! AI og ML er ikke det samme. ML er én af flere metoder til at bygge AI, men den mest udbredte i 2026."
+  },
+  {
+    "title": "Hvordan starter læringen? Data er nøglen",
+    "body": "Maskinlæring starter altid med <b>data</b>. Jo flere og bedre data, jo bedre lærer modellen. Data kan være salgsnumre, kundemails, billeder eller klik på en hjemmeside. Modellen leder efter mønstre: 'når X sker, sker Y ofte'. Det er præcis det samme som når du lærer af dine egne erfaringer.",
+    "question": "Hvad er det første trin i enhver Machine Learning-proces?",
+    "options": [
+      "At vælge en farverig graf",
+      "At skrive kode til et spil",
+      "At spørge chefen om tilladelse",
+      "At samle og forberede data"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt! Uden data ingen læring. 'Garbage in, garbage out' er et af de ældste og stadig gyldige principper i ML."
+  },
+  {
+    "title": "Features og labels - maskinens byggesten",
+    "body": "<b>Features</b> er de oplysninger maskinen får (fx kundens alder, købshistorik, tid på siden). <b>Labels</b> er det rigtige svar (fx 'kunden købte ja/nej'). I supervised learning viser vi både features og labels, så maskinen kan lære sammenhængen.",
+    "code": "Eksempel:\nFeatures: [alder=34, tid_på_site=180sek, tidligere_køb=3]\nLabel: købte_igen = JA",
+    "question": "Hvad er 'features' i Machine Learning?",
+    "options": [
+      "De input-oplysninger maskinen lærer af",
+      "Det rigtige svar maskinen skal forudsige",
+      "Den færdige trænede model",
+      "Kun tekst-baserede data"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt! Features er de input-variabler modellen bruger. Labels er det rigtige svar. Sammen udgør de træningsdata."
+  },
+  {
+    "title": "Træning af en model - trin for trin",
+    "body": "Træning er processen hvor modellen <b>justerer sine interne parametre</b> for at minimere fejl. Den får et datasæt, gætter, ser det rigtige svar, og retter sig selv tusindvis af gange. Det kræver meget regnekraft, men sker kun én gang - bagefter kan modellen bruges hurtigt.",
+    "question": "Komplet sætningen: Under træning justerer modellen sine parametre for at ___",
+    "options": [
+      "slette alle data",
+      "minimere fejl baseret på eksemplerne",
+      "erstatte programmøren",
+      "gemme flere billeder"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Træning handler om at finjustere tusindvis (eller milliarder) af parametre, så modellens gæt bliver så præcise som muligt."
+  },
+  {
+    "title": "Supervised Learning - den mest brugte type",
+    "body": "<b>Supervised Learning</b> er som at have en lærer: du viser eksempler med både spørgsmål (features) og de rigtige svar (labels). Modellen lærer at forudsige nye svar. Eksempler: spam-filtrering, kreditvurdering eller salgsprognoser.",
+    "question": "Din virksomhed vil bygge et system, der automatisk markerer mails som vigtige/ikke-vigtige. I har 50.000 gamle mails som allerede er markeret. Hvilken type ML passer bedst?",
+    "options": [
+      "Unsupervised Learning, da mails er tekst",
+      "Reinforcement Learning, fordi det skal lære over tid",
+      "Supervised Learning, fordi I har labels (vigtig/ikke-vigtig)",
+      "Ingen ML er nødvendig"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt! Når I har labels fra tidligere afgørelser, er supervised learning det oplagte valg. Det er den mest brugte type i erhvervslivet."
+  },
+  {
+    "title": "Unsupervised Learning - mønstre uden svar",
+    "body": "Her får modellen <b>kun data uden labels</b>. Den skal selv finde mønstre og grupperinger. Klassisk eksempel: kundesegmentering - 'disse kunder ligner hinanden'. Det er godt til at opdage skjulte sammenhænge man ikke vidste var der.",
+    "question": "Hvad kendetegner Unsupervised Learning?",
+    "options": [
+      "Modellen får altid de rigtige svar fra en lærer",
+      "Det kan kun bruges til tekstoversættelse",
+      "Det kræver ingen data overhovedet",
+      "Modellen finder mønstre i data uden at få labels"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt! Unsupervised learning er perfekt til at opdage nye indsigter i eksisterende data - fx kundesegmenter du ikke vidste fandtes."
+  },
+  {
+    "title": "Reinforcement Learning - læring gennem belønning",
+    "body": "<b>Reinforcement Learning</b> er som at træne en hund med godbidder. Modellen prøver handlinger, får belønning eller straf, og lærer gradvist den bedste strategi. Bruges i spil (AlphaGo), robotter og optimering af lagerbeholdning.",
+    "question": "Hvad sker der hvis en Reinforcement Learning-model aldrig får belønning eller straf?",
+    "options": [
+      "Den kan ikke lære en optimal strategi, fordi den intet signal har at følge",
+      "Den lærer hurtigere uden feedback",
+      "Den bliver automatisk til en supervised model",
+      "Den gemmer flere data"
+    ],
+    "correct": 0,
+    "explanation": "Præcis! Belønning og straf er selve læringssignalet i RL. Uden det har modellen ingen retning at gå i."
+  },
+  {
+    "title": "Regression - forudsigelse af tal",
+    "body": "<b>Regression</b> bruges, når svaret er et kontinuerligt tal: næste måneds salg, huspriser, kundens forventede levetid. Den klassiske model er lineær regression, men der findes mange avancerede varianter.<br><br>Eksempel: Du ved at hver 10 % stigning i marketingbudget gav +4 % i salg sidste år.",
+    "code": "Budget sidste måned: 100.000 kr → Salg: 500.000 kr\nBudget denne måned: 110.000 kr (+10%)\nForventet salg: 500.000 × 1,04 = ?",
+    "question": "Hvad bliver det forventede salg i eksemplet ovenfor?",
+    "options": [
+      "510.000 kr",
+      "520.000 kr",
+      "540.000 kr",
+      "600.000 kr"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! 500.000 × 1,04 = 520.000 kr. Regression bruger netop den slags lineære sammenhænge til at forudsige tal."
+  },
+  {
+    "title": "Classification - ja/nej eller kategori",
+    "body": "<b>Classification</b> bruges, når svaret er en kategori: spam/ikke-spam, churn/ikke-churn, syg/ikke-syg. Modellen lærer at placere nye eksempler i den rigtige 'boks'.",
+    "question": "Din kundeservice-chef vil prioritere indkomne supportmails i tre kasser: 'akut', 'normal', 'kan vente'. Hvilken ML-opgave er det?",
+    "options": [
+      "Regression, fordi det handler om tid",
+      "Clustering, fordi der er flere grupper",
+      "Classification med tre klasser",
+      "Reinforcement Learning"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt! Når outputtet er faste kategorier (akut/normal/kan vente), er det classification - uanset om der er to eller flere klasser."
+  },
+  {
+    "title": "De tre ML-typer på rad og række",
+    "body": "For at få et hurtigt overblik skal du kunne kende forskel på <b>supervised</b>, <b>unsupervised</b> og <b>reinforcement learning</b>. Tænk på dem i stigende grad af 'frihed' modellen har.",
+    "question": "Sortér de tre ML-typer efter hvor meget eksplicit vejledning (labels/regler) modellen får - fra mest til mindst.",
+    "type": "drag",
+    "items": [
+      "Supervised Learning (får både input og det rigtige svar)",
+      "Reinforcement Learning (får belønning/straf, men intet facit)",
+      "Unsupervised Learning (får kun data, ingen svar eller feedback)"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Rigtigt! Supervised har mest vejledning (facit), reinforcement får kun signaler om godt/dårligt, og unsupervised skal selv finde mønstre."
+  },
+  {
+    "title": "Train/test split - hvorfor vi deler data",
+    "body": "For at sikre at modellen kan <b>generalisere</b>, deler vi data i to: træningsdata og testdata. Modellen må aldrig se testdata under træning - det er som en eksamen den aldrig har set før. Typisk fordeling er 80/20.",
+    "code": "Datasæt: 10.000 rækker\nTrain (80%): 8.000 rækker → bruges til at lære\nTest (20%):  2.000 rækker → bruges til at måle kvalitet",
+    "question": "Du har 10.000 datapunkter og bruger 80/20 split. Hvor mange bruges til at teste den færdige model?",
+    "options": [
+      "8.000",
+      "10.000",
+      "1.000",
+      "2.000"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt! 20 % af 10.000 er 2.000 datapunkter til test. De holdes adskilt, så modellen ikke kan 'snyde'."
+  },
+  {
+    "title": "Overfitting - når modellen kan for meget",
+    "body": "<b>Overfitting</b> sker, når modellen lærer støj og små detaljer i træningsdataene udenad. Den scorer 100 % på træningsdata, men fejler på nye data. Det er som en elev der har lært eksamensopgaverne udenad uden at forstå stoffet.",
+    "question": "Hvilken af følgende påstande om overfitting er <b>ikke</b> korrekt?",
+    "options": [
+      "En overfittet model fungerer også perfekt på nye, usete data",
+      "Overfitting sker typisk når modellen er for kompleks i forhold til data",
+      "Et tegn på overfitting er stor forskel på trænings- og testperformance",
+      "Regularization og mere data kan hjælpe mod overfitting"
+    ],
+    "correct": 0,
+    "explanation": "Godt fanget! Det er netop kendetegnet ved overfitting at den IKKE virker på nye data - kun på dem den har set før."
+  },
+  {
+    "title": "Underfitting - når modellen er for simpel",
+    "body": "<b>Underfitting</b> sker, når modellen er for grov og ikke fanger mønstrene. Den klarer sig dårligt både på trænings- og testdata. Løsningen er ofte en mere kompleks model eller flere/bedre features.",
+    "question": "Hvad er underfitting?",
+    "options": [
+      "Når modellen er for kompleks og lærer støj udenad",
+      "Når modellen er for simpel og ikke fanger mønstrene i data",
+      "Når modellen har for mange hyperparameters",
+      "Når modellen kun bruger reinforcement learning"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Underfitting og overfitting er to yderpunkter. Målet er at ramme 'sweet spot' i midten - god generalisering uden at huske støj."
+  },
+  {
+    "title": "Neural Networks og Deep Learning",
+    "body": "<b>Neurale netværk</b> er en særlig type ML inspireret af hjernens neuroner. De har mange lag der kan lære meget komplekse mønstre. <b>Deep Learning</b> er simpelthen neurale netværk med mange lag - det er det, der driver ChatGPT, billedgeneratorer og moderne stemmegenkendelse.",
+    "question": "Hvad er Deep Learning?",
+    "options": [
+      "Machine Learning uden brug af neurale netværk",
+      "En form for reinforcement learning til robotter",
+      "Neurale netværk med mange lag (deep = dyb arkitektur)",
+      "Det samme som regelbaseret AI"
+    ],
+    "correct": 2,
+    "explanation": "Præcis! 'Deep' henviser netop til antallet af lag. Det har revolutioneret AI de seneste 10 år og ligger bag de fleste moderne gennembrud."
+  },
+  {
+    "title": "ML i salg og marketing",
+    "body": "En marketingafdeling kan bruge ML til at forudsige, hvilke kunder der er mest sandsynlige for at købe igen. Modellen ser på tidligere køb, klik, demografi og emails - og giver hver kunde en <b>score</b>.",
+    "question": "Din marketingchef vil bruge budgettet der hvor chancen for salg er størst. Hvordan hjælper ML bedst?",
+    "options": [
+      "Ved at lave tilfældige annoncer til alle kunder",
+      "Ved at oversætte produkttekster til 10 sprog",
+      "Ved at slette kundedata for at spare GDPR-besvær",
+      "Ved at score hver kunde efter købssandsynlighed, så budgettet går til de mest lovende"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt! Det kaldes 'propensity scoring' og er en af de mest almindelige kommercielle ML-anvendelser."
+  },
+  {
+    "title": "ML i HR og rekruttering",
+    "body": "HR kan bruge ML til at screene CV'er og forudsige, hvilke kandidater der passer bedst til kulturen eller rollen. Modellen lærer af tidligere succesfulde ansættelser - men husk: bias i gamle data giver biased modeller.",
+    "question": "Du er HR-chef og vil bruge ML til at prioritere 500 CV'er. Hvad er den klogeste tilgang?",
+    "options": [
+      "Lad ML filtrere dem og bruge mennesker til at gennemgå top-kandidaterne med kritisk blik",
+      "Lad ML tage den endelige ansættelsesbeslutning alene",
+      "Brug ingen data - kun intuition",
+      "Ansæt alle 500 kandidater og test dem efterfølgende"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt! ML er en god prioriteringsassistent, men menneskelig vurdering skal altid have det sidste ord - især pga. bias-risikoen."
+  },
+  {
+    "title": "Loss function - sådan måler modellen sin egen fejl",
+    "body": "Under træning bruger modellen en <b>loss function</b> til at måle hvor forkert dens gæt er. Jo lavere loss, jo bedre. En <b>optimizer</b> (fx gradient descent) justerer derefter parametrene for at sænke loss trin for trin.",
+    "question": "Komplet sætningen: En loss function er en matematisk måde at ___",
+    "options": [
+      "slette træningsdata efter brug",
+      "måle hvor stor fejl modellen laver i sine forudsigelser",
+      "vælge farver på grafer",
+      "gøre træningen langsommere med vilje"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Loss er 'straffen' modellen får for at gætte forkert. Træning handler om at minimere denne straf."
+  },
+  {
+    "title": "Fordele ved ML i en virksomhed",
+    "body": "ML kan <b>automatisere rutinebeslutninger</b>, finde mønstre mennesker overser, og skalere personlig service til tusindvis af kunder. Men det kræver gode data, klare mål og realistiske forventninger.",
+    "question": "Hvilken af følgende påstande om ML's fordele er <b>ikke</b> realistisk?",
+    "options": [
+      "ML kan skalere personalisering til mange kunder på én gang",
+      "ML kan erstatte alle medarbejdere på få måneder uden risiko",
+      "ML kan finde mønstre som mennesker overser",
+      "ML kan automatisere gentagne beslutninger"
+    ],
+    "correct": 1,
+    "explanation": "Godt fanget! ML erstatter ikke alle jobs. Det understøtter medarbejderne i specifikke opgaver og kræver både tid, data og tilpasning."
+  },
+  {
+    "title": "Udfordringer ved Machine Learning",
+    "body": "ML kræver meget data, regnekraft og tid. Modeller kan være <b>biased</b> hvis data er biased. Og de kan ofte ikke forklare deres egne beslutninger (<b>black box</b>-problemet). Derfor er menneskelig oversight altid en vigtig del af løsningen.",
+    "question": "Hvad sker der hvis I træner en ML-model på historiske ansættelsesdata hvor kvinder systematisk blev fravalgt?",
+    "options": [
+      "Modellen bliver automatisk neutral, fordi den er matematisk",
+      "Modellen bliver hurtigere end en menneskelig screening",
+      "Modellen bliver mere præcis end supervised learning",
+      "Modellen vil sandsynligvis videreføre bias og også fravælge kvinder"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt og vigtigt! ML lærer præcis de mønstre der er i dataene - inklusive historisk bias. Derfor skal man altid kigge kritisk på sine træningsdata."
+  },
+  {
+    "title": "Hvordan du kan bruge ML uden at kode",
+    "body": "Du behøver ikke at være data scientist. Værktøjer som <b>Microsoft Copilot</b>, <b>Google Vertex AI</b> og <b>AutoML</b>-platforme lader dig bruge ML direkte i Excel, Power BI eller via simple API-kald. Også ChatGPT og Claude er ML under hætten.",
+    "question": "Du arbejder i Excel og vil forudsige næste måneds salg ud fra tidligere tal. Hvad er den hurtigste vej?",
+    "options": [
+      "Brug Copilot eller en indbygget prognose-funktion i Excel - de bruger ML bag kulisserne",
+      "Lær Python, TensorFlow og lineær algebra først",
+      "Køb en supercomputer til kontoret",
+      "Vente til 2030 hvor værktøjerne bliver tilgængelige"
+    ],
+    "correct": 0,
+    "explanation": "Præcis! ML er blevet demokratiseret. Du kan få god værdi ud af det med værktøjer du allerede bruger hver dag."
+  },
+  {
+    "title": "Modellens livscyklus i en virksomhed",
+    "body": "En ML-model er ikke en 'one-shot' ting. Den går gennem flere faser, og hele cyklussen skal gentages når verden ændrer sig (nye kunder, nye produkter, nye markedsforhold).",
+    "question": "Sortér faserne i en ML-models livscyklus i den rigtige rækkefølge.",
+    "type": "drag",
+    "items": [
+      "Data-indsamling og forberedelse",
+      "Træning af modellen på træningsdata",
+      "Validering og test på ukendte data",
+      "Deployment - sættes i produktion",
+      "Overvågning og gen-træning når performance falder"
+    ],
+    "correct_order": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "Rigtigt! Livscyklussen er cirkulær - overvågning leder ofte tilbage til ny dataindsamling og gentræning. Det kaldes <b>MLOps</b>."
+  },
+  {
+    "title": "Nøgleord: Hyperparameters",
+    "body": "<b>Hyperparameters</b> er de indstillinger du vælger <b>før</b> træningen starter - fx antal lag i et neuralt netværk, hvor hurtigt modellen skal lære (learning rate), eller hvor mange træer i en random forest. De er forskellige fra <b>parameters</b>, som modellen selv lærer under træning.",
+    "question": "Hvad er hyperparameters?",
+    "options": [
+      "De vægtede forbindelser inde i et neuralt netværk",
+      "Indstillinger du selv vælger inden træning starter",
+      "De endelige forudsigelser modellen giver",
+      "Data-labels der bruges i supervised learning"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! Hyperparameters er dine 'knapper' til at tune modellen. At finde de bedste kaldes 'hyperparameter tuning'."
+  },
+  {
+    "title": "Hvordan ML forbedrer beslutninger",
+    "body": "I stedet for mavefornemmelse kan du få data-drevne sandsynligheder: '72 % chance for at denne kunde churner'. Det giver bedre, hurtigere og mere konsistente beslutninger - så længe du husker at en sandsynlighed ikke er en garanti.",
+    "code": "Model-output for kunde #4827:\nSandsynlighed for churn: 72%\nForventet tab hvis churn: 18.500 kr\nForventet værdi af intervention: 0,72 × 18.500 = 13.320 kr",
+    "question": "Modellen siger at en kunde har 72 % churn-sandsynlighed og I taber 18.500 kr hvis kunden forsvinder. Hvad er den forventede værdi af at gøre en redningsaktion?",
+    "options": [
+      "9.250 kr",
+      "5.180 kr",
+      "13.320 kr",
+      "18.500 kr"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt! 0,72 × 18.500 = 13.320 kr. Så længe en retention-kampagne koster mindre end det, er det en god forretning. Det er netop den slags beregning ML muliggør."
+  },
+  {
+    "title": "Fra prototype til produktion",
+    "body": "En model der virker i et Jupyter-notebook er kun halvdelen af vejen. Den skal kunne <b>skalere</b>, være <b>hurtig</b> nok til brugerne, være <b>sikker</b> og overvåges. Disciplinen der håndterer det kaldes <b>MLOps</b> (en pendant til DevOps).",
+    "question": "Din kollega har bygget en model der virker perfekt på hans laptop. Hvad bør I prioritere før I lader rigtige kunder bruge den?",
+    "options": [
+      "Slette al dokumentation for at spare plads",
+      "Lade modellen gå live samme dag og se hvad der sker",
+      "Ignorere tests - modellen virker jo",
+      "Gennemgå skalerbarhed, latenstid, sikkerhed og etabler overvågning"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! 'It works on my machine' er ikke nok i produktion. MLOps sikrer at modellen fortsat leverer værdi efter lancering."
+  },
+  {
+    "title": "Etik og bias i Machine Learning",
+    "body": "ML kan <b>forstærke bias</b> fra træningsdata. Derfor skal du altid spørge: Er vores data repræsentative? Er beslutningerne fair på tværs af grupper? Kan vi forklare resultaterne? EU's AI Act (fra 2024) stiller konkrete krav, især til 'high-risk' anvendelser.",
+    "question": "Hvilken af følgende påstande om bias i ML er <b>forkert</b>?",
+    "options": [
+      "Hvis træningsdata er biased, vil modellen oftest også blive det",
+      "Matematiske modeller er altid neutrale og kan ikke diskriminere",
+      "EU's AI Act regulerer høj-risiko ML-anvendelser",
+      "Bias kan reduceres ved at gennemgå data før træning"
+    ],
+    "correct": 1,
+    "explanation": "Godt fanget! Matematik er neutral, men data er ikke. En model der trænes på biased data vil afspejle og ofte forstærke den bias."
+  },
+  {
+    "title": "Hvad du nu kan genkende i værktøjer",
+    "body": "Næste gang du bruger Copilot, Claude eller ChatGPT, så ved du: det er ML (oftest <b>deep learning</b> i form af store sprogmodeller) der kører i baggrunden. Du forstår nu, hvorfor værktøjet kan foreslå det næste ord eller give et sammenhængende svar.",
+    "question": "Hvad ligger bag de fleste svar du får fra ChatGPT eller Claude?",
+    "options": [
+      "En simpel regelbase med faste svar",
+      "En person der skriver svarene manuelt",
+      "Store sprogmodeller trænet med deep learning på enorme tekstmængder",
+      "Tilfældige ord valgt fra en ordbog"
+    ],
+    "correct": 2,
+    "explanation": "Præcis! Du har nu forståelsen af hvad der foregår bag værktøjerne - og kan stille kvalificerede spørgsmål til dem du arbejder sammen med."
+  },
+  {
+    "title": "Dit nye ML-vokabularium",
+    "body": "Du kender nu ord som: <b>supervised</b>/<b>unsupervised</b>, <b>overfitting</b>, <b>features</b>, <b>labels</b>, <b>regression</b>, <b>classification</b>, <b>neural networks</b>, <b>hyperparameters</b>, <b>MLOps</b>. Brug dem i møder - det giver selvtillid og ryster fordomme om at AI er for 'de andre'.",
+    "question": "Komplet sætningen: Det vigtigste fra Modul 2 er en grundlæggende forståelse af ___",
+    "options": [
+      "hvordan man skriver Python-kode til billedgenerering",
+      "hvordan maskiner lærer mønstre fra data",
+      "udelukkende historiske AI-datoer",
+      "hvordan man laver farvede grafer i Excel"
+    ],
+    "correct": 1,
+    "explanation": "Super! Det tekniske fundament er på plads. Du står stærkere i enhver AI-diskussion fremadrettet."
+  },
+  {
+    "title": "Praktisk øvelse du kan prøve i dag",
+    "body": "Prøv i ChatGPT eller Copilot: 'Her er sidste 12 måneders salgstal - giv mig en prognose for næste måned og forklar hvilke mønstre du ser.' Med din nye viden kan du nu vurdere om svaret er rimeligt, fordi du forstår hvad modellen egentlig kigger på.",
+    "question": "Du har fået en salgs-prognose fra ChatGPT. Hvad er den smarteste næste handling?",
+    "options": [
+      "Acceptere tallet blindt uden at tjekke",
+      "Slette al data og starte forfra",
+      "Kun bruge teorien og aldrig afprøve ML i praksis",
+      "Spørge modellen om dens antagelser og sammenligne med dine egne mavefornemmelser før du bruger tallet"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! ML er et støtteværktøj. Jo bedre du forstår hvad der sker bag resultatet, jo bedre beslutninger kan du træffe."
+  },
+  {
+    "title": "Trends: hvad sker der i ML de næste år?",
+    "body": "ML-feltet udvikler sig hurtigt. Vigtige trends: <b>AutoML</b> (modeller der bygger modeller), <b>foundation models</b> (store generelle modeller der finetunes), <b>small language models</b> til edge devices, og stigende fokus på <b>forklarlig AI</b> og <b>energieffektivitet</b>.",
+    "question": "Hvad sker der sandsynligvis hvis din virksomhed venter 3 år med overhovedet at eksperimentere med ML?",
+    "options": [
+      "I sakker bagud konkurrenter der allerede har bygget intern erfaring og data-fundament",
+      "I sparer penge fordi ML bliver gratis i mellemtiden",
+      "ML forsvinder sandsynligvis som tendens igen",
+      "Konkurrenterne venter også og I vinder på tålmodighed"
+    ],
+    "correct": 0,
+    "explanation": "Rigtigt! Det tager tid at opbygge data, kompetencer og processer. Tidlige eksperimenter behøver ikke være store - men at vente er oftest dyrere end at komme i gang."
+  },
+  {
+    "title": "Opsummering af Modul 2 - Du forstår nu, hvordan AI lærer",
+    "body": "Tillykke! Du ved nu, hvordan Machine Learning fungerer: <b>data → features → træning → model → forudsigelse</b>. Du kender de vigtigste typer (supervised, unsupervised, reinforcement), almindelige faldgruber (overfitting, bias) og hvordan ML bruges i virksomheder. Det er det tekniske fundament, der gør alt det næste muligt. Næste gang nogen siger 'AI er bare magi', kan du forklare at det er systematisk læring fra data. 🎉",
+    "question": "Hvad er det vigtigste du tager med fra Modul 2?",
+    "options": [
+      "AI virker ved at følge håndskrevne regler som for 30 år siden",
+      "Maskiner lærer mønstre fra data gennem Machine Learning",
+      "ML erstatter alle jobs på én gang",
+      "Der findes kun én type ML, og den kan alt"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Du har nu et stærkt fundament. Du er officielt 'AI-sikker' på ML-niveau. Klar til Modul 3 om generativ AI og prompt engineering? 🚀"
+  }
+]
