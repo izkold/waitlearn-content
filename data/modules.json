@@ -53,5 +53,10 @@
     "id": "ai-grundlaeg",
     "title": "Hvad er kunstig intelligens?",
     "desc": "Grundbegreber, historik og nøgletermer – dit fundament for at forstå AI."
+  },
+  {
+    "id": "maskinlaering",
+    "title": "Maskinlæring forklaret",
+    "desc": "Hvordan maskiner lærer af data - supervised, unsupervised, deep learning og praktiske eksempler."
   }
 ]
