@@ -58,5 +58,10 @@
     "id": "maskinlaering",
     "title": "Maskinlæring forklaret",
     "desc": "Hvordan maskiner lærer af data - supervised, unsupervised, deep learning og praktiske eksempler."
+  },
+  {
+    "id": "gdpr-reklame-medier",
+    "title": "GDPR og AI i reklame og medier",
+    "desc": "Hvad du må og ikke må med persondata, når AI driver targeting, profilering og indhold."
   }
 ]
