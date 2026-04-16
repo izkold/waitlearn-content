@@ -1,0 +1,423 @@
+[
+  {
+    "title": "Velkommen - hvorfor GDPR er ekstra vigtigt i reklame og medier",
+    "body": "I reklame- og medievirksomheder arbejder du dagligt med <b>persondata</b>: klik, browsing, segmenter, personaliserede annoncer og AI-genereret indhold. GDPR er ikke bare en lov - det er både risikostyring og en konkurrencefordel. I dette modul lærer du præcis, hvad du må og ikke må, når AI bruges til targeting, profiling og indholdsproduktion.",
+    "question": "Hvad gør GDPR særligt relevant for din branche?",
+    "options": [
+      "AI bruger slet ikke persondata",
+      "GDPR gælder kun for offentlige myndigheder",
+      "Persondata er selve brændstoffet i kampagner og indhold",
+      "Det handler kun om e-mail marketing"
+    ],
+    "correct": 2,
+    "explanation": "Præcis! I reklame og medier er persondata selve råstoffet - cookies, adfærdssignaler og segmenter. Derfor rammer GDPR hårdere her end i mange andre brancher."
+  },
+  {
+    "title": "Hvad er GDPR kort fortalt?",
+    "body": "<b>GDPR</b> (General Data Protection Regulation) er EU's persondataforordning fra 2018. Den beskytter borgernes rettigheder og stiller strenge krav til virksomheder, der behandler persondata. I reklame og medier dækker det alt fra cookies og tracking pixels til AI-baserede kundesegmenter.",
+    "question": "Hvad er det primære formål med GDPR?",
+    "options": [
+      "At beskytte persondata og give individer rettigheder",
+      "At gøre det nemmere at indsamle flere data",
+      "At forbyde brug af AI i marketing",
+      "At lægge særlige krav på tech-giganter alene"
+    ],
+    "correct": 0,
+    "explanation": "Rigtigt. GDPR handler om ansvarlig datahåndtering og rettigheder for den enkelte. Virksomhedens pligter følger af det princip."
+  },
+  {
+    "title": "Persondata i reklame - hvad tæller med?",
+    "body": "Persondata er <b>alt, der kan identificere en person</b>: IP-adresse, cookie-ID, e-mail, adfærdsmønstre, præferencer og endda infererede data fra AI (fx 'interesseret i luksusrejser'). Selv en anonym profil på en nyhedsside kan være persondata, når den kombineres med andre signaler.",
+    "question": "Hvilken af følgende påstande om persondata er <b>ikke</b> korrekt?",
+    "options": [
+      "IP-adresser og cookie-ID'er er persondata",
+      "AI-infererede interesser regnes som persondata",
+      "Kombinerede anonyme spor kan udgøre persondata",
+      "Kun navn og adresse er persondata"
+    ],
+    "correct": 3,
+    "explanation": "Godt fanget. Definitionen er bred - alt der direkte eller indirekte identificerer en person er persondata. Det er klassisk faldgrube i reklame, fordi cookie-ID alene ofte undervurderes."
+  },
+  {
+    "title": "Samtykke - det primære grundlag i annoncering",
+    "body": "I reklame og medier kræves ofte et <b>gyldigt samtykke</b> via fx cookie-banner. Uden samtykke må du ikke tracke eller personalisere. AI-værktøjer må heller ikke bruge data uden et lovligt grundlag.",
+    "code": "Et gyldigt samtykke skal være:\n- Frit afgivet (ikke tvunget)\n- Informeret (klart hvad man siger ja til)\n- Specifikt (pr. formål)\n- Aktivt (ingen forudafkrydsede felter)",
+    "question": "Komplet sætningen: Et gyldigt samtykke skal være frit, informeret, specifikt og ___",
+    "options": [
+      "mundtligt bekræftet",
+      "aktivt afgivet",
+      "varigt og uigenkaldeligt",
+      "anonymiseret"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt. Aktivt samtykke betyder at brugeren aktivt klikker 'accepter' - og lige så let kan trække det tilbage. Forudafkrydsede felter er ikke gyldige."
+  },
+  {
+    "title": "Legitimate interest - alternativ til samtykke",
+    "body": "Du kan behandle data uden samtykke, hvis I har en <b>legitim interesse</b> (fx grundlæggende trafikmåling). Men det kræver en dokumenteret interesseafvejning (LIA), hvor I vejer jeres interesse op mod brugerens privatliv. Det kan sjældent bruges til invasiv tracking eller profilering.",
+    "question": "Din kollega vil bruge legitimate interest som grundlag for AI-drevet retargeting på tværs af sites. Hvad er det rigtige svar?",
+    "options": [
+      "Ja - legitimate interest dækker al marketing",
+      "Ja, men kun hvis kampagnen er stor",
+      "Nej, legitimate interest dækker aldrig nogen form for marketing",
+      "Nej - invasiv cross-site profilering kræver samtykke, ikke LIA"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt. LIA kan sjældent bære cross-site tracking og profilering, fordi brugerens forventninger og privatliv vejer tungere. Samtykke er det sikre grundlag her."
+  },
+  {
+    "title": "AI-profilering og automatiserede beslutninger",
+    "body": "Når AI laver kundesegmenter eller scorer leads, er det <b>profilering</b>. Hvis beslutningen har <b>retlig eller betydelig effekt</b> (fx afviser adgang til et produkt), kræver GDPR art. 22 særligt grundlag og ret til menneskelig indgriben samt forklaring.",
+    "question": "Hvad sker der, hvis I automatiserer en beslutning med betydelig effekt uden at sikre art. 22-rettigheder?",
+    "options": [
+      "Brugeren kan kræve menneskelig indgriben og I risikerer påbud",
+      "Intet - automatiske beslutninger er altid lovlige",
+      "Det gælder kun for offentlige myndigheder",
+      "I slipper, så længe det bare er en AI-model"
+    ],
+    "correct": 0,
+    "explanation": "Præcis. Art. 22 giver brugeren ret til ikke at være underlagt rent automatiserede beslutninger med betydelig effekt. Det udløser krav om menneskelig indgriben og forklaring."
+  },
+  {
+    "title": "Cookies og tracking i 2026",
+    "body": "Efter ePrivacy-opdateringen og Google's cookie-faseud er <b>Consent Management Platforms (CMP)</b> standard. AI-værktøjer må ikke læse tracking-data uden samtykke, og server-side tracking er underlagt samme regler som browser-side.",
+    "question": "Må en AI-model læse cookie-data til at optimere en kampagne uden gyldigt samtykke?",
+    "options": [
+      "Ja, hvis det er til at forbedre annoncering",
+      "Ja, hvis data er pseudonymiseret",
+      "Nej, det kræver gyldigt samtykke",
+      "Kun hvis det er internt i virksomheden"
+    ],
+    "correct": 2,
+    "explanation": "Korrekt. Pseudonymisering fjerner ikke samtykkekravet for cookies og lignende trackere. Consent er stadig adgangsnøglen til tracking i 2026."
+  },
+  {
+    "title": "Data minimering - kun det nødvendige",
+    "body": "<b>Data minimering</b> betyder, at I kun må indsamle og behandle det, der rent faktisk er nødvendigt for formålet. AI gør det fristende at samle alt, fordi 'mere data er bedre' - men GDPR kræver, at I aktivt begrænser datamængden.",
+    "question": "Hvilken af disse arbejdsvaner er <b>i strid</b> med princippet om data minimering?",
+    "options": [
+      "Slette persondata når formålet er opnået",
+      "Definere klare formål før indsamling",
+      "Bruge færre felter i formularer",
+      "Gemme alt 'for en sikkerheds skyld'"
+    ],
+    "correct": 3,
+    "explanation": "Præcis. 'Just in case'-data er en klassisk GDPR-fejl. Hvis I ikke kan pege på et konkret formål, må I ikke gemme det."
+  },
+  {
+    "title": "De registreredes rettigheder",
+    "body": "Enhver person kan kræve: <b>indsigt</b>, <b>rettelse</b>, <b>sletning</b> ('ret til at blive glemt'), <b>begrænsning</b>, <b>dataportabilitet</b> og <b>indsigelse</b>. I medievirksomheder får I hyppigt henvendelser fra brugere, der ikke ønsker personaliserede annoncer.",
+    "question": "En læser skriver: 'Jeg vil ikke have personaliserede annoncer fra jer.' Hvilken rettighed udøver hun?",
+    "options": [
+      "Ret til dataportabilitet",
+      "Ret til indsigelse mod profilering",
+      "Ret til rettelse",
+      "Ret til at få gratis indhold"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt. Indsigelse mod profilering til direkte marketing er en absolut rettighed (art. 21) - I skal stoppe med det samme, uden begrundelse fra læseren."
+  },
+  {
+    "title": "Databehandleraftaler (DPA) med AI-leverandører",
+    "body": "Når I sender persondata til ChatGPT, Claude, Midjourney eller andre AI-leverandører, skal I have en <b>databehandleraftale</b>. OpenAI og Anthropic tilbyder standardaftaler, men I skal aktivt tjekke, at data ikke bruges til leverandørens modeltræning.",
+    "code": "Tjek i DPA'en:\n1. Formål og instruks\n2. Sikkerhedsforanstaltninger\n3. Underdatabehandlere (sub-processors)\n4. Overførselsgrundlag (SCC/TIA)\n5. Bruges data til træning? (ofte 'no training'-klausul)",
+    "question": "Hvad skal være på plads, <b>før</b> I sender kundedata til en AI-tjeneste?",
+    "options": [
+      "En gyldig databehandleraftale og 'no training'-klausul",
+      "Et stærkt password på kontoen",
+      "Intet - det er leverandørens ansvar",
+      "En mundtlig aftale med leverandøren"
+    ],
+    "correct": 0,
+    "explanation": "Præcis. DPA er obligatorisk, når en ekstern part behandler persondata for jer. 'No training'-klausulen er afgørende for ikke at miste kontrol over data."
+  },
+  {
+    "title": "Bøder og risici i reklamebranchen",
+    "body": "Bøder under GDPR kan være op til <b>20 mio. EUR eller 4 % af global årsomsætning</b> - det højeste af de to. En reklamegruppe med 500 mio. EUR omsætning står altså over for potentielt 20 mio. EUR i bøde ved alvorlige brud.",
+    "code": "Regneeksempel:\nGlobal omsætning: 500.000.000 EUR\n4 % af 500.000.000 EUR = 20.000.000 EUR\nMax(20 mio. EUR fast, 20 mio. EUR pct) = 20 mio. EUR",
+    "question": "En reklamegruppe har 1,2 mia. EUR i global omsætning. Hvad er den teoretisk maksimale GDPR-bøde?",
+    "options": [
+      "20 mio. EUR",
+      "48 mio. EUR",
+      "120 mio. EUR",
+      "4 mio. EUR"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt: 4 % af 1,2 mia. EUR = 48 mio. EUR, og det er højere end 20 mio. EUR-loftet. Det er den sats datatilsynene regner ud fra, når sagerne er alvorlige."
+  },
+  {
+    "title": "Anonymisering og pseudonymisering",
+    "body": "<b>Anonymisering</b> fjerner al mulighed for at identificere personen - så falder data uden for GDPR. <b>Pseudonymisering</b> (fx hashed e-mail) mindsker risiko, men data er stadig persondata, fordi det kan rekombineres.",
+    "question": "Komplet sætningen: Pseudonymisering gør data ___, men fjerner <b>ikke</b> data fra GDPR's område.",
+    "options": [
+      "fuldstændigt anonyme",
+      "offentligt tilgængelige",
+      "mindre risikable og sværere at kæde til en person",
+      "lovlige uden samtykke"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt. Pseudonymisering er et godt teknisk værktøj til at reducere risiko, men det erstatter ikke samtykke eller et lovligt grundlag."
+  },
+  {
+    "title": "AI-genereret indhold, ophavsret og GDPR",
+    "body": "Når AI genererer tekst, billeder eller video på baggrund af kundedata, skal I sikre, at data ikke lækker via prompts eller fine-tuning. Samtidig skal I være <b>transparente</b> om AI-brug og overholde ophavsretten for træningsdata.",
+    "question": "Hvilken af disse påstande om AI-indhold og persondata er <b>forkert</b>?",
+    "options": [
+      "Prompts med kundedata kan udgøre en dataeksport",
+      "Intern træning på kundedata kræver lovligt grundlag",
+      "AI-output kan stadig indeholde identificerbare oplysninger",
+      "Hvis AI genererer indholdet, er GDPR ikke længere relevant"
+    ],
+    "correct": 3,
+    "explanation": "Godt spottet. AI-genereret indhold fritager ikke jer for GDPR - tværtimod. Både input, træning og output skal håndteres efter reglerne."
+  },
+  {
+    "title": "Byg en GDPR-sikker kampagne: rækkefølgen",
+    "body": "Sæt disse 4 trin i den rigtige rækkefølge, når I starter en ny AI-drevet kampagne.",
+    "type": "drag",
+    "items": [
+      "Publicér kampagnen og overvåg løbende",
+      "Definér formål og lovligt grundlag",
+      "Vælg godkendt AI-værktøj og tjek DPA",
+      "Indsamlé samtykke via CMP før tracking"
+    ],
+    "correct_order": [1, 2, 3, 0],
+    "explanation": "Rigtigt. Først fastlægger I formål og grundlag, så vælger I værktøj med DPA, så henter I samtykke, og først derefter publicerer og overvåger I. Skipper I et trin, eksponerer I virksomheden for bøder."
+  },
+  {
+    "title": "Opsummering af første halvdel",
+    "body": "Du har nu fundamentet: hvad persondata er, hvornår I har et lovligt grundlag, hvordan rettigheder virker, og hvorfor DPA og pseudonymisering matter. Næste halvdel handler om uheld, overførsler, transparens og daglig praksis.",
+    "question": "Hvad er det vigtigste princip, du har taget med fra modulets første halvdel?",
+    "options": [
+      "GDPR er kun relevant for IT-afdelingen",
+      "Data skal håndteres ansvarligt - især når AI personaliserer",
+      "Samtykke er et valgfrit hjælpemiddel",
+      "Pseudonymisering fritager jer helt fra GDPR"
+    ],
+    "correct": 1,
+    "explanation": "Præcis. Ansvarlig datahåndtering er rygraden - alt andet (samtykke, DPA, rettigheder) er værktøjer til at leve op til det princip i praksis."
+  },
+  {
+    "title": "Data breach - når det går galt",
+    "body": "Hvis persondata lækker (hacket CMP, misbrug hos AI-leverandør, fejl-delt eksport), skal I anmelde til <b>Datatilsynet inden 72 timer</b> efter opdagelse. Ved høj risiko for de registrerede skal I også informere dem direkte.",
+    "code": "Timeline ved breach:\nT=0 timer: Breach opdaget\nT<72 timer: Anmeldelse til Datatilsynet\nAsap: Indeholder, undersøger, dokumenterer\nHvis høj risiko: Individer informeres direkte",
+    "question": "I opdager fredag kl. 14 et breach. Senest hvornår skal Datatilsynet have anmeldelsen?",
+    "options": [
+      "Mandag kl. 14",
+      "Onsdag kl. 14",
+      "Om 30 dage",
+      "Kun hvis medierne finder ud af det"
+    ],
+    "correct": 0,
+    "explanation": "Rigtigt. 72 timer fra kl. 14 fredag = kl. 14 mandag. Fristen løber uanset weekend, så I skal have et beredskab, der kan reagere døgnet rundt."
+  },
+  {
+    "title": "DPIA - risikovurdering af AI-projekter",
+    "body": "En <b>Data Protection Impact Assessment</b> (DPIA) er obligatorisk ved høj-risiko behandling: systematisk profilering, stor datamængde, særlige kategorier eller ny teknologi. AI-drevet segmentering og scoring rammer næsten altid en eller flere af disse.",
+    "question": "I vil bygge en AI-model, der scorer 3 mio. brugeres sandsynlighed for at konvertere og bruger scoren til at afgøre, hvem der ser hvilke produkter. Skal I lave DPIA?",
+    "options": [
+      "Nej, DPIA er frivilligt for marketing",
+      "Nej, kun ved offentlige myndigheder",
+      "Ja - systematisk profilering i stor skala udløser DPIA-pligt",
+      "Ja, men kun hvis I også bruger særlige kategorier"
+    ],
+    "correct": 2,
+    "explanation": "Præcis. Systematisk profilering i stor skala er en klassisk DPIA-udløser (art. 35). DPIA'en dokumenterer risici og afbødende foranstaltninger, før I går live."
+  },
+  {
+    "title": "Dataoverførsel til USA og tredjelande",
+    "body": "Mange AI-værktøjer (OpenAI, Google, Meta) behandler data i USA eller andre tredjelande. I skal have et gyldigt <b>overførselsgrundlag</b>: EU-US Data Privacy Framework, Standard Contractual Clauses (SCC) plus en Transfer Impact Assessment (TIA), eller bindende virksomhedsregler (BCR).",
+    "question": "Hvilken påstand om overførsel til tredjelande er <b>forkert</b>?",
+    "options": [
+      "SCC skal suppleres med en Transfer Impact Assessment",
+      "EU-US Data Privacy Framework kan dække overførsler til certificerede amerikanske firmaer",
+      "BCR er en mulighed inden for samme koncern",
+      "I kan frit overføre data, hvis data er krypteret i transit"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt fanget. Kryptering i transit er ikke et selvstændigt overførselsgrundlag. I skal stadig have SCC, DPF eller BCR - kryptering er bare en supplerende sikkerhedsforanstaltning."
+  },
+  {
+    "title": "Børn og unge i målgruppen",
+    "body": "Hvis I målretter annoncer mod <b>børn under 13-16 år</b> (afhænger af land - i Danmark 13 år), kræves <b>forældresamtykke</b>. AI-profilering af børn betragtes som høj-risiko og er ofte enten forbudt eller kraftigt begrænset.",
+    "question": "I vil køre en AI-drevet snapchat-kampagne rettet mod 12-årige. Hvad skal I være opmærksom på?",
+    "options": [
+      "Forældresamtykke er påkrævet, og profilering af børn er højrisiko",
+      "Samme regler som for voksne",
+      "Ingen krav - børn er ikke omfattet af GDPR",
+      "Kun tekstannoncer er lovlige for aldersgruppen"
+    ],
+    "correct": 0,
+    "explanation": "Rigtigt. Børn nyder særlig beskyttelse i GDPR (art. 8). Forældresamtykke er et minimumskrav, og AI-profilering skal ofte helt undgås i denne målgruppe."
+  },
+  {
+    "title": "Transparens - fortæl brugerne om AI",
+    "body": "Hvis en annonce, artikel, chatbot eller stemme-assistent er AI-drevet, skal I være <b>transparente</b>. GDPR art. 13-14 kræver klar information, og EU AI Act skærper yderligere kravene om mærkning af AI-indhold i 2026.",
+    "question": "Hvad sker der, hvis I ikke oplyser brugere om, at en chatbot er AI-drevet?",
+    "options": [
+      "Intet - det er op til brugeren at gætte",
+      "I risikerer påbud, bøder og tab af tillid",
+      "Kun hvis chatbotten taler med børn",
+      "Kun hvis konkurrenten klager"
+    ],
+    "correct": 1,
+    "explanation": "Præcis. Manglende transparens kan både udløse GDPR-påbud og EU AI Act-sanktioner. Vigtigere: tillidstab rammer ofte hårdere end bøden selv."
+  },
+  {
+    "title": "Ret til indsigelse mod profilering",
+    "body": "Brugere har en <b>absolut</b> ret til at gøre indsigelse mod profilering til direkte marketing (art. 21, stk. 2). I skal straks stoppe - også i AI-drevne kampagner. Der er ingen interesseafvejning, ingen 'vent og se'.",
+    "question": "En bruger klikker 'stop personaliserede annoncer'. Hvad er jeres pligt?",
+    "options": [
+      "I må først tjekke om der er en legitim grund",
+      "I har 30 dage til at overveje anmodningen",
+      "Det er frivilligt at efterkomme",
+      "I skal stoppe profilering og direct marketing straks"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt. Pligten er absolut og øjeblikkelig - også på tværs af AI-modeller, DSP'er og CDP'er. Sørg for at opt-out rulles ned i alle systemer automatisk."
+  },
+  {
+    "title": "Intern AI-træning på egne data",
+    "body": "Hvis I træner en intern model på kundedata (fx til skræddersyet copywriting eller kundeservice-bot), skal I have <b>lovligt grundlag</b> - oftest samtykke eller en veldokumenteret legitimate interest kombineret med DPIA. Data skal indkapsles, så de ikke lækker mellem kunder.",
+    "question": "I vil træne en intern copywriting-model på læserdata fra jeres mediebrand. Hvilken fremgangsmåde er rigtigst?",
+    "options": [
+      "Træn løs - intern brug er undtaget GDPR",
+      "Brug kun data fra abonnenter, der aktivt har accepteret marketing",
+      "Dokumentér grundlag, lav DPIA, pseudonymisér og begræns adgangen",
+      "Spørg kun IT, ikke DPO'en"
+    ],
+    "correct": 2,
+    "explanation": "Præcis. Intern træning er en selvstændig behandlingsaktivitet - grundlag, DPIA og tekniske foranstaltninger som pseudonymisering er alle nødvendige for at gøre det lovligt og sikkert."
+  },
+  {
+    "title": "Sletning og opbevaring",
+    "body": "Persondata må kun opbevares, <b>så længe formålet kræver</b>. For kampagnedata er 30-90 dage ofte rigeligt. Langvarige logs uden formål er en klassisk bøde-magnet.",
+    "code": "Typiske opbevaringsperioder i reklame:\n- Rå event-logs: 30-90 dage\n- Aggregeret kampagneanalyse: 13-25 måneder\n- Finansielle bilag (bogføring): 5 år\n- CRM-samtykker: Indtil tilbagekaldt + rimelig oprydning",
+    "question": "Jeres kampagne sluttede 1. juni. Hvornår er det senest rimeligt stadig at opbevare rå event-logs med cookie-ID'er?",
+    "options": [
+      "Ca. 1. september (90 dage)",
+      "1. juni næste år",
+      "For evigt, hvis de er 'nyttige'",
+      "1. juni + 5 år"
+    ],
+    "correct": 0,
+    "explanation": "Rigtigt. 30-90 dage er en almindelig grænse for rå event-data. Aggregerede indsigter kan leve længere, men de identificerbare logs bør slettes eller anonymiseres."
+  },
+  {
+    "title": "GDPR i kontrakt med kunder og bureauer",
+    "body": "Når et bureau kører kampagner for en kunde, er rollefordelingen afgørende: hvem er <b>dataansvarlig</b>, og hvem er <b>databehandler</b>? Det skal stå i kontrakten, sammen med DPA, sikkerhedsforanstaltninger og ansvar ved breach.",
+    "question": "Hvilken af følgende påstande om bureau-kunde-kontrakter er <b>forkert</b>?",
+    "options": [
+      "Rollefordeling (ansvarlig/behandler) skal være klar",
+      "DPA kan være en bilag til samarbejdsaftalen",
+      "Ansvar ved breach bør reguleres kontraktuelt",
+      "Persondata-ansvaret følger automatisk den, der fakturerer"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt. Ansvar følger <b>den reelle rolle</b>, ikke hvem der fakturerer. Domstolene og Datatilsynet vurderer, hvem der bestemmer formål og midler for behandlingen."
+  },
+  {
+    "title": "De 3 mest almindelige fejl i mediebranchen",
+    "body": "Rangér disse tre klassiske fejl efter hvor ofte de udløser påbud fra Datatilsynet i reklame- og mediesager (mest hyppige øverst).",
+    "type": "drag",
+    "items": [
+      "Manglende dokumentation af legitimate interest (LIA)",
+      "Brug af AI-værktøj uden databehandleraftale",
+      "Ugyldigt samtykke i cookie-banner"
+    ],
+    "correct_order": [2, 1, 0],
+    "explanation": "Rigtigt. Cookie-banner-sager har domineret datatilsynenes afgørelser siden 2022. AI-brug uden DPA er den hurtigt voksende nr. 2, og LIA-dokumentation halter bagefter men rammer flere bureauer hvert år."
+  },
+  {
+    "title": "Tjek et AI-værktøj på 2 minutter",
+    "body": "Før I kopierer kundedata ind i et nyt AI-værktøj, så tjek: Har de <b>DPA</b>? Bruger de data til <b>modeltræning</b>? Har de <b>overførselsgrundlag</b> (SCC/DPF)? Er der en <b>EU-option</b>?",
+    "code": "2-minutters tjekliste:\n[ ] DPA tilgængelig og underskrevet\n[ ] 'No training on your data'-klausul\n[ ] SCC eller DPF som overførselsgrundlag\n[ ] EU-region/EU-datacenter, hvis muligt\n[ ] Sub-processor-liste offentlig",
+    "question": "Komplet sætningen: Det første du tjekker ved et nyt AI-værktøj er, om der er en gyldig ___.",
+    "options": [
+      "prisstruktur",
+      "reklamevideo",
+      "gratis-plan",
+      "databehandleraftale og overførselsgrundlag"
+    ],
+    "correct": 3,
+    "explanation": "Rigtigt. Pris og features kan vente - uden DPA og overførselsgrundlag må I slet ikke sende persondata ind i værktøjet, uanset hvor godt det ellers virker."
+  },
+  {
+    "title": "GDPR som konkurrencefordel",
+    "body": "Virksomheder der håndterer data <b>ansvarligt</b> vinder tillid fra kunder, partnere og investorer. Stadig flere udbud (fx i det offentlige og i regulerede brancher) kræver dokumenteret GDPR-compliance som krav, ikke som plus.",
+    "question": "Jeres bureau pitcher mod et farmaceutisk firma. De spørger, hvordan I sikrer persondata. Hvad er det stærkeste svar?",
+    "options": [
+      "Vi plejer bare at gøre det, andre gør",
+      "Vi har DPA, DPIA-proces, no-training-klausuler og en dedikeret DPO",
+      "Vi sender alt til ChatGPT - det er hurtigst",
+      "Vi undgår bare at dokumentere noget"
+    ],
+    "correct": 1,
+    "explanation": "Præcis. Et klart, verificerbart setup (DPA, DPIA, DPO, no-training) er et konkret salgsargument i regulerede brancher - og afgør ofte, om I kommer videre i udbuddet."
+  },
+  {
+    "title": "Dit nye GDPR-vokabularium",
+    "body": "Du har nu arbejdet med: <b>samtykke, legitimate interest, LIA, profilering, DPIA, DPA, SCC, DPF, pseudonymisering, ret til at blive glemt, indsigelse, data minimering</b>. Brug dem i møder - det signalerer trygt ejerskab.",
+    "question": "Hvilket af disse udtryk dækker <b>dokumentationen</b> af interesseafvejning?",
+    "options": [
+      "DPA",
+      "SCC",
+      "LIA",
+      "BCR"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt. LIA (Legitimate Interest Assessment) er selve notatet, hvor I vejer jeres interesse op mod brugerens. DPA, SCC og BCR dækker andre dele af compliance-puslespillet."
+  },
+  {
+    "title": "Praktisk øvelse du kan lave i dag",
+    "body": "Gå ind i jeres nuværende kampagne og tjek: Har vi <b>gyldigt samtykke</b>? Er AI-værktøjet <b>godkendt med DPA</b>? Er formålet <b>dokumenteret</b>? Gør det i et delt dokument - 5 minutter redder jer potentielt for store bøder.",
+    "question": "Hvad sker der, hvis I <b>aldrig</b> kører denne øvelse?",
+    "options": [
+      "I opdager først breaches når Datatilsynet eller medier slår alarm",
+      "Intet - det ordner sig selv",
+      "I sparer tid på compliance",
+      "I får automatisk en godkendelse fra Datatilsynet"
+    ],
+    "correct": 0,
+    "explanation": "Præcis. Løbende mini-audits er det billigste forsvar. Uden dem opdages problemer først eksternt - og så er skaden typisk allerede sket."
+  },
+  {
+    "title": "Kobling til resten af WaitLearn",
+    "body": "Med GDPR-fundamentet kan du trygt tage fat på avancerede emner som RAG, fine-tuning, kunde-chatbots og AI-strategi - og vide, hvor grænserne går.",
+    "question": "Hvad betyder GDPR-viden for de kommende moduler i WaitLearn-serien?",
+    "options": [
+      "Den gør de næste moduler overflødige",
+      "Du kan arbejde med AI mere sikkert og stille bedre spørgsmål i projekterne",
+      "Den er kun relevant for IT-afdelingen",
+      "Den begrænser al kreativ brug af AI"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt. GDPR-fundamentet er en <b>force multiplier</b>: det lader dig bruge AI mere aggressivt i den kreative proces, fordi du ved, hvor grænserne reelt går."
+  },
+  {
+    "title": "Sidste skridt før målstregen",
+    "body": "Du har været hele værktøjskassen igennem: grundlag, rettigheder, leverandører, overførsler, børn, transparens, indsigelse og daglig praksis. Næste lektion er opsummering og fejring.",
+    "question": "Du har lige opdaget, at en ny AI-leverandør mangler DPA. Hvad gør du som første handling?",
+    "options": [
+      "Stopper kampagnen og sletter alle data",
+      "Venter til Datatilsynet spørger",
+      "Pauser brug af leverandøren og kræver DPA + no-training før genoptagelse",
+      "Flytter alle data til en privat Dropbox"
+    ],
+    "correct": 2,
+    "explanation": "Præcis. Pause + dokumentation + krav til leverandør er forholdsmæssigt. Du behøver ikke rive hele kampagnen ned, men du må ikke fortsætte med at sende persondata ind uden grundlag."
+  },
+  {
+    "title": "Opsummering af Modul 15 - du er GDPR-sikker i reklame og medier 🎉",
+    "body": "Tillykke! Du ved nu, hvad du må og ikke må med persondata, når AI bruges til targeting, profilering og indholdsproduktion. Du kender samtykke, legitimate interest, DPIA, DPA, SCC, pseudonymisering og de klassiske faldgruber. Næste gang en kollega spørger 'må vi gøre det her?', kan du svare med selvtillid.",
+    "question": "Hvad er det vigtigste du tager med fra hele Modul 15?",
+    "options": [
+      "GDPR er kun for jurister og IT",
+      "Samtykke er valgfrit",
+      "Ansvarlig persondata-håndtering er både lovkrav og konkurrencefordel i reklame og medier",
+      "AI-værktøjer fritager jer fra GDPR"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt. Du har nu et solidt, branchetilpasset fundament - ansvarlighed og forretning går hånd i hånd. Klar til næste modul? 💪"
+  }
+]
