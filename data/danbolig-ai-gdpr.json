@@ -1,0 +1,463 @@
+[
+  {
+    "title": "Velkommen – AI der hjælper jer med at sælge flere boliger",
+    "body": "Velkommen til dette modul til Danbolig!<br><br>Her får I <b>praktisk viden</b> om, hvordan AI kan hjælpe jer med at sælge flere boliger (virtual staging, bedre tekster, lead scoring), og de vigtigste GDPR-regler, så I kan bruge AI <b>trygt og lovligt</b>.<br><br>Målet er, at I går herfra med konkret viden, I kan bruge allerede i morgen.",
+    "question": "Hvad er målet med dette modul?",
+    "options": [
+      "At lære at programmere AI",
+      "At give jer praktisk AI-viden og GDPR-tryghed til ejendomsmægling",
+      "At erstatte alle mæglere med AI",
+      "At lære kun om boligfotos"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Modulet kombinerer praktisk AI-viden med GDPR-sikkerhed – så I kan arbejde smartere og trygt."
+  },
+  {
+    "title": "Hvorfor AI er relevant for Danbolig lige nu",
+    "body": "I 2026 bruger mange ejendomsmæglerkæder i Europa AI til <b>virtual staging</b>, bedre boligbeskrivelser og lead scoring. Det sparer tid og gør boligpræsentationer mere attraktive.<br><br>Konkurrenterne er allerede i gang. For Danbolig er AI ikke en option – det er næste naturlige skridt i jeres digitale rejse.",
+    "question": "Hvad bruger mange ejendomsmæglerkæder allerede AI til i 2026?",
+    "options": [
+      "Kun IT-support internt",
+      "Kun automatiske nyhedsbreve",
+      "Virtual staging, boligbeskrivelser og lead scoring",
+      "Kun juridisk dokumenthåndtering"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt! De tre vigtigste AI-brugstilfælde i branchen er virtual staging, bedre tekster og lead scoring."
+  },
+  {
+    "title": "Virtual staging – møbler uden møbler",
+    "body": "<b>Virtual staging</b> bruger AI til at møblere tomme rum digitalt – på sekunder. I stedet for at leje dyre møbler og betale en stager, uploader I blot et billede af et tomt rum og vælger en stil.<br><br>Fysisk staging koster typisk <b>10.000–20.000 kr.</b> per bolig. AI virtual staging koster <b>200–500 kr.</b>",
+    "question": "Hvad er virtual staging med AI?",
+    "options": [
+      "At møblere tomme rum digitalt med AI på sekunder",
+      "At flytte rigtige møbler ind i en bolig",
+      "At tage ekstra boligfotos med drone",
+      "At redigere farver i eksisterende billeder"
+    ],
+    "correct": 0,
+    "explanation": "Præcis! Virtual staging er digital møblering med AI – hurtigt, billigt og uden fysisk transport af møbler."
+  },
+  {
+    "title": "Hvad sparer I på virtual staging? Regn med!",
+    "body": "Lad os sætte tal på besparelsen. En typisk Danbolig-butik handler <b>10 boliger om måneden</b>, og I overvejer at tilbyde AI virtual staging på alle tomme boliger fremfor fysisk staging.",
+    "code": "Fysisk staging per bolig:       15.000 kr\nAI virtual staging per bolig:      500 kr\nBesparelse per bolig:           14.500 kr\nAntal boliger per måned:              10",
+    "bodyAfter": "Hvad er den samlede månedlige besparelse ved at skifte til AI?",
+    "question": "Hvad er den månedlige besparelse ved at skifte til AI virtual staging på 10 boliger?",
+    "options": [
+      "100.000 kr",
+      "125.000 kr",
+      "130.000 kr",
+      "145.000 kr"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! 10 boliger × 14.500 kr = 145.000 kr i månedlig besparelse. Et stærkt argument for at komme i gang."
+  },
+  {
+    "title": "AI til boligfotos – decluttering og forbedring",
+    "body": "Eksisterende boligfotos kan forbedres markant med AI:<br><br>- <b>Fjerne rod</b> og personlige genstande<br>- <b>Forbedre belysning</b> og farvebalance<br>- <b>Udskifte skyet himmel</b> med blå himmel på udendørs billeder<br><br>Det tager sekunder og koster meget lidt – og I behøver ikke booke fotografen igen.",
+    "question": "Hvad kan AI gøre med eksisterende boligfotos?",
+    "options": [
+      "Kun konvertere dem til sort-hvid",
+      "Fjerne rod, forbedre belysning og udskifte himlen på sekunder",
+      "Kun forstørre billederne til print",
+      "Tage nye billeder automatisk"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! AI kan opgradere eksisterende fotos på sekunder uden ny fotografering."
+  },
+  {
+    "title": "AI til boligbeskrivelser der sælger",
+    "body": "AI kan skrive fængende, SEO-venlige boligbeskrivelser på under 2 minutter. I giver nøgleoplysningerne og vælger tone. Eksempel-prompt:<br><br><b>\"Skriv en varm, familievenlig boligbeskrivelse på 150 ord til en 4-værelses villa i Næstved med have og tæt på skole.\"</b><br><br>Det frigør timer hver uge – men mægleren skal altid tjekke og tilpasse teksten.",
+    "question": "En god AI-boligbeskrivelse kræver, at mægleren ___",
+    "options": [
+      "... overlader alt til AI uden at tjekke det",
+      "... bruger engelske søgeord i prompten",
+      "... giver AI gode input og kontrollerer det færdige output",
+      "... betaler ekstra for en premium AI-model"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt! Jo bedre input (størrelse, tone, highlights), desto bedre output. Og mægleren bør altid kvalitetstjekke inden publicering."
+  },
+  {
+    "title": "AI til personlige e-mails og opfølgning",
+    "body": "Efter en fremvisning kan AI hjælpe med at skrive en <b>personlig opfølgningsmail</b> på sekunder. Fortæl AI:<br><br>- Køberens navn og hvad de kiggede på<br>- Hvad der virkede interessant for dem<br>- Hvad næste skridt er<br><br>Resultatet er en varm, professionel mail – ikke en generisk skabelon.",
+    "question": "Hvad er den vigtigste fordel ved AI-assisterede opfølgningsmails?",
+    "options": [
+      "De kan personaliseres hurtigt og frigør tid til den direkte kundekontakt",
+      "De erstatter helt behovet for telefonopkald",
+      "De er juridisk bindende kontrakter",
+      "De behøver ingen menneskelig kontrol"
+    ],
+    "correct": 0,
+    "explanation": "Præcis! AI skriver første udkast hurtigt – mægleren tilpasser og sender. Det er det bedste fra begge verdener."
+  },
+  {
+    "title": "Lead scoring – prioriter de rigtige kunder",
+    "body": "AI kan analysere jeres leads og give dem en <b>score</b> baseret på sandsynlighed for køb – fx baseret på søgeadfærd, antal klik på en bolig og tidspunkt for henvendelse.<br><br>Det hjælper mæglere med at bruge deres tid på de mest lovende kunder – i stedet for at behandle alle leads ens.",
+    "question": "Hvad er lead scoring med AI?",
+    "options": [
+      "At ringe til alle leads i alfabetisk rækkefølge",
+      "At slette leads der ikke har svaret inden 24 timer",
+      "At kontakte kun dem der ringer ind selv",
+      "At prioritere leads baseret på AI-beregnet sandsynlighed for køb"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! Lead scoring hjælper jer med at bruge jeres tid rigtigt – på de mest lovende kundeemner."
+  },
+  {
+    "title": "Automatisk referat fra fremvisninger",
+    "body": "Et interesseret par har netop set en villa. De nævnte, at de elsker haven men er bekymrede for vejstøjen fra den nærliggende indfaldsvej. Mægleren overvejer hvad AI kan hjælpe med nu.",
+    "question": "Hvad er den smarteste brug af AI umiddelbart efter denne fremvisning?",
+    "options": [
+      "Sende en generisk opfølgningsmail til alle denne uges interesserede",
+      "Diktere et hurtigt referat til AI med parrets ønsker, og bede AI skrive en personlig mail der adresserer vejstøj-bekymringen",
+      "Ringe til dem med det samme uden forberedelse",
+      "Vente en uge og se om de henvender sig selv"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! AI kan hurtigt lave et referat og en målrettet opfølgning – det viser, at I lyttede og husker detaljer."
+  },
+  {
+    "title": "Sorter: AI i salgsprocessen",
+    "body": "AI-værktøjer bruges på <b>forskellige tidspunkter</b> i boligsalget – fra forberedelse til afslutning. Det er vigtigt at vide hvornår hvert værktøj giver mest mening.",
+    "type": "drag",
+    "question": "Sorter disse AI-brugstilfælde i den rækkefølge de typisk bruges i salgsprocessen (fra start til slut):",
+    "items": [
+      "Lead scoring og prioritering af interesserede",
+      "Virtual staging og fotoforbedring",
+      "AI-boligbeskrivelse til annoncen",
+      "Automatisk referat og opfølgningsmail efter fremvisning"
+    ],
+    "correct_order": [1, 2, 0, 3],
+    "explanation": "Korrekt rækkefølge: (1) Klargøring med virtual staging og fotos → (2) AI-boligbeskrivelse til annoncen → (3) Lead scoring af interesserede → (4) Referat og opfølgning efter fremvisning."
+  },
+  {
+    "title": "Persondata i ejendomsmægling – hvad håndterer I?",
+    "body": "I ejendomsmægling håndterer I meget følsomme oplysninger:<br><br>- <b>CPR-numre</b> og økonomioplysninger<br>- <b>Køber- og sælgerprofiler</b> med præferencer og budget<br>- <b>Kontraktdetaljer</b> og forhandlingspositioner<br>- <b>Fremvisningsnoter</b> om familieforhold og ønsker<br><br>Alt dette er persondata under GDPR – og AI må kun bruges til at behandle det på lovligt grundlag.",
+    "question": "Hvad af følgende er persondata i ejendomsmægling?",
+    "options": [
+      "Kun offentligt tilgængelige boligpriser",
+      "Kun markedsstatistikker fra Boligsiden",
+      "CPR-numre, økonomioplysninger, køber/sælger-profiler, kontrakter og fremvisningsnoter",
+      "Kun e-mailadresser til nyhedsbrev"
+    ],
+    "correct": 2,
+    "explanation": "Korrekt! Næsten alt I håndterer i en sag er persondata – og meget af det er særligt følsomt."
+  },
+  {
+    "title": "AI-profilering af leads – find fejlen",
+    "body": "Når AI scorer leads (fx '82 % sandsynlig for at købe'), er det <b>profilering</b> under GDPR. Det udløser særlige rettigheder for de registrerede og kræver, at I kan dokumentere det lovlige grundlag.<br><br>En kollega fortæller jer om sin brug af AI-lead scoring. Hvilken påstand er <b>ikke korrekt</b>?",
+    "question": "Hvilken af følgende påstande om AI-profilering af leads er IKKE korrekt?",
+    "options": [
+      "Lead scoring er lovlig bare fordi leverandøren har en DPA – I behøver ikke selv have et lovligt behandlingsgrundlag",
+      "AI-profilering giver kunderne ret til forklaring og indsigelse",
+      "Profilering kræver særlig opmærksomhed og dokumentation under GDPR",
+      "Kunderne kan gøre indsigelse mod AI-baseret profilering"
+    ],
+    "correct": 0,
+    "explanation": "Præcis – den første er forkert! En DPA med leverandøren er nødvendig, men ikke nok. I skal selv have et lovligt behandlingsgrundlag (fx samtykke eller legitim interesse) for at profilere jeres leads."
+  },
+  {
+    "title": "Samtykke og lovligt grundlag",
+    "body": "For at bruge persondata til AI-analyse skal I have et <b>lovligt behandlingsgrundlag</b> under GDPR. De mest relevante i ejendomsmægling er:<br><br>- <b>Samtykke</b> – eksplicit og frivilligt givet<br>- <b>Kontrakt</b> – data er nødvendig for at opfylde aftalen<br>- <b>Legitim interesse</b> – kræver en dokumenteret afvejning (LIA)",
+    "question": "Det lovligste og oftest sikreste behandlingsgrundlag, når I vil bruge en fremvisningsdeltagers kontaktinfo i et AI-lead scoring-system, er ___",
+    "options": [
+      "... at personen har mødt op til fremvisningen",
+      "... at det er normal praksis i branchen",
+      "... at I har brug for det til jeres marketing",
+      "... eksplicit samtykke eller en dokumenteret interesseafvejning (LIA)"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! Samtykke eller en dokumenteret LIA er det sikreste grundlag. 'Det plejer vi at gøre' er ikke et lovligt grundlag."
+  },
+  {
+    "title": "Scenarie: GDPR ved åben fremvisning",
+    "body": "I ønsker at bruge en AI-app til at registrere navn, e-mail og telefonnummer på alle der møder op til en åben fremvisning. Appen analyserer efterfølgende hvem der er mest tilbøjelige til at købe.",
+    "question": "Hvad skal I sørge for, inden I tager appen i brug ved fremvisningen?",
+    "options": [
+      "Ingenting – folk er klar over, at de registreres, når de møder op",
+      "At informere de fremmødte om databehandlingen og sikre et lovligt grundlag – fx samtykke ved registreringen",
+      "At sende alle data direkte videre til jeres marketingsystem uden yderligere behandling",
+      "At slette alle data igen inden 24 timer"
+    ],
+    "correct": 1,
+    "explanation": "Præcis! I skal informere (transparens) og have et lovligt grundlag – fx et lille samtykke-felt ved registreringen. Det tager to sekunder og beskytter jer."
+  },
+  {
+    "title": "DPA med AI-leverandører",
+    "body": "Når I giver en AI-leverandør adgang til persondata (fx boligbilleder med sælgers ejendele, eller kundekontaktinfo til lead scoring), er leverandøren jeres <b>databehandler</b>.<br><br>I er dermed ansvarlige for at sikre, at der er en gyldig <b>databehandleraftale (DPA)</b> på plads – og det er jeres ansvar, ikke leverandørens.",
+    "question": "Hvem er ansvarlig for at sikre, at der er en DPA med et AI-værktøj I bruger til at behandle kundedata?",
+    "options": [
+      "Kun AI-leverandøren",
+      "Datatilsynet",
+      "Danbolig som dataansvarlig",
+      "Ingen – DPA er frivillig"
+    ],
+    "correct": 2,
+    "explanation": "Korrekt! I er dataansvarlige og dermed ansvarlige for at have DPA'en på plads. Det er ikke noget, der ordner sig selv."
+  },
+  {
+    "title": "Hvad sker der hvis data sendes til USA uden SCC?",
+    "body": "Mange AI-value-staging- og tekstgenereringsværktøjer er amerikanske (fx baseret på OpenAI, Google, AWS). Det betyder, at data kan overføres til et tredjeland uden for EU.<br><br>Overførslen er kun lovlig, hvis der er <b>Standard Contractual Clauses (SCC)</b> eller anden godkendt mekanisme på plads.",
+    "question": "Hvad sker der, hvis I bruger et AI-staging-værktøj der sender persondata til USA uden SCC?",
+    "options": [
+      "I overtræder GDPR og risikerer bøder – overførslen til tredjelande uden SCC er ulovlig",
+      "Det er uproblematisk – USA har stærke databeskyttelseslove",
+      "Det er kun et problem, hvis nogen klager",
+      "SCC er kun nødvendigt for mediebranchen"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt! Overførsler til tredjelande kræver en godkendt mekanisme som SCC. Tjek det, inden I onboarder et nyt AI-værktøj."
+  },
+  {
+    "title": "Scenarie: Databreach hos AI-leverandøren",
+    "body": "Det er mandag morgen. I modtager en e-mail fra jeres AI-virtual-staging-leverandør: de har haft et hackerangreb, og billeder fra 500 boliger – inkl. indretningsmæssige detaljer fra sælgers private hjem – er lækket.",
+    "question": "Hvad gør I nu?",
+    "options": [
+      "Venter og ser om det kommer i medierne",
+      "Kun informerer de berørte sælgere og stopper der",
+      "Sletter alle jeres data hos leverandøren og håber det bedste",
+      "Anmelder bruddet til Datatilsynet inden 72 timer og vurderer om de berørte sælgere skal informeres direkte"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! Anmeldelse til Datatilsynet inden 72 timer er lovpligtig, hvis bruddet udgør en risiko for de registrerede. Og I bør informere de berørte, hvis der er høj risiko."
+  },
+  {
+    "title": "Retten til at blive glemt",
+    "body": "En sælger kan kræve, at oplysninger om dem og deres bolig fjernes fra jeres systemer og hjemmeside – <b>selv efter salget er gennemført</b>.<br><br>I skal have en klar intern proces for at håndtere sådanne anmodninger. Typisk gælder svarfristen <b>én måned</b>. Data I er lovpligtige til at beholde (fx regnskabsdata) er undtaget.",
+    "question": "Hvad gælder for retten til at blive glemt i ejendomsmægling?",
+    "options": [
+      "Den gælder kun for aktive boligsager",
+      "En sælger kan kræve sletning af oplysninger om dem – også efter salget er gennemført, medmindre I har en lovpligtig grund til at beholde dem",
+      "Det er kun relevant for købere, ikke sælgere",
+      "I kan altid afvise anmodningen, hvis det er upraktisk"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! Retten til sletning gælder også efter salget. Undtagelsen er data I er juridisk forpligtede til at beholde – fx regnskabsdata."
+  },
+  {
+    "title": "Retten til indsigt – find fejlen",
+    "body": "En køber har ret til at se, <b>hvilke personoplysninger I har gemt om dem</b>, hvordan de bruges, og hvem de deles med. I skal svare inden for én måned.<br><br>En kollega fortæller jer om sin praksis. Hvilken af følgende påstande er <b>ikke korrekt</b>?",
+    "question": "Hvilken af følgende påstande om retten til indsigt er IKKE korrekt?",
+    "options": [
+      "En køber kan kræve at se, hvilke data I har gemt om dem",
+      "I skal besvare en indsigtsanmodning inden for én måned",
+      "Retten til indsigt gælder kun for kunder der stadig aktivt søger bolig hos jer",
+      "Indsigtsanmodninger kan ikke afvises uden en gyldig begrundelse"
+    ],
+    "correct": 2,
+    "explanation": "Præcis – den tredje er forkert! Retten til indsigt gælder uanset om personen stadig er aktiv kunde. Den ophører ikke automatisk ved salg eller inaktivitet."
+  },
+  {
+    "title": "Sorter: GDPR-tjekliste for nyt AI-værktøj",
+    "body": "Når I vil onboarde et nyt AI-virtual-staging-værktøj, er der en klar <b>rækkefølge</b> for hvad I skal tjekke – inden I begynder at uploade billeder og sælgerdata.",
+    "type": "drag",
+    "question": "Sorter disse GDPR-trin i korrekt rækkefølge, når I onboarder et nyt AI-staging-værktøj:",
+    "items": [
+      "Brug værktøjet til at stage jeres første bolig",
+      "Tjek at leverandøren har en gyldig DPA",
+      "Informér sælger om at AI-staging bruges og marker billeder som 'virtually staged'",
+      "Verificér om data sendes ud af EU og om SCC er på plads"
+    ],
+    "correct_order": [1, 3, 2, 0],
+    "explanation": "Korrekt rækkefølge: (1) DPA på plads → (2) Tjek SCC/dataoverførsler → (3) Informér sælger → (4) Tag værktøjet i brug. Aldrig omvendt."
+  },
+  {
+    "title": "Transparens – fortæl når I bruger AI",
+    "body": "Det er god praksis – og i mange tilfælde et <b>GDPR-krav</b> – at være åben om, hvornår I bruger AI:<br><br>- Marker virtual staging-billeder tydeligt som <b>\"virtually staged\"</b><br>- Fortæl sælgere, hvis AI analyserer oplysninger om dem<br>- Vær ærlig over for købere om AI-genereret indhold<br><br>Transparens bygger tillid – præcis som Danboligs værdier.",
+    "question": "Hvad er det vigtigste at huske om transparens ved AI-brug i ejendomsmægling?",
+    "options": [
+      "Fortæl altid hvornår I bruger AI – særligt ved billeder og analyser der påvirker kunderne",
+      "Transparens er kun relevant i reklamemateriale",
+      "Det er nok at have en DPA – I behøver ikke informere kunderne direkte",
+      "Transparens er frivillig og afhænger af hvad konkurrenterne gør"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt! Transparens er både et GDPR-krav og en forretningsstrategi. Kunder der ved, hvad de ser, stoler mere på jer."
+  },
+  {
+    "title": "Dine 3 sikre GDPR-vaner som mægler",
+    "body": "Tre enkle vaner beskytter jer og jeres kunder i hverdagen:<br><br>1. <b>Spørg altid:</b> 'Har jeg lovligt grundlag for at bruge denne data med AI?'<br>2. <b>Brug kun godkendte AI-værktøjer</b> – dem med en gyldig DPA<br>3. <b>Dokumentér jeres beslutninger</b> – så I kan vise, at I har overholdt reglerne",
+    "question": "En af de tre GDPR-vaner er: 'Brug kun AI-værktøjer der har en gyldig ___'",
+    "options": [
+      "... SSL-certifikat",
+      "... ISO 27001-certificering",
+      "... gratis abonnementstier",
+      "... DPA (databehandleraftale)"
+    ],
+    "correct": 3,
+    "explanation": "Korrekt! DPA er grundkravet. Uden en gyldig DPA må I ikke bruge leverandøren til at behandle persondata."
+  },
+  {
+    "title": "Praktisk: Virtual staging step-by-step",
+    "body": "Det er nemmere at komme i gang end de fleste tror. Her er processen:<br><br>1. <b>Upload</b> et billede af det tomme rum<br>2. <b>Vælg stil</b> (moderne, skandinavisk, familievenlig, luksus)<br>3. <b>Få resultatet</b> på 10-30 sekunder<br>4. <b>Marker billedet</b> som 'virtually staged' i annoncen",
+    "question": "Hvad er det første konkrete skridt, når I bruger AI virtual staging?",
+    "options": [
+      "At købe nye møbler til boligen",
+      "At uploade et billede af et tomt rum til AI-værktøjet",
+      "At hyre en indretningsarkitekt",
+      "At slette alle eksisterende boligfotos"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! Upload, vælg stil, få resultat. Det tager under et minut – og resultatet kan bruges direkte i annoncen."
+  },
+  {
+    "title": "Praktisk: Skriv boligbeskrivelse på 2 minutter",
+    "body": "AI-boligbeskrivelser handler om at give AI det rigtige input. Jo mere konkret prompten er, jo bedre tekst får I.<br><br><b>God prompt:</b><br><code>\"Skriv en varm, familievenlig boligbeskrivelse på 150 ord til en 4-værelses villa i Roskilde med have, dobbelgarage og 5 min til tog. Fremhæv ro og grønne omgivelser.\"</code>",
+    "question": "Hvad er den vigtigste faktor for at få en god AI-boligbeskrivelse?",
+    "options": [
+      "At bruge det dyreste AI-abonnement",
+      "At skrive prompten på engelsk",
+      "At give AI konkrete og specifikke oplysninger om boligen og ønsket tone",
+      "At bede AI om at kopiere tekst fra en anden annonce"
+    ],
+    "correct": 2,
+    "explanation": "Præcis! Konkrete input giver konkrete, brugbare tekster. 'Skriv om en bolig' giver generisk output. 'Skriv om en villa i Roskilde med...' giver noget I kan bruge."
+  },
+  {
+    "title": "Hvad sker der hvis AI-energiestimater ikke valideres?",
+    "body": "AI kan analysere en boligs energimærke og foreslå renoveringstiltag med estimerede besparelser – fx 'Efterisolering af loft: -4.200 kr/år i varme'.<br><br>Det er et stærkt salgsargument i et marked med fokus på bæredygtighed. Men AI-estimater er altid <b>vejledende</b> – ikke garanterede besparelser.",
+    "question": "Hvad sker der, hvis I præsenterer AI-genererede renoveringsbesparelser for en sælger, uden at have valideret tallene?",
+    "options": [
+      "I risikerer at give forkerte estimater, som kan skabe forventningsbrist og skade tilliden – sælger kan føle sig vildledt",
+      "Ingenting – AI er altid præcis på energidata",
+      "Det er sælgerens eget ansvar at tjekke AI-tallene",
+      "AI-genererede energiestimater er juridisk bindende og dækkes af forsikringen"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt! AI-estimater er startpunkter – ikke garantier. Valider altid med faktiske energimærkedata eller en fagperson inden I deler dem med kunden."
+  },
+  {
+    "title": "Scenarie: AI til naboinformation",
+    "body": "En køber spørger under fremvisningen: 'Hvad er området her egentlig som?' I har brugt AI til at samle data om skoler, transport, butikker og støjniveauer i området.<br><br>Salgsparet har to skolebørn og nævnte, at god folkeskole er afgørende for dem.",
+    "question": "Hvad er den mest værdifulde respons fra mægleren?",
+    "options": [
+      "At sige: 'AI har lavet analysen, så jeg ved ikke præcis hvad der står'",
+      "At nævne priserne på naboejendommene",
+      "At fokusere på mulige problemer i området for at sætte forventningerne ned",
+      "At fremhæve den lokale folkeskoles karakterer og afstanden til den – præcis det parret spurgte om"
+    ],
+    "correct": 3,
+    "explanation": "Præcis! AI giver jer rå data – jeres job er at oversætte det til det, der er relevant for <em>denne</em> køber. Det er den personlige service AI aldrig kan erstatte."
+  },
+  {
+    "title": "AVM – boligprisforudsigelse med AI",
+    "body": "En <b>Automated Valuation Model (AVM)</b> er et AI-system der estimerer boligværdien baseret på data: beliggenhed, areal, energimærke, seneste handler i området og markedstrends.",
+    "code": "AVM-estimat:                3.200.000 kr\nMæglerpris (foreslået):     3.400.000 kr\nPrisforskel:                  200.000 kr",
+    "bodyAfter": "Spørgsmål: Hvad er mæglerprisens procentvise afvigelse fra AVM-estimatet?",
+    "question": "Hvad er mæglerprisens procentvise afvigelse fra AVM-estimatet?",
+    "options": [
+      "4,0 %",
+      "6,25 %",
+      "8,0 %",
+      "10,0 %"
+    ],
+    "correct": 1,
+    "explanation": "Rigtigt! 200.000 / 3.200.000 = 6,25 %. En god AVM-analyse giver mægleren et fagligt funderet udgangspunkt til prisdiskussionen med sælgeren."
+  },
+  {
+    "title": "AI til kontrakt- og dokumentanalyse",
+    "body": "AI kan hjælpe med at <b>gennemgå kontrakter og dokumenter hurtigt</b> – fremhæve vigtige klausuler, usædvanlige vilkår og manglende elementer.<br><br>Det er et værdifuldt støtteværktøj til mæglere – men det erstatter <em>ikke</em> juridisk rådgivning. Og persondata i kontrakter må kun behandles med AI, hvis I har lovligt grundlag.",
+    "question": "Hvad kan AI hjælpe med ved kontraktgennemgang?",
+    "options": [
+      "Underskrive kontrakter automatisk på vegne af parterne",
+      "Erstatte advokater og juridisk rådgivning",
+      "Hurtigt fremhæve vigtige punkter og usædvanlige vilkår som støtte til mægleren",
+      "Garantere at kontrakten er fejlfri"
+    ],
+    "correct": 2,
+    "explanation": "Præcis! AI er en hurtig og billig første gennemgang – men mægleren og advokaten skal stadig tage det endelige ansvar."
+  },
+  {
+    "title": "Find fejlen: Hvornår går AI-brug galt?",
+    "body": "En kollega beskriver sin daglige brug af AI. Tre af de følgende fremgangsmåder er fine – men én er problematisk.<br><br>Kig godt efter: hvad bør I <em>ikke</em> gøre?",
+    "question": "Hvilken af følgende fremgangsmåder er problematisk?",
+    "options": [
+      "AI-boligbeskrivelse publiceres direkte til portalen uden at mægleren har læst den igennem",
+      "Mægleren tjekker AI-genereret tekst for faktuelle fejl inden publicering",
+      "Virtual staging-billeder markeres tydeligt som 'virtually staged' i annoncen",
+      "Mægleren bruger et AI-værktøj der har en gyldig DPA"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt – det er en fejl! AI kan hallucinere fakta (forkert antal rum, fejl i afstande, osv.). Mægleren bærer det professionelle ansvar og skal altid godkende teksten inden publicering."
+  },
+  {
+    "title": "Scenarie: Personlig AI-markedsføring",
+    "body": "Jeres system viser, at en bestemt interesseret har klikket på 12 villaer med pool de seneste 3 måneder. I har netop fået en ny villa med pool til salg – og overvejer at kontakte dem direkte.",
+    "question": "Hvad er den mest ansvarlige fremgangsmåde?",
+    "options": [
+      "Sende en generisk nyhedsmail om alle nye boliger",
+      "Dele interessentens oplysninger med en samarbejdspartner uden at spørge",
+      "Ignorere søgehistorikken og behandle alle ens",
+      "Sende en personlig besked om den nye villa – men kun hvis I har et gyldigt lovligt grundlag for at kontakte dem"
+    ],
+    "correct": 3,
+    "explanation": "Præcis! Personlig markedsføring baseret på adfærdsdata er kraftfuldt – men kræver lovligt grundlag. Tjek grundlaget inden I sender."
+  },
+  {
+    "title": "Hvad sker der hvis AI-chatbotten svarer forkert?",
+    "body": "En AI-chatbot kan svare på spørgsmål om boliger, åbningstider og processen <b>24 timer i døgnet</b>. Det frigør mæglere fra gentagne spørgsmål og fanger leads uden for åbningstid.<br><br>Men hvad hvis chatbotten lover noget forkert – fx at en kælder er tør, når den faktisk er fugtig?",
+    "question": "Hvad sker der, hvis jeres AI-chatbot giver en køber forkerte faktuelle oplysninger om en bolig?",
+    "options": [
+      "Ingenting – chatbotten er ikke juridisk ansvarlig",
+      "Det kan skabe misforståelser og tillidssvigt, og I bærer ansvaret for chatbottens svar",
+      "Det er kun et problem, hvis kunden screenshotter det",
+      "Chatbotten kan juridisk set ikke sige noget bindende"
+    ],
+    "correct": 1,
+    "explanation": "Korrekt! I er ansvarlige for hvad jeres chatbot siger. Implementér en klar ansvarsfraskrivelse og sørg for at chatbotten kun svarer på det den er instrueret i."
+  },
+  {
+    "title": "AI til sociale medier og markedsføring",
+    "body": "AI kan hjælpe marketingafdelingen med:<br><br>- <b>Generere idéer</b> til opslag baseret på aktuelle boliger eller sæson<br>- <b>Skrive tekster</b> til LinkedIn, Facebook og Instagram<br>- <b>Foreslå optimale postetidspunkter</b> baseret på engagement-data<br><br>Det holder Danbolig synlig og aktiv – uden at det koster ekstra tid.",
+    "question": "Hvad er en konkret fordel ved AI til sociale medier for en ejendomsmæglerkæde?",
+    "options": [
+      "AI kan poste automatisk uden menneskelig godkendelse",
+      "AI kan erstatte hele marketingafdelingen",
+      "AI kan generere idéer og udkast hurtigt, så I er konstant synlige med mindre tidsforbrug",
+      "AI kan garantere, at alle opslag går viralt"
+    ],
+    "correct": 2,
+    "explanation": "Rigtigt! AI er et kraftigt redskab til at holde en aktiv og professionel tilstedeværelse – men menneskelig godkendelse og stemme er stadig vigtig."
+  },
+  {
+    "title": "Find fejlen: Etik i AI-brug",
+    "body": "AI i ejendomsmægling er et magtfuldt redskab – men det medfører etisk ansvar. Ikke alle former for AI-brug er acceptable, selvom de teknisk set er mulige.<br><br>En mægler beskriver fire ting, han bruger AI til. Hvilken er etisk problematisk?",
+    "question": "Hvilken af følgende AI-brugstilfælde er etisk problematisk?",
+    "options": [
+      "At filtrere leads baseret på demografiske faktorer som etnisk baggrund eller alder",
+      "At markere AI-genererede billeder tydeligt som 'virtually staged'",
+      "At bruge AI til at fremhæve en boligs bedste sider i beskrivelsen",
+      "At bruge en godkendt AI-chatbot til at besvare faktuelle spørgsmål om boliger"
+    ],
+    "correct": 0,
+    "explanation": "Korrekt! Diskriminerende filtrering baseret på etnicitet, alder eller andre beskyttede karakteristika er både uetisk og ulovligt under GDPR og ligebehandlingslovgivningen. AI må ikke bruges til dette."
+  },
+  {
+    "title": "Næste skridt for Danbolig",
+    "body": "I er nu godt rustet til at komme i gang. En god startplan ser sådan ud:<br><br>1. <b>Pilot:</b> Test virtual staging på 5-10 boliger og mål effekten på fremvisningstal<br>2. <b>Træning:</b> Giv alle mæglere en simpel AI-prompt-guide til boligbeskrivelser<br>3. <b>Compliance:</b> Gennemgå alle AI-værktøjer I bruger og sikr DPA og SCC<br>4. <b>Skalering:</b> Udvid med lead scoring og chatbot, når piloten er lykkedes",
+    "question": "Hvad anbefales som det bedste første skridt for Danbolig?",
+    "options": [
+      "At implementere alle AI-løsninger på én gang for at spare tid",
+      "At erstatte alle mæglere med AI inden udgangen af året",
+      "At vente på at konkurrenterne har testet det færdigt",
+      "At starte med en kontrolleret pilot – fx virtual staging på 5-10 boliger – og måle effekten inden man skalerer"
+    ],
+    "correct": 3,
+    "explanation": "Præcis! Lille, målbar pilot giver hurtig indsigt og minimerer risiko. Data fra piloten giver også interne ambassadører der kan hjælpe med at udbrede det i kæden."
+  },
+  {
+    "title": "I har styr på AI og GDPR i ejendomsmægling!",
+    "body": "Tillykke – I har gennemført hele modulet! 🎉<br><br>I ved nu, at AI kan:<br>- Spare jer tid og penge på <b>virtual staging</b>, tekster og opfølgning<br>- Give jer smartere prioritering med <b>lead scoring</b><br>- Gøre jeres kundeservice bedre med <b>chatbots og personalisering</b><br><br>Og I ved, at I kan bruge AI <b>trygt og lovligt</b>, hvis I sikrer lovligt grundlag, DPA og transparens over for kunderne.",
+    "question": "Hvad er det vigtigste I tager med fra dette modul?",
+    "options": [
+      "GDPR er kun relevant for IT-afdelingen",
+      "AI er et kraftfuldt redskab – og det kan bruges trygt i ejendomsmægling, hvis I har styr på lovligt grundlag, DPA og transparens",
+      "I må bruge alle data frit, når I har betalt for et AI-abonnement",
+      "Virtual staging er kun for luksusboliger"
+    ],
+    "correct": 1,
+    "explanation": "Perfekt! Det er præcis det – AI og GDPR er ikke modsætninger. Med de rigtige vaner kan I bruge AI til at sælge flere boliger smartere, hurtigere og tryggere. Godt gået!"
+  }
+]
