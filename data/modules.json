@@ -63,5 +63,10 @@
     "id": "gdpr-reklame-medier",
     "title": "GDPR og AI i reklame og medier",
     "desc": "Hvad du må og ikke må med persondata, når AI driver targeting, profilering og indhold."
+  },
+  {
+    "id": "danbolig-ai-gdpr",
+    "title": "AI og GDPR i ejendomsmægling – Praktisk guide til Danbolig",
+    "desc": "Virtual staging, AI-tekster, lead scoring og GDPR – praktisk viden til Danbolig-mæglere."
   }
 ]
